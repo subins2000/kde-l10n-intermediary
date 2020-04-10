@@ -1,0 +1,4437 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-09-21 01:40+0000\n"
+"PO-Revision-Date: 2005-12-20 15:48+0530\n"
+"Last-Translator: Vijay Kiran Kamuju <infyquest@gmail.com>\n"
+"Language-Team: TELUGU <kde-i18n-doc@kde.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: data/currency/adf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Andorra"
+msgctxt "Name"
+msgid "Andorran Franc"
+msgstr "ఎండొర్రా"
+
+#: data/currency/adp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Andorra"
+msgctxt "Name"
+msgid "Andorran Peseta"
+msgstr "ఎండొర్రా"
+
+#: data/currency/aed.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United Arab Emirates"
+msgctxt "Name"
+msgid "United Arab Emirates Dirham"
+msgstr "యునైటడ్ అరబ్ ఎమిరేట్స్"
+
+#: data/currency/afa.desktop:5 data/currency/afn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Afghanistan"
+msgctxt "Name"
+msgid "Afghan Afghani"
+msgstr "అఫ్ఘనిస్థాన్"
+
+#: data/currency/all.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Albanian"
+msgctxt "Name"
+msgid "Albanian Lek"
+msgstr "అల్బేనియన్"
+
+#: data/currency/amd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Armenian"
+msgctxt "Name"
+msgid "Armenian Dram"
+msgstr "అర్మెనియన్"
+
+#: data/currency/ang.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Netherlands Antilles"
+msgctxt "Name"
+msgid "Netherlands Antillean Guilder"
+msgstr "నెదెర్లెండ్స్ ఎంటిల్లెస్"
+
+#: data/currency/aoa.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Angolan Kwanza"
+msgstr "మంగోలియన్"
+
+#: data/currency/aon.desktop:5
+msgctxt "Name"
+msgid "Angolan Novo Kwanza"
+msgstr ""
+
+#: data/currency/ars.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Argentina"
+msgctxt "Name"
+msgid "Argentine Peso"
+msgstr "అర్జెంటినా"
+
+#: data/currency/ats.desktop:5
+msgctxt "Name"
+msgid "Austrian Schilling"
+msgstr ""
+
+#: data/currency/aud.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Australian Dollar"
+msgstr "ఇటాలియన్"
+
+#: data/currency/awg.desktop:5
+msgctxt "Name"
+msgid "Aruban Florin"
+msgstr ""
+
+#: data/currency/azm.desktop:5 data/currency/azn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Azerbaijani"
+msgctxt "Name"
+msgid "Azerbaijani Manat"
+msgstr "అజెర్ బైజాని"
+
+#: data/currency/bam.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bosnia and Herzegovina"
+msgctxt "Name"
+msgid "Bosnia and Herzegovina Convertible Mark"
+msgstr "బొస్నియా మరయూ హెర్జెగొవినా"
+
+#: data/currency/bbd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Barbados"
+msgctxt "Name"
+msgid "Barbados Dollar"
+msgstr "బార్బాడొస్"
+
+#: data/currency/bdt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bangladesh"
+msgctxt "Name"
+msgid "Bangladeshi Taka"
+msgstr "బాంగ్లాదెష్"
+
+#: data/currency/bef.desktop:5
+msgctxt "Name"
+msgid "Belgian Franc"
+msgstr ""
+
+#: data/currency/bgl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bulgarian"
+msgctxt "Name"
+msgid "Bulgarian Lev A/99"
+msgstr "బల్గెరియన్"
+
+#: data/currency/bgn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bulgarian"
+msgctxt "Name"
+msgid "Bulgarian Lev"
+msgstr "బల్గెరియన్"
+
+#: data/currency/bhd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bahrain"
+msgctxt "Name"
+msgid "Bahraini Dinar"
+msgstr "బహ్రైన్"
+
+#: data/currency/bif.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Rundi"
+msgctxt "Name"
+msgid "Burundian Franc"
+msgstr "రుండి"
+
+#: data/currency/bmd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bermuda"
+msgctxt "Name"
+msgid "Bermuda Dollar"
+msgstr "బెర్ముడా"
+
+#: data/currency/bnd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Brunei Darussalam"
+msgctxt "Name"
+msgid "Brunei Dollar"
+msgstr "బ్రునై"
+
+#: data/currency/bob.desktop:5
+msgctxt "Name"
+msgid "Bolivian Boliviano"
+msgstr ""
+
+#: data/currency/bov.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bolivia"
+msgctxt "Name"
+msgid "Bolivian Mvdol"
+msgstr "బొలివియా"
+
+#: data/currency/brl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Brazilian Portuguese"
+msgctxt "Name"
+msgid "Brazilian Real"
+msgstr "బ్రాజిలియన్ పోర్ట్యుగీస్"
+
+#: data/currency/bsd.desktop:5
+msgctxt "Name"
+msgid "Bahamian Dollar"
+msgstr ""
+
+#: data/currency/btn.desktop:5
+msgctxt "Name"
+msgid "Bhutanese Ngultrum"
+msgstr ""
+
+#: data/currency/bwp.desktop:6
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tswana"
+msgctxt "Name"
+msgid "Botswana Pula"
+msgstr "స్వానా"
+
+#: data/currency/byr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarusian Ruble"
+msgstr "బెలరషియన్"
+
+#: data/currency/bzd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belize"
+msgctxt "Name"
+msgid "Belize Dollar"
+msgstr "బెలిజ్"
+
+#: data/currency/cad.desktop:5
+msgctxt "Name"
+msgid "Canadian Dollar"
+msgstr ""
+
+#: data/currency/cdf.desktop:5
+msgctxt "Name"
+msgid "Congolese Franc"
+msgstr ""
+
+#: data/currency/chf.desktop:5
+msgctxt "Name"
+msgid "Swiss Franc"
+msgstr ""
+
+#: data/currency/clf.desktop:5
+msgctxt "Name"
+msgid "Chilean Unidad de Fomento"
+msgstr ""
+
+#: data/currency/clp.desktop:5
+msgctxt "Name"
+msgid "Chilean Peso"
+msgstr ""
+
+#: data/currency/cny.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Chinese"
+msgctxt "Name"
+msgid "Chinese Yuan"
+msgstr "చైనీస్"
+
+#: data/currency/cop.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Colombia"
+msgctxt "Name"
+msgid "Colombian Peso"
+msgstr "కొలంబియా"
+
+#: data/currency/cou.desktop:5
+msgctxt "Name"
+msgid "Colombian Unidad de Valor Real"
+msgstr ""
+
+#: data/currency/crc.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Costa Rica"
+msgctxt "Name"
+msgid "Costa Rican Colon"
+msgstr "కొస్టా రికా"
+
+#: data/currency/cuc.desktop:5
+msgctxt "Name"
+msgid "Cuban Convertible Peso"
+msgstr ""
+
+#: data/currency/cup.desktop:5
+msgctxt "Name"
+msgid "Cuban Peso"
+msgstr ""
+
+#: data/currency/cve.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cape Verde"
+msgctxt "Name"
+msgid "Cape Verde Escudo"
+msgstr "కెప్ వెర్డె"
+
+#: data/currency/cyp.desktop:5
+msgctxt "Name"
+msgid "Cypriot Pound"
+msgstr ""
+
+#: data/currency/czk.desktop:5
+msgctxt "Name"
+msgid "Czech Koruna"
+msgstr ""
+
+#: data/currency/dem.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "German"
+msgctxt "Name"
+msgid "German Mark"
+msgstr "జెర్మన్"
+
+#: data/currency/djf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Djibouti"
+msgctxt "Name"
+msgid "Djibouti Franc"
+msgstr "జిబౌటి"
+
+#: data/currency/dkk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Danish"
+msgctxt "Name"
+msgid "Danish Krone"
+msgstr "డెనిష్"
+
+#: data/currency/dop.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Dominica"
+msgctxt "Name"
+msgid "Dominican Peso"
+msgstr "డొమినికా"
+
+#: data/currency/dzd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Algeria"
+msgctxt "Name"
+msgid "Algerian Dinar"
+msgstr "అల్జీరియా"
+
+#: data/currency/eek.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Estonian"
+msgctxt "Name"
+msgid "Estonian Kroon"
+msgstr "ఎస్టొనియన్"
+
+#: data/currency/egp.desktop:5
+msgctxt "Name"
+msgid "Egyptian Pound"
+msgstr ""
+
+#: data/currency/ern.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Eritrea"
+msgctxt "Name"
+msgid "Eritrean Nakfa"
+msgstr "ఎరిట్రియా"
+
+#: data/currency/esp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Spanish"
+msgctxt "Name"
+msgid "Spanish Peseta"
+msgstr "స్పెనిష్"
+
+#: data/currency/etb.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ethiopia"
+msgctxt "Name"
+msgid "Ethiopian Birr"
+msgstr "ఇథియొపియా"
+
+#: data/currency/eur.desktop:6
+msgctxt "Name"
+msgid "Euro"
+msgstr ""
+
+#: data/currency/fim.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Finnish"
+msgctxt "Name"
+msgid "Finnish Markka"
+msgstr "ఫిన్నిష్"
+
+#: data/currency/fjd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Fijian"
+msgctxt "Name"
+msgid "Fijian Dollar"
+msgstr "ఫిజియన్"
+
+#: data/currency/fkp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Falkland Islands (Malvinas)"
+msgctxt "Name"
+msgid "Falkland Islands Pound"
+msgstr "ఫాక్ లాండ్ ద్విపాలు (మాల్వినాస్)"
+
+#: data/currency/frf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "French"
+msgctxt "Name"
+msgid "French Franc"
+msgstr "ఫ్రెంచ్"
+
+#: data/currency/gbp.desktop:5
+msgctxt "Name"
+msgid "British Pound Sterling"
+msgstr ""
+
+#: data/currency/gel.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Georgian"
+msgctxt "Name"
+msgid "Georgian Lari"
+msgstr "జార్జియన్"
+
+#: data/currency/ghc.desktop:5
+msgctxt "Name"
+msgid "Ghanaian Cedi"
+msgstr ""
+
+#: data/currency/ghs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ghana"
+msgctxt "Name"
+msgid "Ghana Cedi"
+msgstr "ఘానా"
+
+#: data/currency/gip.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gibraltar"
+msgctxt "Name"
+msgid "Gibraltar Pound"
+msgstr "జిబ్రాల్టర్"
+
+#: data/currency/gmd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gambia"
+msgctxt "Name"
+msgid "Gambian Dalasi"
+msgstr "గాంబియా"
+
+#: data/currency/gnf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guinea"
+msgctxt "Name"
+msgid "Guinean Franc"
+msgstr "గుయ్నియా"
+
+#: data/currency/grd.desktop:5
+msgctxt "Name"
+msgid "Greek Drachma"
+msgstr ""
+
+#: data/currency/gtq.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guatemala"
+msgctxt "Name"
+msgid "Guatemalan Quetzal"
+msgstr "గౌటెమాలా"
+
+#: data/currency/gwp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Guinea-Bissau"
+msgctxt "Name"
+msgid "Guinea-Bissau Peso"
+msgstr "గుయ్నియా-బిస్సౌ"
+
+#: data/currency/gyd.desktop:5
+msgctxt "Name"
+msgid "Guyanese Dollar"
+msgstr ""
+
+#: data/currency/hkd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hong Kong SAR(China)"
+msgctxt "Name"
+msgid "Hong Kong Dollar"
+msgstr "హాంగ్ కాంగ్ (చైనా)"
+
+#: data/currency/hnl.desktop:5
+msgctxt "Name"
+msgid "Honduran Lempira"
+msgstr ""
+
+#: data/currency/hrk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Croatian"
+msgctxt "Name"
+msgid "Croatian Kuna"
+msgstr "క్రొయెషియన్"
+
+#: data/currency/htg.desktop:5
+msgctxt "Name"
+msgid "Haitian Gourde"
+msgstr ""
+
+#: data/currency/huf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hungarian"
+msgctxt "Name"
+msgid "Hungarian Forint"
+msgstr "హంగెరియన్"
+
+#: data/currency/idr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Indonesian"
+msgctxt "Name"
+msgid "Indonesian Rupiah"
+msgstr "ఇన్డొనెషియన్"
+
+#: data/currency/iep.desktop:5
+msgctxt "Name"
+msgid "Irish Pound"
+msgstr ""
+
+#: data/currency/ils.desktop:5
+msgctxt "Name"
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: data/currency/inr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Indexing suspended"
+msgctxt "Name"
+msgid "Indian Rupee"
+msgstr "విషయవర్దీకరణ సంస్పెండ్ చేయబడింది"
+
+#: data/currency/iqd.desktop:5
+msgctxt "Name"
+msgid "Iraqi Dinar"
+msgstr ""
+
+#: data/currency/irr.desktop:5
+msgctxt "Name"
+msgid "Iranian Rial"
+msgstr ""
+
+#: data/currency/isk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icelandic"
+msgctxt "Name"
+msgid "Icelandic Krona"
+msgstr "ఐస్ లేండిక్"
+
+#: data/currency/itl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Italian Lira"
+msgstr "ఇటాలియన్"
+
+#: data/currency/jmd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Jamaica"
+msgctxt "Name"
+msgid "Jamaican Dollar"
+msgstr "జమైకా"
+
+#: data/currency/jod.desktop:5
+msgctxt "Name"
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: data/currency/jpy.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Japanese"
+msgctxt "Name"
+msgid "Japanese Yen"
+msgstr "జపనీస్"
+
+#: data/currency/kes.desktop:5
+msgctxt "Name"
+msgid "Kenyan Shilling"
+msgstr ""
+
+#: data/currency/kgs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kyrgyzstan"
+msgctxt "Name"
+msgid "Kyrgyzstani Som"
+msgstr "కిర్గిస్థాన్"
+
+#: data/currency/khr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cambodia"
+msgctxt "Name"
+msgid "Cambodian Riel"
+msgstr "కంబొడియా"
+
+#: data/currency/kmf.desktop:5
+msgctxt "Name"
+msgid "Comorian Franc"
+msgstr ""
+
+#: data/currency/kpw.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "North Korea"
+msgctxt "Name"
+msgid "North Korean Won"
+msgstr "ఉత్తర కొరియా"
+
+#: data/currency/krw.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "South Korea"
+msgctxt "Name"
+msgid "South Korean Won"
+msgstr "దక్షిణ కొరియా"
+
+#: data/currency/kwd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kuwait"
+msgctxt "Name"
+msgid "Kuwaiti Dinar"
+msgstr "కువైట్"
+
+#: data/currency/kyd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Cayman Islands"
+msgctxt "Name"
+msgid "Cayman Islands Dollar"
+msgstr "కెమెన్ ద్విపాలు"
+
+#: data/currency/kzt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kazakh"
+msgctxt "Name"
+msgid "Kazakhstani Tenge"
+msgstr "కజాఖ్"
+
+#: data/currency/lak.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Laptop"
+msgctxt "Name"
+msgid "Lao Kip"
+msgstr "లాప్ టాప్"
+
+#: data/currency/lbp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lebanon"
+msgctxt "Name"
+msgid "Lebanese Pound"
+msgstr "లెబెనాన్"
+
+#: data/currency/lkr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sri Lanka"
+msgctxt "Name"
+msgid "Sri Lankan Rupee"
+msgstr "శ్రీ లంక"
+
+#: data/currency/lrd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Liberia"
+msgctxt "Name"
+msgid "Liberian Dollar"
+msgstr "లైబీరియా"
+
+#: data/currency/lsl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lesotho"
+msgctxt "Name"
+msgid "Lesotho Loti"
+msgstr "లెసొథొ"
+
+#: data/currency/ltl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Lithuanian Litas"
+msgstr "లితువెనియన్"
+
+#: data/currency/luf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Luxembourgish"
+msgctxt "Name"
+msgid "Luxembourgish Franc"
+msgstr "లక్సెంబర్గిష్"
+
+#: data/currency/lvl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Latvian"
+msgctxt "Name"
+msgid "Latvian Lats"
+msgstr "లాటివ్యన్"
+
+#: data/currency/lyd.desktop:5
+msgctxt "Name"
+msgid "Libyan Dinar"
+msgstr ""
+
+#: data/currency/mad.desktop:5
+msgctxt "Name"
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: data/currency/mdl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moldavian"
+msgctxt "Name"
+msgid "Moldovan Leu"
+msgstr "మొల్దావియన్"
+
+#: data/currency/mga.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malagasy"
+msgctxt "Name"
+msgid "Malagasy Ariary"
+msgstr "మలగాసి"
+
+#: data/currency/mgf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malagasy"
+msgctxt "Name"
+msgid "Malagasy Franc"
+msgstr "మలగాసి"
+
+#: data/currency/mkd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "Macedonian Denar"
+msgstr "మసిడొనియన్"
+
+#: data/currency/mlf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "France"
+msgctxt "Name"
+msgid "Mali Franc"
+msgstr "ఫ్రాంస్"
+
+#: data/currency/mmk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Myanmar"
+msgctxt "Name"
+msgid "Myanma Kyat"
+msgstr "మ్యాన్మార్"
+
+#: data/currency/mnt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Mongolian Tugrik"
+msgstr "మంగోలియన్"
+
+#: data/currency/mop.desktop:5
+msgctxt "Name"
+msgid "Macanese Pataca"
+msgstr ""
+
+#: data/currency/mro.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Mauritanian Ouguiya"
+msgstr "లితువెనియన్"
+
+#: data/currency/mtl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Maltese"
+msgctxt "Name"
+msgid "Maltese Lira"
+msgstr "మాల్టీస్"
+
+#: data/currency/mur.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mauritius"
+msgctxt "Name"
+msgid "Mauritius Rupee"
+msgstr "మారీషియస్"
+
+#: data/currency/mvr.desktop:5
+msgctxt "Name"
+msgid "Maldivian Rufiyaa"
+msgstr ""
+
+#: data/currency/mwk.desktop:5
+msgctxt "Name"
+msgid "Malawian Kwacha"
+msgstr ""
+
+#: data/currency/mxn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mexico"
+msgctxt "Name"
+msgid "Mexican Peso"
+msgstr "మెక్సికొ"
+
+#: data/currency/mxv.desktop:5
+msgctxt "Name"
+msgid "Mexican Unidad de Inversion"
+msgstr ""
+
+#: data/currency/myr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malay"
+msgctxt "Name"
+msgid "Malaysian Ringgit"
+msgstr "మలయ"
+
+#: data/currency/mzm.desktop:5 data/currency/mzn.desktop:5
+msgctxt "Name"
+msgid "Mozambican Metical"
+msgstr ""
+
+#: data/currency/nad.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Namibia"
+msgctxt "Name"
+msgid "Namibian Dollar"
+msgstr "నమిబియా"
+
+#: data/currency/ngn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Nigeria"
+msgctxt "Name"
+msgid "Nigerian Naira"
+msgstr "నైజీరియా"
+
+#: data/currency/nio.desktop:5
+msgctxt "Name"
+msgid "Nicaraguan Cordoba Oro"
+msgstr ""
+
+#: data/currency/nlg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Netherlands Antilles"
+msgctxt "Name"
+msgid "Netherlands Guilder"
+msgstr "నెదెర్లెండ్స్ ఎంటిల్లెస్"
+
+#: data/currency/nok.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Norwegian Bokmål"
+msgctxt "Name"
+msgid "Norwegian Krone"
+msgstr "నార్వీజియన్ బోక్మాల్"
+
+#: data/currency/npr.desktop:5
+msgctxt "Name"
+msgid "Nepalese Rupee"
+msgstr ""
+
+#: data/currency/nzd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "New Zealand"
+msgctxt "Name"
+msgid "New Zealand Dollar"
+msgstr "న్యుజీలాండ్"
+
+#: data/currency/omr.desktop:5
+msgctxt "Name"
+msgid "Omani Rial"
+msgstr ""
+
+#: data/currency/pab.desktop:5
+msgctxt "Name"
+msgid "Panamanian Balboa"
+msgstr ""
+
+#: data/currency/pen.desktop:5
+msgctxt "Name"
+msgid "Peruvian Nuevo Sol"
+msgstr ""
+
+#: data/currency/pgk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Papua New Guinea"
+msgctxt "Name"
+msgid "Papua New Guinean Kina"
+msgstr "పాపువా న్యు గుయ్నియ"
+
+#: data/currency/php.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Philippines"
+msgctxt "Name"
+msgid "Philippine Peso"
+msgstr "ఫిలిపీన్స్"
+
+#: data/currency/pkr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Pakistan"
+msgctxt "Name"
+msgid "Pakistan Rupee"
+msgstr "పాకిస్థాన్"
+
+#: data/currency/pln.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Polish"
+msgctxt "Name"
+msgid "Polish Zloty"
+msgstr "పోలిష్"
+
+#: data/currency/pte.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Portuguese"
+msgctxt "Name"
+msgid "Portuguese Escudo"
+msgstr "పోర్ట్యుగీస్"
+
+#: data/currency/pyg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Paraguay"
+msgctxt "Name"
+msgid "Paraguayan Guarani"
+msgstr "పెరాగ్వె"
+
+#: data/currency/qar.desktop:5
+msgctxt "Name"
+msgid "Qatari Riyal"
+msgstr ""
+
+#: data/currency/rol.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Romanian"
+msgctxt "Name"
+msgid "Romanian Leu A/05"
+msgstr "రొమేనియన్"
+
+#: data/currency/ron.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Romanian"
+msgctxt "Name"
+msgid "Romanian Leu"
+msgstr "రొమేనియన్"
+
+#: data/currency/rsd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Dinar"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: data/currency/rub.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Russian"
+msgctxt "Name"
+msgid "Russian Ruble"
+msgstr "రషియన్"
+
+#: data/currency/rur.desktop:5
+msgctxt "Name"
+msgid "Russian Ruble A/97"
+msgstr ""
+
+#: data/currency/rwf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Rwanda"
+msgctxt "Name"
+msgid "Rwandan Franc"
+msgstr "ర్వాండా"
+
+#: data/currency/sar.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Saudi Arabia"
+msgctxt "Name"
+msgid "Saudi Riyal"
+msgstr "సౌదీ అరెబియా"
+
+#: data/currency/sbd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Solomon Islands"
+msgctxt "Name"
+msgid "Solomon Islands Dollar"
+msgstr "సొలొమొన్ ద్విపాలు"
+
+#: data/currency/scr.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Seychelles"
+msgctxt "Name"
+msgid "Seychellois Rupee"
+msgstr "సెషెల్స్"
+
+#: data/currency/sdd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sundanese"
+msgctxt "Name"
+msgid "Sudanese Dinar"
+msgstr "సన్దనీస్"
+
+#: data/currency/sdg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sundanese"
+msgctxt "Name"
+msgid "Sudanese Pound"
+msgstr "సన్దనీస్"
+
+#: data/currency/sek.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Swedish"
+msgctxt "Name"
+msgid "Swedish Krona"
+msgstr "స్వీడిష్"
+
+#: data/currency/sgd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Singapore"
+msgctxt "Name"
+msgid "Singapore Dollar"
+msgstr "సింగాపుర్"
+
+#: data/currency/shp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Saint Helena"
+msgctxt "Name"
+msgid "Saint Helena Pound"
+msgstr "సెం. హెలినా"
+
+#: data/currency/sit.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovenian"
+msgctxt "Name"
+msgid "Slovenian Tolar"
+msgstr "స్లొవేనియన్"
+
+#: data/currency/skk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovak"
+msgctxt "Name"
+msgid "Slovak Koruna"
+msgstr "స్లొవాక్"
+
+#: data/currency/sll.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sierra Leone"
+msgctxt "Name"
+msgid "Sierra Leonean Leone"
+msgstr "సైరా లియాన్"
+
+#: data/currency/sos.desktop:5
+msgctxt "Name"
+msgid "Somali Shilling"
+msgstr ""
+
+#: data/currency/srd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Suriname"
+msgctxt "Name"
+msgid "Surinamese Dollar"
+msgstr "సూరినామ్"
+
+#: data/currency/srg.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Suriname"
+msgctxt "Name"
+msgid "Surinamese Guilder"
+msgstr "సూరినామ్"
+
+#: data/currency/ssp.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "South Sudanese Pound"
+msgstr "సోతొ, దక్షిణ"
+
+#: data/currency/std.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sao Tome and Principe"
+msgctxt "Name"
+msgid "São Tomé and Príncipe Dobra"
+msgstr "సావొ టొమ్ మరయూ ప్రిన్సిపి"
+
+#: data/currency/svc.desktop:5
+msgctxt "Name"
+msgid "Salvadoran Colon"
+msgstr ""
+
+#: data/currency/syp.desktop:5
+msgctxt "Name"
+msgid "Syrian Pound"
+msgstr ""
+
+#: data/currency/szl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Swaziland"
+msgctxt "Name"
+msgid "Swazi Lilangeni"
+msgstr "స్వాజీలాండ్"
+
+#: data/currency/thb.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thai"
+msgctxt "Name"
+msgid "Thai Baht"
+msgstr "థాయి"
+
+#: data/currency/tjs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tajik"
+msgctxt "Name"
+msgid "Tajikistani Somoni"
+msgstr "తాజిక్"
+
+#: data/currency/tmm.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkmenistani Old Manat"
+msgstr "తుర్క్మెన్"
+
+#: data/currency/tmt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkmenistani Manat"
+msgstr "తుర్క్మెన్"
+
+#: data/currency/tnd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tunisia"
+msgctxt "Name"
+msgid "Tunisian Dinar"
+msgstr "తునీషియా"
+
+#: data/currency/top.desktop:5
+msgctxt "Name"
+msgid "Tongan Pa'anga"
+msgstr ""
+
+#: data/currency/tpe.desktop:5
+msgctxt "Name"
+msgid "Portuguese Timorese Escudo"
+msgstr ""
+
+#: data/currency/trl.desktop:5
+msgctxt "Name"
+msgid "Turkish Lira A/05"
+msgstr ""
+
+#: data/currency/try.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkish"
+msgctxt "Name"
+msgid "Turkish Lira"
+msgstr "టర్కిష్"
+
+#: data/currency/ttd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Trinidad and Tobago"
+msgctxt "Name"
+msgid "Trinidad and Tobago Dollar"
+msgstr "ట్రినిడాడ్ మరయూ టొబాగొ"
+
+#: data/currency/twd.desktop:5
+msgctxt "Name"
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#: data/currency/tzs.desktop:5
+msgctxt "Name"
+msgid "Tanzanian Shilling"
+msgstr ""
+
+#: data/currency/uah.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ukrainian"
+msgctxt "Name"
+msgid "Ukrainian Hryvnia"
+msgstr "ఉక్రేనియన్"
+
+#: data/currency/ugx.desktop:5
+msgctxt "Name"
+msgid "Ugandan Shilling"
+msgstr ""
+
+#: data/currency/usd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United States of America"
+msgctxt "Name"
+msgid "United States Dollar"
+msgstr "అమెరికా సంయుక్త రాష్ట్రాలు"
+
+#: data/currency/usn.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United States of America"
+msgctxt "Name"
+msgid "United States Dollar (Next Day)"
+msgstr "అమెరికా సంయుక్త రాష్ట్రాలు"
+
+#: data/currency/uss.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "United States of America"
+msgctxt "Name"
+msgid "United States Dollar (Same Day)"
+msgstr "అమెరికా సంయుక్త రాష్ట్రాలు"
+
+#: data/currency/uyu.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uruguay"
+msgctxt "Name"
+msgid "Uruguayan Peso"
+msgstr "యురుగ్వె"
+
+#: data/currency/uzs.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uzbek"
+msgctxt "Name"
+msgid "Uzbekistan Som"
+msgstr "ఉజ్బెక్"
+
+#: data/currency/veb.desktop:5
+msgctxt "Name"
+msgid "Venezuelan Bolívar Fuerte"
+msgstr ""
+
+#: data/currency/vnd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vietnamese"
+msgctxt "Name"
+msgid "Vietnamese Dong"
+msgstr "వియత్నామీస్"
+
+#: data/currency/vuv.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vanuatu"
+msgctxt "Name"
+msgid "Vanuatu Vatu"
+msgstr "వనువాటు"
+
+#: data/currency/wst.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Samoan"
+msgctxt "Name"
+msgid "Samoan Tala"
+msgstr "సమొవన్"
+
+#: data/currency/xaf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Central African Republic"
+msgctxt "Name"
+msgid "Central African CFA Franc"
+msgstr "సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్"
+
+#: data/currency/xag.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Solid"
+msgctxt "Name"
+msgid "Silver"
+msgstr "సాలిడ్"
+
+#: data/currency/xau.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Golem"
+msgctxt "Name"
+msgid "Gold"
+msgstr "గొలెం"
+
+#: data/currency/xcd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Caribbean"
+msgctxt "Name"
+msgid "East Caribbean Dollar"
+msgstr "కెరిబ్బిన్"
+
+#: data/currency/xof.desktop:5
+msgctxt "Name"
+msgid "West African CFA Franc"
+msgstr ""
+
+#: data/currency/xpd.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Palau"
+msgctxt "Name"
+msgid "Palladium"
+msgstr "పలౌ"
+
+#: data/currency/xpf.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "France"
+msgctxt "Name"
+msgid "CFP Franc"
+msgstr "ఫ్రాంస్"
+
+#: data/currency/xpt.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Latin"
+msgctxt "Name"
+msgid "Platinum"
+msgstr "లాటిన్"
+
+#: data/currency/yer.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Yemen"
+msgctxt "Name"
+msgid "Yemeni Rial"
+msgstr "యెమెన్"
+
+#: data/currency/yum.desktop:5
+msgctxt "Name"
+msgid "Yugoslav Dinar"
+msgstr ""
+
+#: data/currency/zar.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "South Africa"
+msgctxt "Name"
+msgid "South African Rand"
+msgstr "దక్షిణ ఆఫ్రికా"
+
+#: data/currency/zmk.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Zambia"
+msgctxt "Name"
+msgid "Zambian Kwacha"
+msgstr "జాంబియా"
+
+#: data/currency/zwd.desktop:5
+msgctxt "Name"
+msgid "Zimbabwean Dollar A/06"
+msgstr ""
+
+#: data/currency/zwl.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Zimbabwe"
+msgctxt "Name"
+msgid "Zimbabwean Dollar"
+msgstr "జింబాబ్వె"
+
+#: src/kdecore/all_languages.desktop:2
+msgctxt "Name"
+msgid "Afar"
+msgstr "ఎఫార్"
+
+#: src/kdecore/all_languages.desktop:102
+msgctxt "Name"
+msgid "Abkhazian"
+msgstr "అబ్ఖజియన్"
+
+#: src/kdecore/all_languages.desktop:202
+msgctxt "Name"
+msgid "Avestan"
+msgstr "అవెస్థన్"
+
+#: src/kdecore/all_languages.desktop:301
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "ఆఫ్రికాన్స్"
+
+#: src/kdecore/all_languages.desktop:401
+msgctxt "Name"
+msgid "Amharic"
+msgstr "అమ్హరిక్"
+
+#: src/kdecore/all_languages.desktop:501
+msgctxt "Name"
+msgid "Arabic"
+msgstr "అరబిక్"
+
+#: src/kdecore/all_languages.desktop:601
+msgctxt "Name"
+msgid "Assamese"
+msgstr "అస్సామీ"
+
+#: src/kdecore/all_languages.desktop:701
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Avestan"
+msgctxt "Name"
+msgid "Asturian"
+msgstr "అవెస్థన్"
+
+#: src/kdecore/all_languages.desktop:775
+msgctxt "Name"
+msgid "Aymara"
+msgstr "అయ్మరా"
+
+#: src/kdecore/all_languages.desktop:875
+msgctxt "Name"
+msgid "Azerbaijani"
+msgstr "అజెర్ బైజాని"
+
+#: src/kdecore/all_languages.desktop:975
+msgctxt "Name"
+msgid "Bashkir"
+msgstr "బాష్కిర్"
+
+#: src/kdecore/all_languages.desktop:1075
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "బెలరషియన్"
+
+#: src/kdecore/all_languages.desktop:1175
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarusian (Latin)"
+msgstr "బెలరషియన్"
+
+#: src/kdecore/all_languages.desktop:1260
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "బల్గెరియన్"
+
+#: src/kdecore/all_languages.desktop:1360
+msgctxt "Name"
+msgid "Bihari"
+msgstr "బిహారి"
+
+#: src/kdecore/all_languages.desktop:1460
+msgctxt "Name"
+msgid "Bislama"
+msgstr "బిస్లమా"
+
+#: src/kdecore/all_languages.desktop:1560
+msgctxt "Name"
+msgid "Bengali"
+msgstr "బెంగాలి"
+
+#: src/kdecore/all_languages.desktop:1660
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "బెంగాలి (భారతీయ)"
+
+#: src/kdecore/all_languages.desktop:1750
+msgctxt "Name"
+msgid "Tibetan"
+msgstr "టిబెటియన్"
+
+#: src/kdecore/all_languages.desktop:1850
+msgctxt "Name"
+msgid "Breton"
+msgstr "బ్రెటన్"
+
+#: src/kdecore/all_languages.desktop:1950
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "బొస్నియన్"
+
+#: src/kdecore/all_languages.desktop:2050
+msgctxt "Name"
+msgid "Catalan"
+msgstr "కెటలన్"
+
+#: src/kdecore/all_languages.desktop:2150
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:2223
+msgctxt "Name"
+msgid "Chechen"
+msgstr "చెచన్"
+
+#: src/kdecore/all_languages.desktop:2323
+msgctxt "Name"
+msgid "Chamorro"
+msgstr "చమొర్రొ"
+
+#: src/kdecore/all_languages.desktop:2422
+msgctxt "Name"
+msgid "Corsican"
+msgstr "కొర్సికన్"
+
+#: src/kdecore/all_languages.desktop:2522
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:2608
+msgctxt "Name"
+msgid "Czech"
+msgstr "చెక్"
+
+#: src/kdecore/all_languages.desktop:2708
+msgctxt "Name"
+msgid "Kashubian"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:2798
+msgctxt "Name"
+msgid "Church Slavic"
+msgstr "చర్చి స్లావిక్"
+
+#: src/kdecore/all_languages.desktop:2897
+msgctxt "Name"
+msgid "Chuvash"
+msgstr "చువాష్"
+
+#: src/kdecore/all_languages.desktop:2997
+msgctxt "Name"
+msgid "Welsh"
+msgstr "వెల్ష్"
+
+#: src/kdecore/all_languages.desktop:3097
+msgctxt "Name"
+msgid "Danish"
+msgstr "డెనిష్"
+
+#: src/kdecore/all_languages.desktop:3197
+msgctxt "Name"
+msgid "German"
+msgstr "జెర్మన్"
+
+#: src/kdecore/all_languages.desktop:3297
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Upper Sorbian"
+msgctxt "Name"
+msgid "Lower Sorbian"
+msgstr "అప్పర్ సొర్బియన్"
+
+#: src/kdecore/all_languages.desktop:3381
+msgctxt "Name"
+msgid "Dzongkha"
+msgstr "జొంగ్ఖ"
+
+#: src/kdecore/all_languages.desktop:3480
+msgctxt "Name"
+msgid "Greek"
+msgstr "గ్రీక్"
+
+#: src/kdecore/all_languages.desktop:3580
+msgctxt "Name"
+msgid "English"
+msgstr "ఆంగ్లం"
+
+#: src/kdecore/all_languages.desktop:3680
+msgctxt "Name"
+msgid "British English"
+msgstr "బ్రిటిష్ ఆంగ్లం"
+
+#: src/kdecore/all_languages.desktop:3779
+msgctxt "Name"
+msgid "American English"
+msgstr "అమెరికన్ ఆంగ్లం"
+
+#: src/kdecore/all_languages.desktop:3877
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "ఎస్పరాన్టొ"
+
+#: src/kdecore/all_languages.desktop:3977
+msgctxt "Name"
+msgid "Spanish"
+msgstr "స్పెనిష్"
+
+#: src/kdecore/all_languages.desktop:4077
+msgctxt "Name"
+msgid "Estonian"
+msgstr "ఎస్టొనియన్"
+
+#: src/kdecore/all_languages.desktop:4177
+msgctxt "Name"
+msgid "Basque"
+msgstr "బాస్క్"
+
+#: src/kdecore/all_languages.desktop:4277
+msgctxt "Name"
+msgid "Farsi (Persian)"
+msgstr "ఫార్సి (పెర్షియన్)"
+
+#: src/kdecore/all_languages.desktop:4375
+msgctxt "Name"
+msgid "Finnish"
+msgstr "ఫిన్నిష్"
+
+#: src/kdecore/all_languages.desktop:4475
+msgctxt "Name"
+msgid "Fijian"
+msgstr "ఫిజియన్"
+
+#: src/kdecore/all_languages.desktop:4575
+msgctxt "Name"
+msgid "Faroese"
+msgstr "ఫారొఈస్"
+
+#: src/kdecore/all_languages.desktop:4674
+msgctxt "Name"
+msgid "French"
+msgstr "ఫ్రెంచ్"
+
+#: src/kdecore/all_languages.desktop:4774
+msgctxt "Name"
+msgid "Frisian"
+msgstr "ఫ్రిసియన్"
+
+#: src/kdecore/all_languages.desktop:4874
+msgctxt "Name"
+msgid "Irish Gaelic"
+msgstr "ఐరిష్ గెలిక్"
+
+#: src/kdecore/all_languages.desktop:4967
+msgctxt "Name"
+msgid "Gaelic"
+msgstr "గెలిక్"
+
+#: src/kdecore/all_languages.desktop:5067
+msgctxt "Name"
+msgid "Galician"
+msgstr "గలిచియన్"
+
+#: src/kdecore/all_languages.desktop:5166
+msgctxt "Name"
+msgid "Guarani"
+msgstr "గువారాని"
+
+#: src/kdecore/all_languages.desktop:5266
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "గుజరాతీ"
+
+#: src/kdecore/all_languages.desktop:5366
+msgctxt "Name"
+msgid "Manx"
+msgstr "మేన్క్స్"
+
+#: src/kdecore/all_languages.desktop:5465
+msgctxt "Name"
+msgid "Hausa"
+msgstr "హౌసా"
+
+#: src/kdecore/all_languages.desktop:5565
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "హీబ్రూ"
+
+#: src/kdecore/all_languages.desktop:5665
+msgctxt "Name"
+msgid "Hindi"
+msgstr "హింది"
+
+#: src/kdecore/all_languages.desktop:5765
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:5843
+msgctxt "Name"
+msgid "Hiri Motu"
+msgstr "హిరి మోటు"
+
+#: src/kdecore/all_languages.desktop:5942
+msgctxt "Name"
+msgid "Croatian"
+msgstr "క్రొయెషియన్"
+
+#: src/kdecore/all_languages.desktop:6042
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "అప్పర్ సొర్బియన్"
+
+#: src/kdecore/all_languages.desktop:6138
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "హంగెరియన్"
+
+#: src/kdecore/all_languages.desktop:6238
+msgctxt "Name"
+msgid "Armenian"
+msgstr "అర్మెనియన్"
+
+#: src/kdecore/all_languages.desktop:6338
+msgctxt "Name"
+msgid "Herero"
+msgstr "హెరెరో"
+
+#: src/kdecore/all_languages.desktop:6437
+msgctxt "Name"
+msgid "Interlingua"
+msgstr "ఇంటర్ లింగువా"
+
+#: src/kdecore/all_languages.desktop:6536
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "ఇన్డొనెషియన్"
+
+#: src/kdecore/all_languages.desktop:6636
+msgctxt "Name"
+msgid "Interlingue"
+msgstr "ఇంటర్ లింగె"
+
+#: src/kdecore/all_languages.desktop:6734
+msgctxt "Name"
+msgid "Inupiaq"
+msgstr "ఇనుపియాక్"
+
+#: src/kdecore/all_languages.desktop:6832
+msgctxt "Name"
+msgid "Ido"
+msgstr "ఇడొ"
+
+#: src/kdecore/all_languages.desktop:6932
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "ఐస్ లేండిక్"
+
+#: src/kdecore/all_languages.desktop:7032
+msgctxt "Name"
+msgid "Italian"
+msgstr "ఇటాలియన్"
+
+#: src/kdecore/all_languages.desktop:7132
+msgctxt "Name"
+msgid "Inuktitut"
+msgstr "ఇనుక్తిటుట్"
+
+#: src/kdecore/all_languages.desktop:7231
+msgctxt "Name"
+msgid "Japanese"
+msgstr "జపనీస్"
+
+#: src/kdecore/all_languages.desktop:7331
+msgctxt "Name"
+msgid "Javanese"
+msgstr "జావానీస్"
+
+#: src/kdecore/all_languages.desktop:7430
+msgctxt "Name"
+msgid "Georgian"
+msgstr "జార్జియన్"
+
+#: src/kdecore/all_languages.desktop:7530
+msgctxt "Name"
+msgid "Kikuyu"
+msgstr "కికుయు"
+
+#: src/kdecore/all_languages.desktop:7630
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "కజాఖ్"
+
+#: src/kdecore/all_languages.desktop:7730
+msgctxt "Name"
+msgid "Kalaallisut"
+msgstr "కలాల్లిసుత్"
+
+#: src/kdecore/all_languages.desktop:7828
+msgctxt "Name"
+msgid "Khmer"
+msgstr "ఖ్మెర్"
+
+#: src/kdecore/all_languages.desktop:7928
+msgctxt "Name"
+msgid "Kannada"
+msgstr "కన్నడ"
+
+#: src/kdecore/all_languages.desktop:8028
+msgctxt "Name"
+msgid "Korean"
+msgstr "కొరియన్"
+
+#: src/kdecore/all_languages.desktop:8128
+msgctxt "Name"
+msgid "Kashmiri"
+msgstr "కష్మీరీ"
+
+#: src/kdecore/all_languages.desktop:8227
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "కుర్దిష్"
+
+#: src/kdecore/all_languages.desktop:8327
+msgctxt "Name"
+msgid "Komi"
+msgstr "కోమి"
+
+#: src/kdecore/all_languages.desktop:8426
+msgctxt "Name"
+msgid "Cornish"
+msgstr "కొర్నిష్"
+
+#: src/kdecore/all_languages.desktop:8526
+msgctxt "Name"
+msgid "Kirghiz"
+msgstr "కిర్ఘిజ్"
+
+#: src/kdecore/all_languages.desktop:8626
+msgctxt "Name"
+msgid "Latin"
+msgstr "లాటిన్"
+
+#: src/kdecore/all_languages.desktop:8726
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "లక్సెంబర్గిష్"
+
+#: src/kdecore/all_languages.desktop:8826
+msgctxt "Name"
+msgid "Limburgan"
+msgstr "లింబర్గన్"
+
+#: src/kdecore/all_languages.desktop:8924
+msgctxt "Name"
+msgid "Lingala"
+msgstr "లింగాలా"
+
+#: src/kdecore/all_languages.desktop:9024
+msgctxt "Name"
+msgid "Lao"
+msgstr "లావో"
+
+#: src/kdecore/all_languages.desktop:9124
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "లితువెనియన్"
+
+#: src/kdecore/all_languages.desktop:9224
+msgctxt "Name"
+msgid "Latvian"
+msgstr "లాటివ్యన్"
+
+#: src/kdecore/all_languages.desktop:9324
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marathi"
+msgctxt "Name"
+msgid "Maithili"
+msgstr "మరాఠి"
+
+#: src/kdecore/all_languages.desktop:9405
+msgctxt "Name"
+msgid "Malagasy"
+msgstr "మలగాసి"
+
+#: src/kdecore/all_languages.desktop:9504
+msgctxt "Name"
+msgid "Marshallese"
+msgstr "మార్షలీస్"
+
+#: src/kdecore/all_languages.desktop:9603
+msgctxt "Name"
+msgid "Maori"
+msgstr "మావొరి"
+
+#: src/kdecore/all_languages.desktop:9703
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "మసిడొనియన్"
+
+#: src/kdecore/all_languages.desktop:9803
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "మలయాళం"
+
+#: src/kdecore/all_languages.desktop:9903
+msgctxt "Name"
+msgid "Mongolian"
+msgstr "మంగోలియన్"
+
+#: src/kdecore/all_languages.desktop:10003
+msgctxt "Name"
+msgid "Moldavian"
+msgstr "మొల్దావియన్"
+
+#: src/kdecore/all_languages.desktop:10103
+msgctxt "Name"
+msgid "Marathi"
+msgstr "మరాఠి"
+
+#: src/kdecore/all_languages.desktop:10203
+msgctxt "Name"
+msgid "Malay"
+msgstr "మలయ"
+
+#: src/kdecore/all_languages.desktop:10303
+msgctxt "Name"
+msgid "Maltese"
+msgstr "మాల్టీస్"
+
+#: src/kdecore/all_languages.desktop:10403
+msgctxt "Name"
+msgid "Burmese"
+msgstr "బర్మీస్"
+
+#: src/kdecore/all_languages.desktop:10503 src/l10n/nr/country.desktop:2
+msgctxt "Name"
+msgid "Nauru"
+msgstr "నౌరు"
+
+#: src/kdecore/all_languages.desktop:10604
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "నార్వీజియన్ బోక్మాల్"
+
+#: src/kdecore/all_languages.desktop:10703
+msgctxt "Name"
+msgid "Ndebele, North"
+msgstr "నెబేలె, ఉత్తర"
+
+#: src/kdecore/all_languages.desktop:10800
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "లో సాక్సన్"
+
+#: src/kdecore/all_languages.desktop:10896
+msgctxt "Name"
+msgid "Nepali"
+msgstr "నేపాలి"
+
+#: src/kdecore/all_languages.desktop:10996
+msgctxt "Name"
+msgid "Ndonga"
+msgstr "డొంగా"
+
+#: src/kdecore/all_languages.desktop:11095
+msgctxt "Name"
+msgid "Dutch"
+msgstr "డచ్"
+
+#: src/kdecore/all_languages.desktop:11195
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "నార్వీజియన్ న్యోర్స్క్"
+
+#: src/kdecore/all_languages.desktop:11294
+msgctxt "Name"
+msgid "Ndebele, South"
+msgstr "నెబేలె, దక్షిణ"
+
+#: src/kdecore/all_languages.desktop:11392
+msgctxt "Name"
+msgid "Northern Sotho"
+msgstr "ఉత్తర సొతొ"
+
+#: src/kdecore/all_languages.desktop:11489
+msgctxt "Name"
+msgid "Navajo"
+msgstr "నవాజొ"
+
+#: src/kdecore/all_languages.desktop:11587
+msgctxt "Name"
+msgid "Chichewa"
+msgstr "చిచెవా"
+
+#: src/kdecore/all_languages.desktop:11686
+msgctxt "Name"
+msgid "Occitan"
+msgstr "ఒస్సిటాన్"
+
+#: src/kdecore/all_languages.desktop:11786
+msgctxt "Name"
+msgid "Oromo"
+msgstr "ఒరొమొ"
+
+#: src/kdecore/all_languages.desktop:11885
+msgctxt "Name"
+msgid "Oriya"
+msgstr "ఒరియా"
+
+#: src/kdecore/all_languages.desktop:11985
+msgctxt "Name"
+msgid "Ossetian"
+msgstr "ఒస్సెషియన్"
+
+#: src/kdecore/all_languages.desktop:12084
+msgctxt "Name"
+msgid "Punjabi/Panjabi"
+msgstr "పంజాబి"
+
+#: src/kdecore/all_languages.desktop:12176
+msgctxt "Name"
+msgid "Pali"
+msgstr "పాళి"
+
+#: src/kdecore/all_languages.desktop:12276
+msgctxt "Name"
+msgid "Polish"
+msgstr "పోలిష్"
+
+#: src/kdecore/all_languages.desktop:12376
+msgctxt "Name"
+msgid "Pushto"
+msgstr "పుష్తొ"
+
+#: src/kdecore/all_languages.desktop:12474
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "పోర్ట్యుగీస్"
+
+#: src/kdecore/all_languages.desktop:12574
+msgctxt "Name"
+msgid "Brazilian Portuguese"
+msgstr "బ్రాజిలియన్ పోర్ట్యుగీస్"
+
+#: src/kdecore/all_languages.desktop:12673
+msgctxt "Name"
+msgid "Quechua"
+msgstr "క్వెచువా"
+
+#: src/kdecore/all_languages.desktop:12773
+msgctxt "Name"
+msgid "Rundi"
+msgstr "రుండి"
+
+#: src/kdecore/all_languages.desktop:12872
+msgctxt "Name"
+msgid "Romanian"
+msgstr "రొమేనియన్"
+
+#: src/kdecore/all_languages.desktop:12972
+msgctxt "Name"
+msgid "Romany"
+msgstr "రొమని"
+
+#: src/kdecore/all_languages.desktop:13066
+msgctxt "Name"
+msgid "Russian"
+msgstr "రషియన్"
+
+#: src/kdecore/all_languages.desktop:13166
+msgctxt "Name"
+msgid "Kinyarwanda"
+msgstr "కిన్న్యార్వాండా"
+
+#: src/kdecore/all_languages.desktop:13265
+msgctxt "Name"
+msgid "Sanskrit"
+msgstr "సంస్క్రుతం"
+
+#: src/kdecore/all_languages.desktop:13365
+msgctxt "Name"
+msgid "Sardinian"
+msgstr "సార్డినియన్"
+
+#: src/kdecore/all_languages.desktop:13465
+msgctxt "Name"
+msgid "Sindhi"
+msgstr "సింధి"
+
+#: src/kdecore/all_languages.desktop:13564
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "ఉత్తర సమి"
+
+#: src/kdecore/all_languages.desktop:13663
+msgctxt "Name"
+msgid "Sango"
+msgstr "సాంగొ"
+
+#: src/kdecore/all_languages.desktop:13762
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sinhalese"
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "సింహలీస్"
+
+#: src/kdecore/all_languages.desktop:13841
+msgctxt "Name"
+msgid "Slovak"
+msgstr "స్లొవాక్"
+
+#: src/kdecore/all_languages.desktop:13941
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "స్లొవేనియన్"
+
+#: src/kdecore/all_languages.desktop:14041
+msgctxt "Name"
+msgid "Samoan"
+msgstr "సమొవన్"
+
+#: src/kdecore/all_languages.desktop:14140
+msgctxt "Name"
+msgid "Shona"
+msgstr "షొనా"
+
+#: src/kdecore/all_languages.desktop:14240
+msgctxt "Name"
+msgid "Somali"
+msgstr "సొమాలి"
+
+#: src/kdecore/all_languages.desktop:14340
+msgctxt "Name"
+msgid "Albanian"
+msgstr "అల్బేనియన్"
+
+#: src/kdecore/all_languages.desktop:14440
+msgctxt "Name"
+msgid "Serbian"
+msgstr "సెర్బియన్"
+
+#: src/kdecore/all_languages.desktop:14540
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: src/kdecore/all_languages.desktop:14612
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: src/kdecore/all_languages.desktop:14684
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: src/kdecore/all_languages.desktop:14780
+msgctxt "Name"
+msgid "Swati"
+msgstr "స్వాతి"
+
+#: src/kdecore/all_languages.desktop:14880
+msgctxt "Name"
+msgid "Sotho, Southern"
+msgstr "సోతొ, దక్షిణ"
+
+#: src/kdecore/all_languages.desktop:14978
+msgctxt "Name"
+msgid "Sundanese"
+msgstr "సన్దనీస్"
+
+#: src/kdecore/all_languages.desktop:15077
+msgctxt "Name"
+msgid "Swedish"
+msgstr "స్వీడిష్"
+
+#: src/kdecore/all_languages.desktop:15177
+msgctxt "Name"
+msgid "Swahili"
+msgstr "స్వాహిలి"
+
+#: src/kdecore/all_languages.desktop:15277
+msgctxt "Name"
+msgid "Tamil"
+msgstr "తమిళం"
+
+#: src/kdecore/all_languages.desktop:15377
+msgctxt "Name"
+msgid "Telugu"
+msgstr "తెలుగు"
+
+#: src/kdecore/all_languages.desktop:15477
+msgctxt "Name"
+msgid "Tajik"
+msgstr "తాజిక్"
+
+#: src/kdecore/all_languages.desktop:15577
+msgctxt "Name"
+msgid "Thai"
+msgstr "థాయి"
+
+#: src/kdecore/all_languages.desktop:15677
+msgctxt "Name"
+msgid "Tigrinya"
+msgstr "టిగ్రిన్యా"
+
+#: src/kdecore/all_languages.desktop:15777
+msgctxt "Name"
+msgid "Turkmen"
+msgstr "తుర్క్మెన్"
+
+#: src/kdecore/all_languages.desktop:15876
+msgctxt "Name"
+msgid "Tswana"
+msgstr "స్వానా"
+
+#: src/kdecore/all_languages.desktop:15975 src/l10n/to/country.desktop:2
+msgctxt "Name"
+msgid "Tonga"
+msgstr "టొన్గా"
+
+#: src/kdecore/all_languages.desktop:16075
+msgctxt "Name"
+msgid "Turkish"
+msgstr "టర్కిష్"
+
+#: src/kdecore/all_languages.desktop:16175
+msgctxt "Name"
+msgid "Tsonga"
+msgstr "సొంగా"
+
+#: src/kdecore/all_languages.desktop:16274
+msgctxt "Name"
+msgid "Tatar"
+msgstr "తతర్"
+
+#: src/kdecore/all_languages.desktop:16374
+msgctxt "Name"
+msgid "Twi"
+msgstr "ట్వి"
+
+#: src/kdecore/all_languages.desktop:16472
+msgctxt "Name"
+msgid "Tahitian"
+msgstr "టహితియన్"
+
+#: src/kdecore/all_languages.desktop:16571
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uighur"
+msgctxt "Name"
+msgid "Uyghur"
+msgstr "ఉఇఘర్"
+
+#: src/kdecore/all_languages.desktop:16642
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "ఉక్రేనియన్"
+
+#: src/kdecore/all_languages.desktop:16742
+msgctxt "Name"
+msgid "Urdu"
+msgstr "ఉర్దు"
+
+#: src/kdecore/all_languages.desktop:16842
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "ఉజ్బెక్"
+
+#: src/kdecore/all_languages.desktop:16942
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:17031
+msgctxt "Name"
+msgid "Venda"
+msgstr "వెండా"
+
+#: src/kdecore/all_languages.desktop:17130
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "వియత్నామీస్"
+
+#: src/kdecore/all_languages.desktop:17230
+msgctxt "Name"
+msgid "Volapük"
+msgstr "వొలపుక్"
+
+#: src/kdecore/all_languages.desktop:17327
+msgctxt "Name"
+msgid "Walloon"
+msgstr "వాలూన్"
+
+#: src/kdecore/all_languages.desktop:17427
+msgctxt "Name"
+msgid "Wolof"
+msgstr "వొలొఫ్"
+
+#: src/kdecore/all_languages.desktop:17527
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "క్జొసా"
+
+#: src/kdecore/all_languages.desktop:17626
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr ""
+
+#: src/kdecore/all_languages.desktop:17695
+msgctxt "Name"
+msgid "Yiddish"
+msgstr "యిడ్డిష్"
+
+#: src/kdecore/all_languages.desktop:17795
+msgctxt "Name"
+msgid "Yoruba"
+msgstr "యొరుబా"
+
+#: src/kdecore/all_languages.desktop:17894
+msgctxt "Name"
+msgid "Zhuang"
+msgstr "జువాంగ్"
+
+#: src/kdecore/all_languages.desktop:17992
+msgctxt "Name"
+msgid "Chinese"
+msgstr "చైనీస్"
+
+#: src/kdecore/all_languages.desktop:18092
+msgctxt "Name"
+msgid "Chinese Simplified"
+msgstr "సరళికరించిన చైనీస్"
+
+#: src/kdecore/all_languages.desktop:18191
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "చైనీస్ (హాంగ్ కాంగ్)"
+
+#: src/kdecore/all_languages.desktop:18288
+msgctxt "Name"
+msgid "Chinese Traditional"
+msgstr "సాంప్రదాయక చైనీస్"
+
+#: src/kdecore/all_languages.desktop:18387
+msgctxt "Name"
+msgid "Zulu"
+msgstr "జూలు"
+
+#: src/kio/imageformats/qimageio_plugin.desktop:4
+msgctxt "Comment"
+msgid "QImageIOHandler plugin"
+msgstr ""
+
+#: src/kio/kdatatool.desktop:4
+msgctxt "Comment"
+msgid "KDE Data Tool"
+msgstr "కెడిఈ దత్తాంశం పనిముట్టు"
+
+#: src/kio/kfilewrite.desktop:5
+msgctxt "Comment"
+msgid "KFileWrite plugin"
+msgstr "కెఫైల్ వ్రైట్ ప్లగిన్"
+
+#: src/kio/kscan.desktop:4
+msgctxt "Name"
+msgid "KScan"
+msgstr "కేస్కేన్"
+
+#: src/kssl/kcm/kcm_ssl.desktop:13
+msgctxt "Name"
+msgid "SSL Preferences"
+msgstr ""
+
+#: src/kssl/kcm/kcm_ssl.desktop:79
+msgctxt "Comment"
+msgid "SSL Versions and Certificates"
+msgstr ""
+
+#: src/kssl/kcm/kcm_ssl.desktop:145
+msgctxt "X-KDE-Keywords"
+msgid "SSL,Security,Network,Protocol,Certificates,Encryption,HTTPS"
+msgstr ""
+
+#: src/l10n/ad/country.desktop:2
+msgctxt "Name"
+msgid "Andorra"
+msgstr "ఎండొర్రా"
+
+#: src/l10n/ae/country.desktop:2
+msgctxt "Name"
+msgid "United Arab Emirates"
+msgstr "యునైటడ్ అరబ్ ఎమిరేట్స్"
+
+#: src/l10n/af/country.desktop:2
+msgctxt "Name"
+msgid "Afghanistan"
+msgstr "అఫ్ఘనిస్థాన్"
+
+#: src/l10n/ag/country.desktop:2
+msgctxt "Name"
+msgid "Antigua and Barbuda"
+msgstr "ఎంటిగ్యువా మరయూ బార్బుడా"
+
+#: src/l10n/ai/country.desktop:2
+msgctxt "Name"
+msgid "Anguilla"
+msgstr "ఎన్గుల్లా"
+
+#: src/l10n/al/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Albanian"
+msgctxt "Name"
+msgid "Albania"
+msgstr "అల్బేనియన్"
+
+#: src/l10n/am/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Armenian"
+msgctxt "Name"
+msgid "Armenia"
+msgstr "అర్మెనియన్"
+
+#: src/l10n/an/country.desktop:2
+msgctxt "Name"
+msgid "Netherlands Antilles"
+msgstr "నెదెర్లెండ్స్ ఎంటిల్లెస్"
+
+#: src/l10n/ao/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Angola"
+msgstr "మంగోలియన్"
+
+#: src/l10n/ar/country.desktop:2
+msgctxt "Name"
+msgid "Argentina"
+msgstr "అర్జెంటినా"
+
+#: src/l10n/as/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "American Samoa"
+msgstr "అమెరికన్ ఆంగ్లం"
+
+#: src/l10n/at/country.desktop:2
+msgctxt "Name"
+msgid "Austria"
+msgstr "ఆస్ట్రియా"
+
+#: src/l10n/au/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Australia"
+msgstr "ఇటాలియన్"
+
+#: src/l10n/aw/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Yoruba"
+msgctxt "Name"
+msgid "Aruba"
+msgstr "యొరుబా"
+
+#: src/l10n/ax/country.desktop:2
+msgctxt "Name"
+msgid "Åland Islands"
+msgstr "ఆలండ్ ద్విపాలు"
+
+#: src/l10n/az/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Azerbaijani"
+msgctxt "Name"
+msgid "Azerbaijan"
+msgstr "అజెర్ బైజాని"
+
+#: src/l10n/ba/country.desktop:2
+msgctxt "Name"
+msgid "Bosnia and Herzegovina"
+msgstr "బొస్నియా మరయూ హెర్జెగొవినా"
+
+#: src/l10n/bb/country.desktop:2
+msgctxt "Name"
+msgid "Barbados"
+msgstr "బార్బాడొస్"
+
+#: src/l10n/bd/country.desktop:2
+msgctxt "Name"
+msgid "Bangladesh"
+msgstr "బాంగ్లాదెష్"
+
+#: src/l10n/be/country.desktop:2
+msgctxt "Name"
+msgid "Belgium"
+msgstr "బెల్జియం"
+
+#: src/l10n/bf/country.desktop:2
+msgctxt "Name"
+msgid "Burkina Faso"
+msgstr "బర్కినా ఫాసొ"
+
+#: src/l10n/bg/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bulgarian"
+msgctxt "Name"
+msgid "Bulgaria"
+msgstr "బల్గెరియన్"
+
+#: src/l10n/bh/country.desktop:2
+msgctxt "Name"
+msgid "Bahrain"
+msgstr "బహ్రైన్"
+
+#: src/l10n/bi/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Rundi"
+msgctxt "Name"
+msgid "Burundi"
+msgstr "రుండి"
+
+#: src/l10n/bj/country.desktop:2
+msgctxt "Name"
+msgid "Benin"
+msgstr "బెనిన్"
+
+#: src/l10n/bl/country.desktop:2
+msgctxt "Name"
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: src/l10n/bm/country.desktop:2
+msgctxt "Name"
+msgid "Bermuda"
+msgstr "బెర్ముడా"
+
+#: src/l10n/bn/country.desktop:3
+msgctxt "Name"
+msgid "Brunei Darussalam"
+msgstr "బ్రునై"
+
+#: src/l10n/bo/country.desktop:2
+msgctxt "Name"
+msgid "Bolivia"
+msgstr "బొలివియా"
+
+#: src/l10n/br/country.desktop:2
+msgctxt "Name"
+msgid "Brazil"
+msgstr "బ్రాజిల్"
+
+#: src/l10n/bs/country.desktop:2
+msgctxt "Name"
+msgid "Bahamas"
+msgstr "బహామాస్"
+
+#: src/l10n/bt/country.desktop:3
+msgctxt "Name"
+msgid "Bhutan"
+msgstr "భూటాన్"
+
+#: src/l10n/bw/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tswana"
+msgctxt "Name"
+msgid "Botswana"
+msgstr "స్వానా"
+
+#: src/l10n/by/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarus"
+msgstr "బెలరషియన్"
+
+#: src/l10n/bz/country.desktop:2
+msgctxt "Name"
+msgid "Belize"
+msgstr "బెలిజ్"
+
+#: src/l10n/ca/country.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kannada"
+msgctxt "Name"
+msgid "Canada"
+msgstr "కన్నడ"
+
+#: src/l10n/caribbean.desktop:2
+msgctxt "Name"
+msgid "Caribbean"
+msgstr "కెరిబ్బిన్"
+
+#: src/l10n/cc/country.desktop:2
+msgctxt "Name"
+msgid "Cocos (Keeling) Islands"
+msgstr "కొకొస్ (కీలింగ్) ద్విపాలు"
+
+#: src/l10n/C/country.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr "అప్రమెయం"
+
+#: src/l10n/cd/country.desktop:2
+msgctxt "Name"
+msgid "Congo, The Democratic Republic of the"
+msgstr "కాంగొ, ప్రజాస్వామ్య రిపబ్లిక్"
+
+#: src/l10n/centralafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Central"
+msgstr "మధ్య ఆఫ్రికా"
+
+#: src/l10n/centralamerica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "America, Central"
+msgstr "అమెరికన్ ఆంగ్లం"
+
+#: src/l10n/centralasia.desktop:2
+msgctxt "Name"
+msgid "Asia, Central"
+msgstr "మధ్య ఆసియా"
+
+#: src/l10n/centraleurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Central"
+msgstr "మధ్య ఐరొపా"
+
+#: src/l10n/cf/country.desktop:2
+msgctxt "Name"
+msgid "Central African Republic"
+msgstr "సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్"
+
+#: src/l10n/cg/country.desktop:2
+msgctxt "Name"
+msgid "Congo"
+msgstr "కాంగొ"
+
+#: src/l10n/ch/country.desktop:2
+msgctxt "Name"
+msgid "Switzerland"
+msgstr "స్విట్జర్లాండ్"
+
+#: src/l10n/ci/country.desktop:2
+msgctxt "Name"
+msgid "Cote d'ivoire"
+msgstr "కొటె దైవొయిర్"
+
+#: src/l10n/ck/country.desktop:2
+msgctxt "Name"
+msgid "Cook islands"
+msgstr "కుక్ ద్విపాలు"
+
+#: src/l10n/cl/country.desktop:2
+msgctxt "Name"
+msgid "Chile"
+msgstr "చిలి"
+
+#: src/l10n/cm/country.desktop:2
+msgctxt "Name"
+msgid "Cameroon"
+msgstr "కెమెరూన్"
+
+#: src/l10n/cn/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Chinese"
+msgctxt "Name"
+msgid "China"
+msgstr "చైనీస్"
+
+#: src/l10n/co/country.desktop:2
+msgctxt "Name"
+msgid "Colombia"
+msgstr "కొలంబియా"
+
+#: src/l10n/cr/country.desktop:2
+msgctxt "Name"
+msgid "Costa Rica"
+msgstr "కొస్టా రికా"
+
+#: src/l10n/cu/country.desktop:2
+msgctxt "Name"
+msgid "Cuba"
+msgstr "క్యుబా"
+
+#: src/l10n/cv/country.desktop:2
+msgctxt "Name"
+msgid "Cape Verde"
+msgstr "కెప్ వెర్డె"
+
+#: src/l10n/cx/country.desktop:2
+msgctxt "Name"
+msgid "Christmas Island"
+msgstr "క్రిస్మస్ ద్విపం"
+
+#: src/l10n/cy/country.desktop:2
+msgctxt "Name"
+msgid "Cyprus"
+msgstr "సైప్రస్"
+
+#: src/l10n/cz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Czech"
+msgctxt "Name"
+msgid "Czechia"
+msgstr "చెక్"
+
+#: src/l10n/de/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "German"
+msgctxt "Name"
+msgid "Germany"
+msgstr "జెర్మన్"
+
+#: src/l10n/dj/country.desktop:2
+msgctxt "Name"
+msgid "Djibouti"
+msgstr "జిబౌటి"
+
+#: src/l10n/dk/country.desktop:3
+msgctxt "Name"
+msgid "Denmark"
+msgstr "డెన్మార్క్"
+
+#: src/l10n/dm/country.desktop:2
+msgctxt "Name"
+msgid "Dominica"
+msgstr "డొమినికా"
+
+#: src/l10n/do/country.desktop:2
+msgctxt "Name"
+msgid "Dominican Republic"
+msgstr "డామినికన్ రిపబ్లిక్"
+
+#: src/l10n/dz/country.desktop:2
+msgctxt "Name"
+msgid "Algeria"
+msgstr "అల్జీరియా"
+
+#: src/l10n/eastafrica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Africa, Western"
+msgctxt "Name"
+msgid "Africa, Eastern"
+msgstr "పశ్చిమ ఆఫ్రికా"
+
+#: src/l10n/eastasia.desktop:2
+msgctxt "Name"
+msgid "Asia, East"
+msgstr "తూర్పు ఆసియా"
+
+#: src/l10n/easteurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Eastern"
+msgstr "తూర్పు ఐరొపా"
+
+#: src/l10n/ec/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Equador"
+msgctxt "Name"
+msgid "Ecuador"
+msgstr "ఎక్వెడార్"
+
+#: src/l10n/ee/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Estonian"
+msgctxt "Name"
+msgid "Estonia"
+msgstr "ఎస్టొనియన్"
+
+#: src/l10n/eg/country.desktop:2
+msgctxt "Name"
+msgid "Egypt"
+msgstr "ఈజిప్ట్"
+
+#: src/l10n/eh/country.desktop:2
+msgctxt "Name"
+msgid "Western Sahara"
+msgstr "పశ్చిమ సహారా"
+
+#: src/l10n/er/country.desktop:2
+msgctxt "Name"
+msgid "Eritrea"
+msgstr "ఎరిట్రియా"
+
+#: src/l10n/es/country.desktop:2
+msgctxt "Name"
+msgid "Spain"
+msgstr "స్పెయిన్"
+
+#: src/l10n/et/country.desktop:2
+msgctxt "Name"
+msgid "Ethiopia"
+msgstr "ఇథియొపియా"
+
+#: src/l10n/fi/country.desktop:3
+msgctxt "Name"
+msgid "Finland"
+msgstr "ఫిన్ లాండ్"
+
+#: src/l10n/fj/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Fijian"
+msgctxt "Name"
+msgid "Fiji"
+msgstr "ఫిజియన్"
+
+#: src/l10n/fk/country.desktop:2
+msgctxt "Name"
+msgid "Falkland Islands (Malvinas)"
+msgstr "ఫాక్ లాండ్ ద్విపాలు (మాల్వినాస్)"
+
+#: src/l10n/fm/country.desktop:2
+msgctxt "Name"
+msgid "Micronesia, Federated States of"
+msgstr "మిక్రొనెషియా"
+
+#: src/l10n/fo/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Faroese"
+msgctxt "Name"
+msgid "Faroe Islands"
+msgstr "ఫారొఈస్"
+
+#: src/l10n/fr/country.desktop:3
+msgctxt "Name"
+msgid "France"
+msgstr "ఫ్రాంస్"
+
+#: src/l10n/ga/country.desktop:2
+msgctxt "Name"
+msgid "Gabon"
+msgstr "గాబొన్"
+
+#: src/l10n/gb/country.desktop:2
+msgctxt "Name"
+msgid "United Kingdom"
+msgstr "బ్రిటన్"
+
+#: src/l10n/gd/country.desktop:2
+msgctxt "Name"
+msgid "Grenada"
+msgstr "గ్రెనెడా"
+
+#: src/l10n/ge/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Georgian"
+msgctxt "Name"
+msgid "Georgia"
+msgstr "జార్జియన్"
+
+#: src/l10n/gf/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "French"
+msgctxt "Name"
+msgid "French Guiana"
+msgstr "ఫ్రెంచ్"
+
+#: src/l10n/gg/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Germany"
+msgctxt "Name"
+msgid "Guernsey"
+msgstr "జెర్మని"
+
+#: src/l10n/gh/country.desktop:2
+msgctxt "Name"
+msgid "Ghana"
+msgstr "ఘానా"
+
+#: src/l10n/gi/country.desktop:2
+msgctxt "Name"
+msgid "Gibraltar"
+msgstr "జిబ్రాల్టర్"
+
+#: src/l10n/gl/country.desktop:2
+msgctxt "Name"
+msgid "Greenland"
+msgstr "గ్రీన్ లాండ్"
+
+#: src/l10n/gm/country.desktop:2
+msgctxt "Name"
+msgid "Gambia"
+msgstr "గాంబియా"
+
+#: src/l10n/gn/country.desktop:2
+msgctxt "Name"
+msgid "Guinea"
+msgstr "గుయ్నియా"
+
+#: src/l10n/gp/country.desktop:2
+msgctxt "Name"
+msgid "Guadeloupe"
+msgstr "గువడెలొపె"
+
+#: src/l10n/gq/country.desktop:2
+msgctxt "Name"
+msgid "Equatorial Guinea"
+msgstr "ఇక్విటెరియల్ గుయ్నియా"
+
+#: src/l10n/gr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Greek"
+msgctxt "Name"
+msgid "Greece"
+msgstr "గ్రీక్"
+
+#: src/l10n/gt/country.desktop:2
+msgctxt "Name"
+msgid "Guatemala"
+msgstr "గౌటెమాలా"
+
+#: src/l10n/gu/country.desktop:2
+msgctxt "Name"
+msgid "Guam"
+msgstr "గువామ్"
+
+#: src/l10n/gw/country.desktop:2
+msgctxt "Name"
+msgid "Guinea-Bissau"
+msgstr "గుయ్నియా-బిస్సౌ"
+
+#: src/l10n/gy/country.desktop:2
+msgctxt "Name"
+msgid "Guyana"
+msgstr "గయానా"
+
+#: src/l10n/hk/country.desktop:2
+msgctxt "Name"
+msgid "Hong Kong SAR(China)"
+msgstr "హాంగ్ కాంగ్ (చైనా)"
+
+#: src/l10n/hn/country.desktop:2
+msgctxt "Name"
+msgid "Honduras"
+msgstr "హాండురాస్"
+
+#: src/l10n/hr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Croatian"
+msgctxt "Name"
+msgid "Croatia"
+msgstr "క్రొయెషియన్"
+
+#: src/l10n/ht/country.desktop:2
+msgctxt "Name"
+msgid "Haiti"
+msgstr "హైతి"
+
+#: src/l10n/hu/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Hungarian"
+msgctxt "Name"
+msgid "Hungary"
+msgstr "హంగెరియన్"
+
+#: src/l10n/id/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Indonesian"
+msgctxt "Name"
+msgid "Indonesia"
+msgstr "ఇన్డొనెషియన్"
+
+#: src/l10n/ie/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icelandic"
+msgctxt "Name"
+msgid "Ireland"
+msgstr "ఐస్ లేండిక్"
+
+#: src/l10n/il/country.desktop:3
+msgctxt "Name"
+msgid "Israel"
+msgstr "ఇజ్రైల్"
+
+#: src/l10n/im/country.desktop:2
+msgctxt "Name"
+msgid "Isle of Man"
+msgstr ""
+
+#: src/l10n/in/country.desktop:2
+msgctxt "Name"
+msgid "India"
+msgstr "ఇండియా"
+
+#: src/l10n/iq/country.desktop:2
+msgctxt "Name"
+msgid "Iraq"
+msgstr "ఇరాక్"
+
+#: src/l10n/ir/country.desktop:2
+msgctxt "Name"
+msgid "Iran"
+msgstr "ఇరాన్"
+
+#: src/l10n/is/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Icelandic"
+msgctxt "Name"
+msgid "Iceland"
+msgstr "ఐస్ లేండిక్"
+
+#: src/l10n/it/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Italian"
+msgctxt "Name"
+msgid "Italy"
+msgstr "ఇటాలియన్"
+
+#: src/l10n/je/country.desktop:2
+msgctxt "Name"
+msgid "Jersey"
+msgstr ""
+
+#: src/l10n/jm/country.desktop:2
+msgctxt "Name"
+msgid "Jamaica"
+msgstr "జమైకా"
+
+#: src/l10n/jo/country.desktop:2
+msgctxt "Name"
+msgid "Jordan"
+msgstr "జార్డన్"
+
+#: src/l10n/jp/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Japanese"
+msgctxt "Name"
+msgid "Japan"
+msgstr "జపనీస్"
+
+#: src/l10n/ke/country.desktop:2
+msgctxt "Name"
+msgid "Kenya"
+msgstr "కెన్యా"
+
+#: src/l10n/kg/country.desktop:2
+msgctxt "Name"
+msgid "Kyrgyzstan"
+msgstr "కిర్గిస్థాన్"
+
+#: src/l10n/kh/country.desktop:2
+msgctxt "Name"
+msgid "Cambodia"
+msgstr "కంబొడియా"
+
+#: src/l10n/ki/country.desktop:2
+msgctxt "Name"
+msgid "Kiribati"
+msgstr "కిరిబాటి"
+
+#: src/l10n/km/country.desktop:2
+msgctxt "Name"
+msgid "Comoros"
+msgstr "కొమొరొస్"
+
+#: src/l10n/kn/country.desktop:2
+msgctxt "Name"
+msgid "St. Kitts and Nevis"
+msgstr "సెం. కిట్స్ మరయూ నెవిస్"
+
+#: src/l10n/kp/country.desktop:2
+msgctxt "Name"
+msgid "North Korea"
+msgstr "ఉత్తర కొరియా"
+
+#: src/l10n/kr/country.desktop:2
+msgctxt "Name"
+msgid "South Korea"
+msgstr "దక్షిణ కొరియా"
+
+#: src/l10n/kw/country.desktop:2
+msgctxt "Name"
+msgid "Kuwait"
+msgstr "కువైట్"
+
+#: src/l10n/ky/country.desktop:2
+msgctxt "Name"
+msgid "Cayman Islands"
+msgstr "కెమెన్ ద్విపాలు"
+
+#: src/l10n/kz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Kazakh"
+msgctxt "Name"
+msgid "Kazakhstan"
+msgstr "కజాఖ్"
+
+#: src/l10n/la/country.desktop:2
+msgctxt "Name"
+msgid "Laos"
+msgstr "లావొస్"
+
+#: src/l10n/lb/country.desktop:2
+msgctxt "Name"
+msgid "Lebanon"
+msgstr "లెబెనాన్"
+
+#: src/l10n/lc/country.desktop:2
+msgctxt "Name"
+msgid "St. Lucia"
+msgstr "సెం. లూసియా"
+
+#: src/l10n/li/country.desktop:2
+msgctxt "Name"
+msgid "Liechtenstein"
+msgstr "లిచ్టెన్ స్టీన్"
+
+#: src/l10n/lk/country.desktop:2
+msgctxt "Name"
+msgid "Sri Lanka"
+msgstr "శ్రీ లంక"
+
+#: src/l10n/lr/country.desktop:2
+msgctxt "Name"
+msgid "Liberia"
+msgstr "లైబీరియా"
+
+#: src/l10n/ls/country.desktop:2
+msgctxt "Name"
+msgid "Lesotho"
+msgstr "లెసొథొ"
+
+#: src/l10n/lt/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Lithuania"
+msgstr "లితువెనియన్"
+
+#: src/l10n/lu/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Luxembourgish"
+msgctxt "Name"
+msgid "Luxembourg"
+msgstr "లక్సెంబర్గిష్"
+
+#: src/l10n/lv/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Latvian"
+msgctxt "Name"
+msgid "Latvia"
+msgstr "లాటివ్యన్"
+
+#: src/l10n/ly/country.desktop:2
+msgctxt "Name"
+msgid "Libya"
+msgstr "లిబియా"
+
+#: src/l10n/ma/country.desktop:2
+msgctxt "Name"
+msgid "Morocco"
+msgstr "మొరాకో"
+
+#: src/l10n/mc/country.desktop:2
+msgctxt "Name"
+msgid "Monaco"
+msgstr "మొనాకొ"
+
+#: src/l10n/md/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Moldavian"
+msgctxt "Name"
+msgid "Moldova"
+msgstr "మొల్దావియన్"
+
+#: src/l10n/me/country.desktop:3
+msgctxt "Name"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: src/l10n/mf/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "San Marino"
+msgctxt "Name"
+msgid "Saint Martin"
+msgstr "సాన్ మెరినో"
+
+#: src/l10n/mg/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malagasy"
+msgctxt "Name"
+msgid "Madagascar"
+msgstr "మలగాసి"
+
+#: src/l10n/mh/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marshallese"
+msgctxt "Name"
+msgid "Marshall Islands"
+msgstr "మార్షలీస్"
+
+#: src/l10n/middleeast.desktop:2
+msgctxt "Name"
+msgid "Middle-East"
+msgstr "మద్యాసియా"
+
+#: src/l10n/mk/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "Macedonia"
+msgstr "మసిడొనియన్"
+
+#: src/l10n/ml/country.desktop:2
+msgctxt "Name"
+msgid "Mali"
+msgstr "మాలి"
+
+#: src/l10n/mm/country.desktop:2
+msgctxt "Name"
+msgid "Myanmar"
+msgstr "మ్యాన్మార్"
+
+#: src/l10n/mn/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Mongolian"
+msgctxt "Name"
+msgid "Mongolia"
+msgstr "మంగోలియన్"
+
+#: src/l10n/mo/country.desktop:2
+msgctxt "Name"
+msgid "Macau SAR(China)"
+msgstr "మకావు (చైనా)"
+
+#: src/l10n/mp/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Marshall Islands"
+msgctxt "Name"
+msgid "Northern Mariana Islands"
+msgstr "మార్షల్ ద్విపాలు"
+
+#: src/l10n/mq/country.desktop:2
+msgctxt "Name"
+msgid "Martinique"
+msgstr "మార్టినెక్"
+
+#: src/l10n/mr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Lithuanian"
+msgctxt "Name"
+msgid "Mauritania"
+msgstr "లితువెనియన్"
+
+#: src/l10n/ms/country.desktop:2
+msgctxt "Name"
+msgid "Montserrat"
+msgstr "మాంట్ సెరాట్"
+
+#: src/l10n/mt/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Maltese"
+msgctxt "Name"
+msgid "Malta"
+msgstr "మాల్టీస్"
+
+#: src/l10n/mu/country.desktop:2
+msgctxt "Name"
+msgid "Mauritius"
+msgstr "మారీషియస్"
+
+#: src/l10n/mv/country.desktop:2
+msgctxt "Name"
+msgid "Maldives"
+msgstr "మాల్దీవులు"
+
+#: src/l10n/mw/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malay"
+msgctxt "Name"
+msgid "Malawi"
+msgstr "మలయ"
+
+#: src/l10n/mx/country.desktop:2
+msgctxt "Name"
+msgid "Mexico"
+msgstr "మెక్సికొ"
+
+#: src/l10n/my/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Malay"
+msgctxt "Name"
+msgid "Malaysia"
+msgstr "మలయ"
+
+#: src/l10n/mz/country.desktop:2
+msgctxt "Name"
+msgid "Mozambique"
+msgstr "మొజాంబిక్"
+
+#: src/l10n/na/country.desktop:2
+msgctxt "Name"
+msgid "Namibia"
+msgstr "నమిబియా"
+
+#: src/l10n/nc/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "New Caledonia"
+msgstr "మసిడొనియన్"
+
+#: src/l10n/ne/country.desktop:2
+msgctxt "Name"
+msgid "Niger"
+msgstr "నైజర్"
+
+#: src/l10n/nf/country.desktop:2
+msgctxt "Name"
+msgid "Norfolk Island"
+msgstr "నార్ఫొక్ ద్విపం"
+
+#: src/l10n/ng/country.desktop:2
+msgctxt "Name"
+msgid "Nigeria"
+msgstr "నైజీరియా"
+
+#: src/l10n/ni/country.desktop:2
+msgctxt "Name"
+msgid "Nicaragua"
+msgstr "నికరాగువా"
+
+#: src/l10n/nl/country.desktop:3
+msgctxt "Name"
+msgid "Netherlands"
+msgstr "నెదర్లెండ్స్"
+
+#: src/l10n/no/country.desktop:3
+msgctxt "Name"
+msgid "Norway"
+msgstr "నార్వె"
+
+#: src/l10n/northafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Northern"
+msgstr "ఉత్తర ఆఫ్రికా"
+
+#: src/l10n/northamerica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "America, North"
+msgstr "అమెరికన్ ఆంగ్లం"
+
+#: src/l10n/northeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Northern"
+msgstr "ఉత్తర ఐరొపా"
+
+#: src/l10n/np/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Nepali"
+msgctxt "Name"
+msgid "Nepal"
+msgstr "నేపాలి"
+
+#: src/l10n/nu/country.desktop:2
+msgctxt "Name"
+msgid "Niue"
+msgstr "నియు"
+
+#: src/l10n/nz/country.desktop:3
+msgctxt "Name"
+msgid "New Zealand"
+msgstr "న్యుజీలాండ్"
+
+#: src/l10n/oceania.desktop:2
+msgctxt "Name"
+msgid "Oceania"
+msgstr "ఓసియానియా"
+
+#: src/l10n/om/country.desktop:2
+msgctxt "Name"
+msgid "Oman"
+msgstr "ఒమాన్"
+
+#: src/l10n/pa/country.desktop:2
+msgctxt "Name"
+msgid "Panama"
+msgstr "పనమా"
+
+#: src/l10n/pe/country.desktop:2
+msgctxt "Name"
+msgid "Peru"
+msgstr "పెరు"
+
+#: src/l10n/pf/country.desktop:2
+msgctxt "Name"
+msgid "French Polynesia"
+msgstr "ఫ్రెంచి పాలినెషియా"
+
+#: src/l10n/pg/country.desktop:2
+msgctxt "Name"
+msgid "Papua New Guinea"
+msgstr "పాపువా న్యు గుయ్నియ"
+
+#: src/l10n/ph/country.desktop:2
+msgctxt "Name"
+msgid "Philippines"
+msgstr "ఫిలిపీన్స్"
+
+#: src/l10n/pk/country.desktop:2
+msgctxt "Name"
+msgid "Pakistan"
+msgstr "పాకిస్థాన్"
+
+#: src/l10n/pl/country.desktop:2
+msgctxt "Name"
+msgid "Poland"
+msgstr "పోలాండ్"
+
+#: src/l10n/pm/country.desktop:2
+msgctxt "Name"
+msgid "Saint Pierre and Miquelon"
+msgstr "సెం. పియెర్ మరయూ మికెలాన్"
+
+#: src/l10n/pn/country.desktop:2
+msgctxt "Name"
+msgid "Pitcairn"
+msgstr "పిట్కెర్న్"
+
+#: src/l10n/pr/country.desktop:2
+msgctxt "Name"
+msgid "Puerto Rico"
+msgstr "ప్యుర్టో రికొ"
+
+#: src/l10n/ps/country.desktop:2
+msgctxt "Name"
+msgid "Palestinian Territory"
+msgstr "పాలెస్తినా"
+
+#: src/l10n/pt/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Portuguese"
+msgctxt "Name"
+msgid "Portugal"
+msgstr "పోర్ట్యుగీస్"
+
+#: src/l10n/pw/country.desktop:2
+msgctxt "Name"
+msgid "Palau"
+msgstr "పలౌ"
+
+#: src/l10n/py/country.desktop:2
+msgctxt "Name"
+msgid "Paraguay"
+msgstr "పెరాగ్వె"
+
+#: src/l10n/qa/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tatar"
+msgctxt "Name"
+msgid "Qatar"
+msgstr "తతర్"
+
+#: src/l10n/re/country.desktop:2
+msgctxt "Name"
+msgid "Réunion"
+msgstr ""
+
+#: src/l10n/ro/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Romanian"
+msgctxt "Name"
+msgid "Romania"
+msgstr "రొమేనియన్"
+
+#: src/l10n/rs/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian"
+msgctxt "Name"
+msgid "Serbia"
+msgstr "సెర్బియన్"
+
+#: src/l10n/ru/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Russian"
+msgctxt "Name"
+msgid "Russia"
+msgstr "రషియన్"
+
+#: src/l10n/rw/country.desktop:2
+msgctxt "Name"
+msgid "Rwanda"
+msgstr "ర్వాండా"
+
+#: src/l10n/sa/country.desktop:2
+msgctxt "Name"
+msgid "Saudi Arabia"
+msgstr "సౌదీ అరెబియా"
+
+#: src/l10n/sb/country.desktop:2
+msgctxt "Name"
+msgid "Solomon Islands"
+msgstr "సొలొమొన్ ద్విపాలు"
+
+#: src/l10n/sc/country.desktop:2
+msgctxt "Name"
+msgid "Seychelles"
+msgstr "సెషెల్స్"
+
+#: src/l10n/sd/country.desktop:2
+msgctxt "Name"
+msgid "Sudan"
+msgstr "సుడాన్"
+
+#: src/l10n/se/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Swedish"
+msgctxt "Name"
+msgid "Sweden"
+msgstr "స్వీడిష్"
+
+#: src/l10n/sg/country.desktop:2
+msgctxt "Name"
+msgid "Singapore"
+msgstr "సింగాపుర్"
+
+#: src/l10n/sh/country.desktop:2
+msgctxt "Name"
+msgid "Saint Helena"
+msgstr "సెం. హెలినా"
+
+#: src/l10n/si/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovenian"
+msgctxt "Name"
+msgid "Slovenia"
+msgstr "స్లొవేనియన్"
+
+#: src/l10n/sk/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Slovak"
+msgctxt "Name"
+msgid "Slovakia"
+msgstr "స్లొవాక్"
+
+#: src/l10n/sl/country.desktop:2
+msgctxt "Name"
+msgid "Sierra Leone"
+msgstr "సైరా లియాన్"
+
+#: src/l10n/sm/country.desktop:2
+msgctxt "Name"
+msgid "San Marino"
+msgstr "సాన్ మెరినో"
+
+#: src/l10n/sn/country.desktop:2
+msgctxt "Name"
+msgid "Senegal"
+msgstr "సెనెగల్"
+
+#: src/l10n/so/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Somali"
+msgctxt "Name"
+msgid "Somalia"
+msgstr "సొమాలి"
+
+#: src/l10n/southafrica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "Africa, Southern"
+msgstr "సోతొ, దక్షిణ"
+
+#: src/l10n/southamerica.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "American English"
+msgctxt "Name"
+msgid "America, South"
+msgstr "అమెరికన్ ఆంగ్లం"
+
+#: src/l10n/southasia.desktop:2
+msgctxt "Name"
+msgid "Asia, South"
+msgstr "దక్షిణ ఆసియా"
+
+#: src/l10n/southeastasia.desktop:2
+msgctxt "Name"
+msgid "Asia, South-East"
+msgstr "ఆగ్నేయ ఆసియా"
+
+#: src/l10n/southeurope.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "Europe, Southern"
+msgstr "సోతొ, దక్షిణ"
+
+#: src/l10n/sr/country.desktop:2
+msgctxt "Name"
+msgid "Suriname"
+msgstr "సూరినామ్"
+
+#: src/l10n/ss/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Sotho, Southern"
+msgctxt "Name"
+msgid "South Sudan"
+msgstr "సోతొ, దక్షిణ"
+
+#: src/l10n/st/country.desktop:2
+msgctxt "Name"
+msgid "Sao Tome and Principe"
+msgstr "సావొ టొమ్ మరయూ ప్రిన్సిపి"
+
+#: src/l10n/sv/country.desktop:2
+msgctxt "Name"
+msgid "El Salvador"
+msgstr "ఎల్ సాల్వడార్"
+
+#: src/l10n/sy/country.desktop:2
+msgctxt "Name"
+msgid "Syria"
+msgstr "సిరియా"
+
+#: src/l10n/sz/country.desktop:2
+msgctxt "Name"
+msgid "Swaziland"
+msgstr "స్వాజీలాండ్"
+
+#: src/l10n/tc/country.desktop:2
+msgctxt "Name"
+msgid "Turks and Caicos Islands"
+msgstr "టర్క్స్ మరయూ కైకొస్ ద్విపాలు"
+
+#: src/l10n/td/country.desktop:2
+msgctxt "Name"
+msgid "Chad"
+msgstr "చాద్"
+
+#: src/l10n/tg/country.desktop:2
+msgctxt "Name"
+msgid "Togo"
+msgstr "టొగొ"
+
+#: src/l10n/th/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Thai"
+msgctxt "Name"
+msgid "Thailand"
+msgstr "థాయి"
+
+#: src/l10n/tj/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Tajik"
+msgctxt "Name"
+msgid "Tajikistan"
+msgstr "తాజిక్"
+
+#: src/l10n/tk/country.desktop:2
+msgctxt "Name"
+msgid "Tokelau"
+msgstr "టొకెలౌ"
+
+#: src/l10n/tl/country.desktop:2
+msgctxt "Name"
+msgid "Timor-Leste"
+msgstr "టైమోర్-లెస్టే"
+
+#: src/l10n/tm/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkmenistan"
+msgstr "తుర్క్మెన్"
+
+#: src/l10n/tn/country.desktop:2
+msgctxt "Name"
+msgid "Tunisia"
+msgstr "తునీషియా"
+
+#: src/l10n/tp/country.desktop:2
+msgctxt "Name"
+msgid "East Timor"
+msgstr "తూర్పు టిమోర్"
+
+#: src/l10n/tr/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Turkmen"
+msgctxt "Name"
+msgid "Turkey"
+msgstr "తుర్క్మెన్"
+
+#: src/l10n/tt/country.desktop:2
+msgctxt "Name"
+msgid "Trinidad and Tobago"
+msgstr "ట్రినిడాడ్ మరయూ టొబాగొ"
+
+#: src/l10n/tv/country.desktop:2
+msgctxt "Name"
+msgid "Tuvalu"
+msgstr "టువాలు"
+
+#: src/l10n/tw/country.desktop:3
+msgctxt "Name"
+msgid "Taiwan"
+msgstr "తైవాన్"
+
+#: src/l10n/tz/country.desktop:2
+msgctxt "Name"
+msgid "Tanzania, United Republic of"
+msgstr "టాంజానియా"
+
+#: src/l10n/ua/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Ukrainian"
+msgctxt "Name"
+msgid "Ukraine"
+msgstr "ఉక్రేనియన్"
+
+#: src/l10n/ug/country.desktop:2
+msgctxt "Name"
+msgid "Uganda"
+msgstr "యుగాండా"
+
+#: src/l10n/us/country.desktop:2
+msgctxt "Name"
+msgid "United States of America"
+msgstr "అమెరికా సంయుక్త రాష్ట్రాలు"
+
+#: src/l10n/uy/country.desktop:2
+msgctxt "Name"
+msgid "Uruguay"
+msgstr "యురుగ్వె"
+
+#: src/l10n/uz/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Uzbek"
+msgctxt "Name"
+msgid "Uzbekistan"
+msgstr "ఉజ్బెక్"
+
+#: src/l10n/va/country.desktop:2
+msgctxt "Name"
+msgid "Vatican City"
+msgstr "వాటికాన్ నగరం"
+
+#: src/l10n/vc/country.desktop:2
+msgctxt "Name"
+msgid "St. Vincent and the Grenadines"
+msgstr "సెం. వింసెంట్ మరయూ గ్రెనెడైన్స్"
+
+#: src/l10n/ve/country.desktop:2
+msgctxt "Name"
+msgid "Venezuela"
+msgstr "వెనిజులా"
+
+#: src/l10n/vg/country.desktop:2
+msgctxt "Name"
+msgid "Virgin Islands, British"
+msgstr "వర్జిన్ ద్వీపాలు, బ్రిటీష్"
+
+#: src/l10n/vi/country.desktop:2
+msgctxt "Name"
+msgid "Virgin Islands, U.S."
+msgstr "వర్జిన్ ద్వీపాలు, అమెరికా"
+
+#: src/l10n/vn/country.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vietnamese"
+msgctxt "Name"
+msgid "Vietnam"
+msgstr "వియత్నామీస్"
+
+#: src/l10n/vu/country.desktop:2
+msgctxt "Name"
+msgid "Vanuatu"
+msgstr "వనువాటు"
+
+#: src/l10n/westafrica.desktop:2
+msgctxt "Name"
+msgid "Africa, Western"
+msgstr "పశ్చిమ ఆఫ్రికా"
+
+#: src/l10n/westeurope.desktop:2
+msgctxt "Name"
+msgid "Europe, Western"
+msgstr "పశ్చిమ ఐరొపా"
+
+#: src/l10n/wf/country.desktop:2
+msgctxt "Name"
+msgid "Wallis and Futuna"
+msgstr "వాల్లిస్ మరయూ ఫుటునా"
+
+#: src/l10n/ws/country.desktop:3
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Samoan"
+msgctxt "Name"
+msgid "Samoa"
+msgstr "సమొవన్"
+
+#: src/l10n/ye/country.desktop:2
+msgctxt "Name"
+msgid "Yemen"
+msgstr "యెమెన్"
+
+#: src/l10n/yt/country.desktop:2
+msgctxt "Name"
+msgid "Mayotte"
+msgstr ""
+
+#: src/l10n/za/country.desktop:3
+msgctxt "Name"
+msgid "South Africa"
+msgstr "దక్షిణ ఆఫ్రికా"
+
+#: src/l10n/zm/country.desktop:2
+msgctxt "Name"
+msgid "Zambia"
+msgstr "జాంబియా"
+
+#: src/l10n/zw/country.desktop:2
+msgctxt "Name"
+msgid "Zimbabwe"
+msgstr "జింబాబ్వె"
+
+#: src/solid-networkstatus/kded/networkstatus.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Network Status Daemon"
+msgctxt "Name"
+msgid "Network Status"
+msgstr "నెట్వర్‍క్  స్థితి డెమోన్"
+
+#: src/solid-networkstatus/kded/networkstatus.desktop:65
+msgctxt "Comment"
+msgid ""
+"Tracks status of network interfaces and provides notification to "
+"applications using the network."
+msgstr ""
+"నెట్వర్‍క్  ఇంటర్‌ఫేసెస్ యొక్క స్థితిని ట్రాక్ చేస్తుంది మరియు నెట్వర్‍క్  ఉపయోగించే అనువర్తనములకు నోటీస్‌ను "
+"అందిస్తుంది"
+
+#~ msgctxt "Name"
+#~ msgid "Czech Republic"
+#~ msgstr "చెక్ రిపబ్లిక్"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "English"
+#~ msgctxt "Name"
+#~ msgid "US English"
+#~ msgstr "ఆంగ్లం"
+
+#~ msgctxt "Comment"
+#~ msgid "Instant Messenger with a D-Bus interface"
+#~ msgstr "డి-బస్ ఇంటర్ఫెస్ కలిగివున్న ఇంస్టెంట్ మెస్సెన్జర్"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Instant Messenger"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Instant Messenger"
+#~ msgstr "ఇంస్టెంట్ మెస్సెన్జర్"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The instant messenger allows two-way chat between individuals and groups."
+#~ msgstr "ఇంస్టెంట్ మెస్సెన్జర్ వ్యక్తు లు మరయు గుంపుల తొ ఇరువయపుల నుంచి సంబాషించవచ్చు "
+
+#~ msgctxt "Comment"
+#~ msgid "Text-to-Speech Service with a D-Bus interface"
+#~ msgstr "డి-బస్ ఇంటర్ఫేస్ కల్గిన వాచకం నుంచి మాటలకు మార్చు సేవ"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Embedded Text Editor"
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Embedded Text Editor"
+#~ msgstr "పొదగిన వాచకం సరిచేయునది"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "The text editor service provides applications with a text viewer and "
+#~ "editor. KDE applications that provide text editing facilities should use "
+#~ "this service."
+#~ msgstr ""
+#~ "కార్యక్రమాలకు వాచకం సరిచేయు సేవ ఒక వాచకం విక్షణ మరియు సరిచెయుటకు సహాయపడును. కెడిఈ కార్యక్రమాలు "
+#~ "వాచకం సరిచెయు సౌకర్యాలు వున్నట్టైతె దిని సేవ ను ఉపయొగించొకొవలెను"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Text Editor Component (with Doc/View Separation)"
+#~ msgstr "పొదగబడె వాచకం సరిచేయు అంశం (పత్ర/వీక్షణ విభజన వున్నది)"
+
+#~ msgctxt "Comment"
+#~ msgid "KTextEditor Plugin"
+#~ msgstr "కెటెక్స్ట్ ఎడిటర్ ప్లగిన్"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Plugin Information"
+#~ msgstr "కెడిఈ ప్లగిన్ సమాచారం"
+
+#~ msgctxt "Comment"
+#~ msgid "Sonnet Spell Client"
+#~ msgstr "సొన్నెట్ కెస్పెల్ క్లైట్"
+
+#~ msgctxt "Comment"
+#~ msgid "KDED Module"
+#~ msgstr "కెడిఈడి మాడ్యూల్"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDED Module"
+#~ msgctxt "Name"
+#~ msgid "KFileModule"
+#~ msgstr "కెడిఈడి మాడ్యూల్"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Java Applet Viewer"
+#~ msgstr "పొదిగిన జావా ఎపలెట్ చూపరి"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable HTML viewing component"
+#~ msgstr "పొదగదగ్గ HTML విక్షణాంశం"
+
+#~ msgctxt "Name"
+#~ msgid "KHTML"
+#~ msgstr "కెహెచ్ టి ఎమ్ ఎల్"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Image Viewing Component"
+#~ msgstr "పొదగదగ్గ ప్రతిబింబాల విక్షణాంశం"
+
+#~ msgctxt "Name"
+#~ msgid "Embeddable Image Viewer"
+#~ msgstr "పొదిగిన ప్రతిబింబ చూపరి"
+
+#~ msgctxt "Name"
+#~ msgid "Embeddable Component for multipart/mixed"
+#~ msgstr "మల్టిపార్ట్/మిక్స్డ్ కొరకు పొదిగిన అంశం"
+
+#~ msgctxt "Name"
+#~ msgid "Application"
+#~ msgstr "కార్యక్రమం"
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for data URIs (rfc2397)"
+#~ msgstr "దత్తాంశం యుఆరైల కొరకు కెఐఓబానిస (rfc2397)"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Configuration Module"
+#~ msgstr "కెడిఈ అమరిక మాడ్యూల్"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KDED Module"
+#~ msgctxt "Comment"
+#~ msgid "KIO File Module"
+#~ msgstr "కెడిఈడి మాడ్యూల్"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Properties Dialog"
+#~ msgstr "లక్షణాల సంభాషణ కొరకు ప్లగిన్"
+
+#~ msgctxt "Name"
+#~ msgid "KFile Meta Data Plugin"
+#~ msgstr "కెదస్త్రం మెటా దత్తాంసం ప్లగిన్"
+
+#~ msgctxt "Name"
+#~ msgid "Enhanced Browsing Plugin"
+#~ msgstr "అభివ్రుద్దిపరచిన బ్రౌజింగ్ ప్లగిన్"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "స్వయంచాలక ప్రాక్సీ రూపకరణం"
+
+#~ msgctxt "Comment"
+#~ msgid "Automatic proxy configuration"
+#~ msgstr "స్వయంచాలక ప్రాక్సీ రూపకరణం"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Comment"
+#~ msgid "Network Proxy Configuration"
+#~ msgstr "స్వయంచాలక ప్రాక్సీ రూపకరణం"
+
+#~ msgctxt "Name"
+#~ msgid "Invalid Proxy Script"
+#~ msgstr "చెల్లని ప్రాక్సీ స్క్రిప్ట్"
+
+#~ msgctxt "Comment"
+#~ msgid "The downloaded proxy configuration script is invalid"
+#~ msgstr "డౌన్ లోడ్ చేయబడిన్ ప్రాక్సీ రూపకరణపు స్క్రిప్ట్ చెల్లదు"
+
+#~ msgctxt "Name"
+#~ msgid "Script Download Error"
+#~ msgstr "స్క్రిప్ట్ డౌన్ లోడ్ దోషం"
+
+#~ msgctxt "Comment"
+#~ msgid "The proxy configuration script could not be downloaded"
+#~ msgstr "ప్రాక్సీ రూపకరణపు స్క్రిప్ట్ ని డౌన్ లోడ్ చేయలేకపోయాం"
+
+#~ msgctxt "Name"
+#~ msgid "Script Evaluation Error"
+#~ msgstr "స్క్రిప్ట్ నిర్వహణ దోషం"
+
+#~ msgctxt "Comment"
+#~ msgid "There was an error executing the proxy configuration script"
+#~ msgstr "ప్రాక్సీ రూపకరణపు స్క్రిప్ట్ నిర్వహణలొ దోషం వున్నది"
+
+#~ msgctxt "Description"
+#~ msgid "Microsoft Media Server Protocol"
+#~ msgstr "మైక్రొసాఫ్ట్ మీడియా సెర్వర్ ప్రొటొకాల్"
+
+#~ msgctxt "Comment"
+#~ msgid "Plugin for the Rename Dialog"
+#~ msgstr "పేరు మార్చు సంభాషణ కొరకు ప్లగిన్"
+
+#~ msgctxt "Name"
+#~ msgid "HTTP Cache Cleaner"
+#~ msgstr "హెచ్ టిటిపి కోశం శుభ్రంచేసేది"
+
+#~ msgctxt "Comment"
+#~ msgid "Cleans up old entries from the HTTP cache"
+#~ msgstr "హెచ్ టిటిపి కోశం నుంచి పాత ఆరొపములను శుభ్రం చేసేది"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "KDED Cookie Jar Module"
+#~ msgctxt "Name"
+#~ msgid "Cookie Jar"
+#~ msgstr "కెడిఈడి కుకీ జాడి మాడ్యూల్"
+
+#~ msgctxt "Name"
+#~ msgid "Dummy Meta"
+#~ msgstr "డమ్మి మెటా"
+
+#~ msgctxt "Comment"
+#~ msgid "A Message has been received"
+#~ msgstr "సందేశం వచ్చింది"
+
+#~ msgctxt "Name"
+#~ msgid "Browser View"
+#~ msgstr "అన్వేషి వీక్షణం"
+
+#~ msgctxt "Comment"
+#~ msgid "KDE Component"
+#~ msgstr "కెడిఈ అంశం"
+
+#~ msgctxt "Name"
+#~ msgid "Notepad (example)"
+#~ msgstr "నోట్ పేడ్ (ఉదాహరణ)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Word Completion"
+#~ msgctxt "Name"
+#~ msgid "Collection"
+#~ msgstr "పదం పూరణ"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "KFileWrite plugin"
+#~ msgctxt "Comment"
+#~ msgid "KRunner plugin"
+#~ msgstr "కెఫైల్ వ్రైట్ ప్లగిన్"
+
+#~ msgctxt "Comment"
+#~ msgid "Embeddable Personal Certificate Manager"
+#~ msgstr "పొదగబడె వక్తిగత ప్రమాణ పత్రాల అభికర్త"
+
+#~ msgctxt "Name"
+#~ msgid "KCertPart"
+#~ msgstr "కెసెర్ట్ పార్ట్"
+
+#~ msgctxt "Name"
+#~ msgid "ASpell"
+#~ msgstr "ఏస్పెల్"
+
+#~ msgctxt "Name"
+#~ msgid "HSpell"
+#~ msgstr "హెచ్ స్పెల్"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "HSpell"
+#~ msgctxt "Name"
+#~ msgid "Hunspell"
+#~ msgstr "హెచ్ స్పెల్"
+
+#~ msgctxt "Name"
+#~ msgid "BMP"
+#~ msgstr "బిఎంపి"
+
+#~ msgctxt "Name"
+#~ msgid "DDS"
+#~ msgstr "డిడిఎస్"
+
+#~ msgctxt "Name"
+#~ msgid "EPS"
+#~ msgstr "ఇపిఎస్"
+
+#~ msgctxt "Name"
+#~ msgid "EXR"
+#~ msgstr "ఇఎక్స్ ఆర్"
+
+#~ msgctxt "Name"
+#~ msgid "GIF"
+#~ msgstr "జిఐఎఫ్"
+
+#~ msgctxt "Name"
+#~ msgid "HDR"
+#~ msgstr "హెచ్ డి ఆర్"
+
+#~ msgctxt "Name"
+#~ msgid "ICO"
+#~ msgstr "ఐసిఓ"
+
+#~ msgctxt "Name"
+#~ msgid "JP2"
+#~ msgstr "జెపి2"
+
+#~ msgctxt "Name"
+#~ msgid "JPEG"
+#~ msgstr "జెపిఈజి"
+
+#~ msgctxt "Name"
+#~ msgid "MNG"
+#~ msgstr "ఎంఎన్ జి"
+
+#~ msgctxt "Name"
+#~ msgid "PBM"
+#~ msgstr "పిబిఎం"
+
+#~ msgctxt "Name"
+#~ msgid "PCX"
+#~ msgstr "పిసిఎక్స్"
+
+#~ msgctxt "Name"
+#~ msgid "PGM"
+#~ msgstr "పిజిఎం"
+
+#~ msgctxt "Name"
+#~ msgid "PNG"
+#~ msgstr "పిఎన్ జి"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "PBM"
+#~ msgctxt "Name"
+#~ msgid "PNM"
+#~ msgstr "పిబిఎం"
+
+#~ msgctxt "Name"
+#~ msgid "PPM"
+#~ msgstr "పిపిఎం"
+
+#~ msgctxt "Name"
+#~ msgid "PSD"
+#~ msgstr "పిఎస్ డి"
+
+#~ msgctxt "Name"
+#~ msgid "RGB"
+#~ msgstr "ఆర్ జి బి"
+
+#~ msgctxt "Name"
+#~ msgid "TGA"
+#~ msgstr "టిజిఏ"
+
+#~ msgctxt "Name"
+#~ msgid "TIFF"
+#~ msgstr "టిఐ ఎఫ్ఎఫ్"
+
+#~ msgctxt "Name"
+#~ msgid "XBM"
+#~ msgstr "ఎక్స్ బిఎం"
+
+#~ msgctxt "Name"
+#~ msgid "XCF"
+#~ msgstr "ఎక్స్ సిఎఫ్"
+
+#~ msgctxt "Name"
+#~ msgid "XPM"
+#~ msgstr "ఎక్స్ పిఎం"
+
+#~ msgctxt "Name"
+#~ msgid "XV"
+#~ msgstr "ఎక్స్ వి"
+
+#~ msgctxt "Name"
+#~ msgid "Embedded Advanced Text Editor"
+#~ msgstr "ఆధునిక పొదగిన వాచకం సరిచేయునది"
+
+#~ msgctxt "Name"
+#~ msgid "Autobookmarker"
+#~ msgstr "ఆటొబుక్ మార్కర్"
+
+#~ msgctxt "Comment"
+#~ msgid "Set bookmarks on lines matching a pattern when documents are loaded"
+#~ msgstr "పత్రాలు ఎక్కించిన తరువాత బాణీకి సరిపొయిన వరుసల మీద బుక్ మార్కులను ఏర్పరుచును"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "Automatic Proxy Configuration"
+#~ msgctxt "Name"
+#~ msgid "AutoBrace Configuration"
+#~ msgstr "స్వయంచాలక ప్రాక్సీ రూపకరణం"
+
+#~ msgctxt "Name"
+#~ msgid "Insert File"
+#~ msgstr "దస్త్రం చేర్చు"
+
+#~ msgctxt "Comment"
+#~ msgid "Insert any readable file at cursor position"
+#~ msgstr "ములుకు వున్న చోట చదవగలిగే దస్త్రాన్ని దూర్చును "
+
+#~ msgctxt "Name"
+#~ msgid "Data Tools"
+#~ msgstr "దత్తాంశపు పనిముట్లు"
+
+#~ msgctxt "Comment"
+#~ msgid "Enable data tools like thesaurus and spell check (if installed)"
+#~ msgstr ""
+#~ "పదకోశం మరయూ అక్షర తప్పులను పట్టుకొను పనిముట్లను ఉపయోగించు (ఇంస్టాల్ చేసిన పనిచేయును)"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Insert File"
+#~ msgctxt "Name"
+#~ msgid "IconInserter"
+#~ msgstr "దస్త్రం చేర్చు"
+
+#~ msgctxt "Name"
+#~ msgid "KSSL Daemon Module"
+#~ msgstr "కెఎస్ ఎస్ ఎల్ సూత్రధారి మాడ్యూల్"
+
+#~ msgctxt "Comment"
+#~ msgid "KSSL daemon module for KDED"
+#~ msgstr "కెడిఈడి కొరకు కెఎస్ ఎస్ ఎల్ సూత్రధారి మాడ్యూల్"
+
+#~ msgctxt "Name"
+#~ msgid "Proxy Scout"
+#~ msgstr "ప్రాక్సీ వేగు"
+
+#~ msgctxt "Comment"
+#~ msgid "Keeps track of all cookies in the system"
+#~ msgstr "వ్యవస్థలోని అన్ని కుకీల జాడని వుంచుకుంటుంది"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Latin"
+#~ msgctxt "Name"
+#~ msgid "Long action"
+#~ msgstr "లాటిన్"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Bislama"
+#~ msgctxt "Name"
+#~ msgid "Plasma"
+#~ msgstr "బిస్లమా"
+
+#~ msgctxt "Comment"
+#~ msgid "Directional or popup-based completion from words in the document"
+#~ msgstr "పత్రం లోని పదాలు వాడె, దిశా లేక పాప్ అప్ ఆధారిత పద పూరణ"
+
+#~ msgctxt "Name"
+#~ msgid "KWallet Daemon Module"
+#~ msgstr "కెవాలెట్ సూత్రధారి మాడ్యూల్"
+
+#~ msgctxt "Comment"
+#~ msgid "KWallet daemon module for KDED"
+#~ msgstr "కెడిఈడి కొరకు కెవాలెట్ సూత్రధారి మాడ్యూల్"
+
+#~ msgctxt "Name"
+#~ msgid "Sound"
+#~ msgstr "శబ్దం"
+
+#~ msgctxt "Comment"
+#~ msgid "Sound System Configuration"
+#~ msgstr "శబ్ద వ్యవస్థ అమరిక"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Multimedia Backend"
+#~ msgstr "కెడిఈ బహుళ మాద్యమం బేక్ ఎండ్"

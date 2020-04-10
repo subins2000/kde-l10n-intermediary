@@ -1,0 +1,546 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"PO-Revision-Date: 2006-01-09 12:30+0530\n"
+"Last-Translator: Vijay Kiran Kamuju <infyquest@gmail.com>\n"
+"Language-Team: TELUGU <kde-i18n-doc@kde.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: af/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Afrikaans"
+msgstr "ఆఫ్రికాన్స్"
+
+#: ar/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Arabic"
+msgstr "అరబిక్"
+
+#: as/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Assamese"
+msgstr ""
+
+#: be@latin/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Belarusian"
+msgctxt "Name"
+msgid "Belarusian Latin"
+msgstr "బెలరుసియన్"
+
+#: be/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Belarusian"
+msgstr "బెలరుసియన్"
+
+#: bg/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bulgarian"
+msgstr "బల్గెరియన్"
+
+#: bn_IN/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali (India)"
+msgstr "బెంగాలి (ఇండియా)"
+
+#: bn/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Bengali"
+msgstr "బెంగాలి"
+
+#: br/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Breton"
+msgstr "బ్రెటన్"
+
+#: bs/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Estonian"
+msgctxt "Name"
+msgid "Bosnian"
+msgstr "ఎస్టొనియన్"
+
+#: ca/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan"
+msgstr "కెటలన్"
+
+#: ca@valencia/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Catalan (Valencian)"
+msgstr ""
+
+#: crh/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Crimean Tatar"
+msgstr ""
+
+#: csb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kashubian"
+msgstr "కషుబియన్"
+
+#: cs/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Czech"
+msgstr "చెక్"
+
+#: cy/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Welsh"
+msgstr "వెల్ష్"
+
+#: da/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Danish"
+msgstr "డెనిష్"
+
+#: de/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "German"
+msgstr "జెర్మన్"
+
+#: el/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Greek"
+msgstr "గ్రీక్"
+
+#: en_GB/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "British English"
+msgstr "బ్రిటిష్ ఆంగ్లము"
+
+#: eo/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Esperanto"
+msgstr "ఎస్పరాన్టొ"
+
+#: es/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Spanish"
+msgstr "స్పెనిష్"
+
+#: et/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Estonian"
+msgstr "ఎస్టొనియన్"
+
+#: eu/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Basque"
+msgstr "బాస్క్"
+
+#: fa/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Farsi"
+msgstr "ఫర్సి"
+
+#: fi/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Finnish"
+msgstr "ఫిన్నిష్"
+
+#: fr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "French"
+msgstr "ఫ్రెంచ్"
+
+#: fy/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Frisian"
+msgstr "ఫ్రిసియన్"
+
+#: ga/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Irish"
+msgstr "ఐరిష్"
+
+#: gl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Galician"
+msgstr "గెలిసియన్"
+
+#: gu/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Gujarati"
+msgstr "గుజరాతి"
+
+#: ha/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hausa"
+msgstr "హౌసా"
+
+#: he/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hebrew"
+msgstr "హీబ్రూ"
+
+#: hi/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hindi"
+msgstr "హింది"
+
+#: hne/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Chhattisgarhi"
+msgstr ""
+
+#: hr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Croatian"
+msgstr "క్రొయెషియన్"
+
+#: hsb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Upper Sorbian"
+msgstr "అప్పర్ సొర్బియన్"
+
+#: hu/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Hungarian"
+msgstr "హంగెరియన్"
+
+#: hy/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Armenian"
+msgstr "అర్మెనియన్"
+
+#: ia/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Interlingua"
+msgstr ""
+
+#: id/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Macedonian"
+msgctxt "Name"
+msgid "Indonesian"
+msgstr "మెసిడొనియన్"
+
+#: is/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Icelandic"
+msgstr "ఐస్ లేండిక్"
+
+#: it/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Italian"
+msgstr "ఇటాలియన్"
+
+#: ja/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Japanese"
+msgstr "జపనీస్"
+
+#: ka/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Georgian"
+msgstr "జార్జియన్"
+
+#: kk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kazakh"
+msgstr "కజాఖ్"
+
+#: km/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Khmer"
+msgstr "ఖ్మెర్"
+
+#: kn/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kannada"
+msgstr ""
+
+#: ko/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Korean"
+msgstr "కొరియన్"
+
+#: ku/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Kurdish"
+msgstr "కుర్దిష్"
+
+#: lb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Luxembourgish"
+msgstr "లక్సెమ్ బర్గిష్"
+
+#: lt/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Lithuanian"
+msgstr "లితువెనియన్"
+
+#: lv/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Latvian"
+msgstr "లాతివ్యన్"
+
+#: mai/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gujarati"
+msgctxt "Name"
+msgid "Maithili"
+msgstr "గుజరాతి"
+
+#: mk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Macedonian"
+msgstr "మెసిడొనియన్"
+
+#: ml/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Malayalam"
+msgstr "మలయాళం"
+
+#: mr/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Gujarati"
+msgctxt "Name"
+msgid "Marathi"
+msgstr "గుజరాతి"
+
+#: ms/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Malay"
+msgstr "మలయ"
+
+#: nb/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Bokmål"
+msgstr "నార్విజియన్ బొక్మాల్"
+
+#: nds/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Low Saxon"
+msgstr "లో సాక్సన్"
+
+#: ne/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Nepali"
+msgstr "నెపాలి"
+
+#: nl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Dutch"
+msgstr "డచ్"
+
+#: nn/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Norwegian Nynorsk"
+msgstr "నర్విజియన్ న్యొర్క్స్"
+
+#: or/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Oriya"
+msgstr ""
+
+#: pa/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Punjabi"
+msgstr "పంజాబి"
+
+#: pl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Polish"
+msgstr "పొలిష్"
+
+#: ps/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Pashto"
+msgstr ""
+
+#: pt_BR/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Brazil portuguese"
+msgstr "బ్రాజిల్ పొర్ట్యుగీస్"
+
+#: pt/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Portuguese"
+msgstr "పొర్ట్యుగీస్"
+
+#: ro/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Romanian"
+msgstr "రొమెనియన్"
+
+#: ru/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Russian"
+msgstr "రష్యన్"
+
+#: se/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Northern Sami"
+msgstr "ఉత్తర సమి"
+
+#: si/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Vietnamese"
+msgctxt "Name"
+msgid "Sinhala"
+msgstr "వియత్నమీస్"
+
+#: sk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Slovak"
+msgstr "స్లొవక్"
+
+#: sl/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Slovenian"
+msgstr "స్లొవెనియన్"
+
+#: sq/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Armenian"
+msgctxt "Name"
+msgid "Albanian"
+msgstr "అర్మెనియన్"
+
+#: sr@ijekavianlatin/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Ijekavian Latin"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: sr@ijekavian/messages/frameworks/kf5_entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Serbian Latin"
+msgctxt "Name"
+msgid "Serbian Ijekavian"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: sr@latin/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian Latin"
+msgstr "సెర్బియన్ లాటిన్"
+
+#: sr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Serbian"
+msgstr "సెర్బియన్"
+
+#: sv/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Swedish"
+msgstr "స్విడిష్"
+
+#: ta/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Tamil"
+msgstr "తమిళం"
+
+#: te/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Telugu"
+msgstr "తెలుగు"
+
+#: tg/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Tajik"
+msgstr "తాజిక్"
+
+#: th/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Thai"
+msgstr "థాయి"
+
+#: tr/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Turkish"
+msgstr "టర్కిష్"
+
+#: tt/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Tatar"
+msgstr ""
+
+#: ug/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Uyghur"
+msgstr ""
+
+#: uk/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Ukrainian"
+msgstr "ఉక్రెనియన్"
+
+#: uz@cyrillic/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek (Cyrillic)"
+msgstr ""
+
+#: uz/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Uzbek"
+msgstr "ఉజ్బెక్"
+
+#: vi/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Vietnamese"
+msgstr "వియత్నమీస్"
+
+#: wa/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Walloon"
+msgstr "వాలూన్"
+
+#: xh/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Xhosa"
+msgstr "క్జొసా"
+
+#: x-test/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "KDE Test Language"
+msgstr "కెడిఈ పరిక్షా భాష"
+
+#: zh_CN/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Simplified Chinese"
+msgstr "సరళికరించిన చైనీస్"
+
+#: zh_HK/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Chinese (Hong Kong)"
+msgstr "చైనీస్ (హాంగ్ కాంగ్)"
+
+#: zh_TW/messages/frameworks/kf5_entry.desktop:2
+msgctxt "Name"
+msgid "Traditional Chinese"
+msgstr ""
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Estonian"
+#~ msgctxt "Name"
+#~ msgid "Asturian"
+#~ msgstr "ఎస్టొనియన్"
+
+#~ msgctxt "Name"
+#~ msgid "KOffice"
+#~ msgstr "కెకార్యాలయం"
+
+#~ msgctxt "Name"
+#~ msgid "Chinese"
+#~ msgstr "చైనీస్"

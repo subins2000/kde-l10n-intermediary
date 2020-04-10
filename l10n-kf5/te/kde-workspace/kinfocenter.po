@@ -1,0 +1,345 @@
+# translation of kinfocenter.po to Telugu
+#
+# విజయ్ కిరణ్ కముజు <infyquest@gmail.com>>, 2007.
+# Krishna Babu K <kkrothap@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kinfocenter\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-29 03:19+0100\n"
+"PO-Revision-Date: 2009-01-16 22:16+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <en@li.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "విజయ్ కిరణ్ కముజు"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "infyquest@gmail.com"
+
+#, fuzzy
+#~| msgid "KDE Info Center"
+#~ msgctxt "Main window title"
+#~ msgid "KInfocenter"
+#~ msgstr "కెడిఈ సహాయ కేంద్రం"
+
+#, fuzzy
+#~| msgid "About Current Module"
+#~ msgctxt "Information about current module located in about menu"
+#~ msgid "About Current Information Module"
+#~ msgstr "ప్రస్తుత మాడ్యూల్ గురించి"
+
+#, fuzzy
+#~| msgid "Information"
+#~ msgid "Information Modules"
+#~ msgstr "సమాచారం"
+
+#, fuzzy
+#~| msgid "KDE Info Center"
+#~ msgid "Info Center"
+#~ msgstr "కెడిఈ సహాయ కేంద్రం"
+
+#~ msgid "Current Maintainer"
+#~ msgstr "ప్రస్తుత సంరక్షకుడు"
+
+#~ msgid "Helge Deller"
+#~ msgstr "హెల్గె డెల్లర్"
+
+#~ msgid "Previous Maintainer"
+#~ msgstr "ముందటి సంరక్షకుడు"
+
+#~ msgid "Matthias Hoelzer-Kluepfel"
+#~ msgstr "మథయాస్ హొయెల్జర్-క్లూప్ఫెల్"
+
+#~ msgid "Matthias Elter"
+#~ msgstr "మథయాస్ ఎల్టర్"
+
+#~ msgid "Matthias Ettrich"
+#~ msgstr "మథయాస్ ఎట్ట్రిచ్"
+
+#~ msgid "Waldo Bastian"
+#~ msgstr "వాల్డొ బాస్టియన్"
+
+#~ msgid "Nicolas Ternisien"
+#~ msgstr "నికొలాస్ టెర్నిసియన్"
+
+#~ msgid "The KDE Info Center"
+#~ msgstr "కెడిఈ సమాచార కేంద్రం"
+
+#, fuzzy
+#~| msgid "(c) 1998-2004, The KDE Control Center Developers"
+#~ msgid "(c) 2009-2010, The KDE SC KInfocenter Development Team"
+#~ msgstr "(c) 1998-2004, కెడిఈ నియంత్రణ కేంద్రం వికాసకులు"
+
+#, fuzzy
+#~| msgid "Information"
+#~ msgid "Information exported"
+#~ msgstr "సమాచారం"
+
+#~ msgid "Name"
+#~ msgstr "పేరు"
+
+#~ msgid "Status"
+#~ msgstr "స్థితి"
+
+#~ msgid "Location"
+#~ msgstr "స్థానం"
+
+#~ msgid "Description"
+#~ msgstr "వర్ణన"
+
+#, fuzzy
+#~| msgid "Device Information"
+#~ msgid "Information"
+#~ msgstr "పరికర సమాచారం"
+
+#~ msgid "Value"
+#~ msgstr "విలువ"
+
+#, fuzzy
+#~| msgid "MB"
+#~ msgctxt "Mebibyte"
+#~ msgid "MiB "
+#~ msgstr "ఎంబి"
+
+#~ msgid "Device"
+#~ msgstr "పరికరం"
+
+#~ msgid "Mount Point"
+#~ msgstr "మౌంటు పాయింట్"
+
+#~ msgid "FS Type"
+#~ msgstr "ఎఫ్ ఎస్ రకం"
+
+#~ msgid "Total Size"
+#~ msgstr "మొత్తం పరిమాణం"
+
+#~ msgid "Free Size"
+#~ msgstr "ఖాళీ పరిమాణము"
+
+#~ msgid "CPU %1: %2, %3 MHz"
+#~ msgstr "సిపియు %1: %2, %3 ఎం హె"
+
+#~ msgid "CPU %1: %2, unknown speed"
+#~ msgstr "సిపియు %1: %2, తెలియని వేగం"
+
+#, fuzzy
+#~| msgid "Mount Point"
+#~ msgid "Mount Options"
+#~ msgstr "మౌంటు పాయింట్"
+
+#~ msgid "Machine"
+#~ msgstr "యంత్రం"
+
+#, fuzzy
+#~| msgid "(unknown)"
+#~ msgid "(none)"
+#~ msgstr "(తెలియని)"
+
+#~ msgid "CPU Clock"
+#~ msgstr "సిపియు గడియారం"
+
+#~ msgid "MHz"
+#~ msgstr "ఎం హె"
+
+#~ msgid "(unknown)"
+#~ msgstr "(తెలియని)"
+
+#, fuzzy
+#~| msgid "MB"
+#~ msgctxt "Mebibyte"
+#~ msgid "MiB"
+#~ msgstr "ఎంబి"
+
+#, fuzzy
+#~| msgid "Bytes"
+#~ msgid " Bytes"
+#~ msgstr "బైట్లు"
+
+#~ msgid "MB"
+#~ msgstr "ఎంబి"
+
+#~ msgid "Vendor"
+#~ msgstr "అమ్మకందారి (వెండార్)"
+
+#, fuzzy
+#~| msgid "Vendor"
+#~ msgid "Vendor Number"
+#~ msgstr "అమ్మకందారి (వెండార్)"
+
+#~ msgid "Release"
+#~ msgstr "విడుదల"
+
+#, fuzzy
+#~| msgid "DMA-Channel"
+#~ msgid "Mono-Channel"
+#~ msgstr "DMA-చానల్"
+
+#, fuzzy
+#~| msgid "DMA-Channel"
+#~ msgid "Left-Channel"
+#~ msgstr "DMA-చానల్"
+
+#, fuzzy
+#~| msgid "DMA-Channel"
+#~ msgid "Right-Channel"
+#~ msgstr "DMA-చానల్"
+
+#~ msgid "Block Size"
+#~ msgstr "బ్లాక్ పరిమాణం"
+
+#~ msgid "DMA-Channel"
+#~ msgstr "DMA-చానల్"
+
+#~ msgid "Devices"
+#~ msgstr "పరికరాలు"
+
+#, fuzzy
+#~| msgid "Devices"
+#~ msgid "Block Devices"
+#~ msgstr "పరికరాలు"
+
+#~ msgid "IRQ"
+#~ msgstr "ఐ ఆర్ క్యూ"
+
+#, fuzzy
+#~| msgid "Total Size"
+#~ msgid "Total Nodes"
+#~ msgstr "మొత్తం పరిమాణం"
+
+#, fuzzy
+#~| msgid "Free Size"
+#~ msgid "Free Nodes"
+#~ msgstr "ఖాళీ పరిమాణము"
+
+#, fuzzy
+#~| msgid "Device Name: %1"
+#~ msgid "Device Name"
+#~ msgstr "పరికరం పేరు: %1"
+
+#, fuzzy
+#~| msgid "Manufacturer: %1"
+#~ msgid "Manufacturer"
+#~ msgstr "తయారిదారు: %1"
+
+#~ msgid "CPU Type"
+#~ msgstr "సిపియు రకం"
+
+#~ msgid "FPU Type"
+#~ msgstr "ఎఫ్ పి యు రకం"
+
+#~ msgid "State"
+#~ msgstr "స్థితి"
+
+#, fuzzy
+#~| msgid "Mount Point"
+#~ msgid "Mount Time"
+#~ msgstr "మౌంటు పాయింట్"
+
+#~ msgid "(no value)"
+#~ msgstr "(విలువ లేదు)"
+
+#~ msgid "Driver Name:"
+#~ msgstr "డ్రైవర్ పేరు:"
+
+#~ msgid "Properties"
+#~ msgstr "గుణాలు"
+
+#~ msgid "Type:"
+#~ msgstr "రకం:"
+
+#~ msgid "Value:"
+#~ msgstr "విలువ:"
+
+#~ msgid "Device Information"
+#~ msgstr "పరికర సమాచారం"
+
+#, fuzzy
+#~| msgid "Bytes"
+#~ msgid "1 Bit"
+#~ msgid_plural "%1 Bits"
+#~ msgstr[0] "బైట్లు"
+#~ msgstr[1] "బైట్లు"
+#~ msgstr[2] "బైట్లు"
+#~ msgstr[3] "బైట్లు"
+#~ msgstr[4] "బైట్లు"
+
+#, fuzzy
+#~| msgid "Bytes"
+#~ msgctxt "singular form: '1 Byte' (yes, it is '1', not '%1'!)"
+#~ msgid "1 Byte"
+#~ msgstr "బైట్లు"
+
+#, fuzzy
+#~| msgid "Bytes"
+#~ msgctxt "plural form: '%1 Bytes'"
+#~ msgid "%1 Bytes"
+#~ msgstr "బైట్లు"
+
+#, fuzzy
+#~| msgid "Device Information"
+#~ msgid "Server Information"
+#~ msgstr "పరికర సమాచారం"
+
+#, fuzzy
+#~| msgid "Vendor"
+#~ msgid "Vendor String"
+#~ msgstr "అమ్మకందారి (వెండార్)"
+
+#~ msgid "KDE version:"
+#~ msgstr "కెడిఈ వివరణం:"
+
+#~ msgid "User:"
+#~ msgstr "యూజర్:"
+
+#~ msgid "Hostname:"
+#~ msgstr "హోస్ట్ పేరు:"
+
+#~ msgid "System:"
+#~ msgstr "వ్యవస్థ:"
+
+#~ msgid "Release:"
+#~ msgstr "విడుదల:"
+
+#~ msgid "Machine:"
+#~ msgstr "యంత్రం:"
+
+#~ msgid "<big><b>Loading...</b></big>"
+#~ msgstr "<big><b>ఎక్కిస్తున్నా...</b></big>"
+
+#~ msgid "Unsaved Changes"
+#~ msgstr "దాచని మార్పులు"
+
+#~ msgid "Filter:"
+#~ msgstr "గలని:"
+
+#~ msgid "General Information"
+#~ msgstr "సాధారణ సమాచారం"
+
+#~ msgid "&Report Bug..."
+#~ msgstr "(&R) తప్పును తెలీయచెయండి..."
+
+#~ msgctxt "Help menu->about <modulename>"
+#~ msgid "About %1"
+#~ msgstr "%1 గురించి"
+
+#~ msgid "Report Bug on Module %1..."
+#~ msgstr "%1 మాడ్యూల్ లొ తప్పును తెలీయచెయండి..."
+
+#, fuzzy
+#~| msgid "MB"
+#~ msgid " MB"
+#~ msgstr "ఎంబి"
+
+#~ msgid "CPU %1: %2"
+#~ msgstr "సిపియు %1: %2"

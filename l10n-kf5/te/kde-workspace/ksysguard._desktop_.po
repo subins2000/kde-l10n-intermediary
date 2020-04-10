@@ -1,0 +1,64 @@
+# translation of desktop_kdebase.po to Telugu
+# విజయ్ కిరణ్ కముజు <infyquest@gmail.com>, 2007-2008.
+# pavithran <pavithran.s@gmail.com>, 2007.
+# Krishna Babu K <kkrothap@redhat.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-15 02:43+0000\n"
+"PO-Revision-Date: 2009-01-16 22:16+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <en@li.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: example/ksysguard.notifyrc:4
+#, fuzzy
+#| msgctxt "GenericName"
+#| msgid "System Monitor"
+msgctxt "Comment"
+msgid "System Monitor"
+msgstr "సిస్టమ్ మానిటర్"
+
+#: example/ksysguard.notifyrc:71
+msgctxt "Name"
+msgid "Pattern Matched"
+msgstr "మాదిరి సరిపోలింది"
+
+#: example/ksysguard.notifyrc:150
+msgctxt "Comment"
+msgid "Search pattern matched"
+msgstr "శోధన మాదిరి సరిపోలింది"
+
+#: example/ksysguard.notifyrc:233
+msgctxt "Name"
+msgid "Sensor Alarm"
+msgstr "సెన్సార్ అలారమ్"
+
+#: example/ksysguard.notifyrc:312
+msgctxt "Comment"
+msgid "Sensor exceeded critical limit"
+msgstr "క్లిష్టమైన పరిమితిని సెన్సార్ అదిగమించింది"
+
+#: gui/org.kde.ksysguard.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDE System Guard"
+msgctxt "Name"
+msgid "KSysGuard"
+msgstr "KDE సిస్టమ్ కాపరి"
+
+#: gui/org.kde.ksysguard.desktop:77
+msgctxt "GenericName"
+msgid "System Monitor"
+msgstr "సిస్టమ్ మానిటర్"
+
+#: gui/org.kde.ksysguard.desktop:169
+msgctxt "Comment"
+msgid "Monitor running processes and system performance"
+msgstr ""

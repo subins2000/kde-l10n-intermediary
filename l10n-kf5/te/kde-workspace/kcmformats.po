@@ -1,0 +1,738 @@
+# translation of kcmlocale.po to Telugu
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Krishna Babu K <kkrothap@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmlocale\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-30 03:38+0100\n"
+"PO-Revision-Date: 2009-01-16 22:16+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <en@li.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: kcmformats.cpp:44
+#, kde-format
+msgid ""
+"<h1>Formats</h1>You can configure the formats used for time, dates, money "
+"and other numbers here."
+msgstr ""
+
+#: kcmformats.cpp:101
+#, kde-format
+msgid "No change"
+msgstr ""
+
+#: kcmformats.cpp:138
+#, kde-format
+msgid "%1 - %2 (%3)"
+msgstr ""
+
+#: kcmformats.cpp:140
+#, kde-format
+msgid "%1 (%2)"
+msgstr ""
+
+#: kcmformats.cpp:287
+#, kde-format
+msgid "Your changes will take effect the next time you log in."
+msgstr ""
+
+#: kcmformats.cpp:288
+#, kde-format
+msgid "Format Settings Changed"
+msgstr ""
+
+#: kcmformats.cpp:354
+#, fuzzy, kde-format
+#| msgid "Short date format:"
+msgid "%1 (long format)"
+msgstr "పొట్టి తేదీ ఫార్మాట్:"
+
+#: kcmformats.cpp:355
+#, fuzzy, kde-format
+#| msgid "Short date format:"
+msgid "%1 (short format)"
+msgstr "పొట్టి తేదీ ఫార్మాట్:"
+
+#: kcmformats.cpp:360
+#, fuzzy, kde-format
+#| msgctxt "The Imperial System"
+#| msgid "Imperial"
+msgctxt "Measurement combobox"
+msgid "Imperial UK"
+msgstr "ఇంపీరియల్"
+
+#: kcmformats.cpp:362
+#, fuzzy, kde-format
+#| msgctxt "The Imperial System"
+#| msgid "Imperial"
+msgctxt "Measurement combobox"
+msgid "Imperial US"
+msgstr "ఇంపీరియల్"
+
+#: kcmformats.cpp:364
+#, fuzzy, kde-format
+#| msgctxt "The Metric System"
+#| msgid "Metric"
+msgctxt "Measurement combobox"
+msgid "Metric"
+msgstr "మెట్రిక్"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: kcmformatswidget.ui:47
+#, kde-format
+msgid "Re&gion:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkDetailed)
+#: kcmformatswidget.ui:76
+#, fuzzy, kde-format
+#| msgid "Regional settings"
+msgid "De&tailed Settings"
+msgstr "ప్రాంతీయ అమరికలు"
+
+#. i18n: ectx: property (text), widget (QLabel, labelNumbers)
+#: kcmformatswidget.ui:83
+#, fuzzy, kde-format
+#| msgid "Numbers:"
+msgid "&Numbers:"
+msgstr "సంఖ్యలు:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelTime)
+#: kcmformatswidget.ui:112
+#, fuzzy, kde-format
+#| msgid "Time:"
+msgid "&Time:"
+msgstr "సమయం:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCurrency)
+#: kcmformatswidget.ui:141
+#, fuzzy, kde-format
+#| msgid "Currency symbol:"
+msgid "Currenc&y:"
+msgstr "డబ్బు చిహ్నము:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement)
+#: kcmformatswidget.ui:170
+#, fuzzy, kde-format
+#| msgid "Measure system:"
+msgid "Measurement &Units:"
+msgstr "కొలమాన సిస్టమ్‌:"
+
+#. i18n: ectx: property (text), widget (QLabel, labelCollate)
+#: kcmformatswidget.ui:199
+#, kde-format
+msgid "Co&llation and Sorting:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, labelMeasurement_2)
+#: kcmformatswidget.ui:238
+#, kde-format
+msgid "<b>Description</b>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, lexNumbers)
+#: kcmformatswidget.ui:248
+#, kde-format
+msgid "Numbers:"
+msgstr "సంఖ్యలు:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexTime)
+#: kcmformatswidget.ui:268
+#, kde-format
+msgid "Time:"
+msgstr "సమయం:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexCurrency)
+#: kcmformatswidget.ui:288
+#, fuzzy, kde-format
+#| msgid "Currency symbol:"
+msgid "Currency:"
+msgstr "డబ్బు చిహ్నము:"
+
+#. i18n: ectx: property (text), widget (QLabel, lexMeasurement_2)
+#: kcmformatswidget.ui:308
+#, fuzzy, kde-format
+#| msgid "Measure system:"
+msgid "Measurement Units:"
+msgstr "కొలమాన సిస్టమ్‌:"
+
+#, fuzzy
+#~| msgid "Examples"
+#~ msgid "<b>Examples</b>"
+#~ msgstr "ఉదాహరణలు"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "కృష్ణబాబు కె , విజయ్ కిరణ్ కముజు"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "k.meetme@gmail.com,infyquest@gmail.com"
+
+#~ msgid "Country Selector"
+#~ msgstr "దేశము యెంపికచేయునది"
+
+#~ msgid "without name"
+#~ msgstr "పేరు లేకుండా"
+
+#~ msgctxt "@item:inlistbox Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "అమర్చి లేదు (సాదారణ ఇంగ్లీషు)"
+
+#, fuzzy
+#~| msgid "&Locale"
+#~ msgid "kcmlocale"
+#~ msgstr "(&L) స్థానిక"
+
+#~ msgid ""
+#~ "Changed language settings apply only to newly started applications.\n"
+#~ "To change the language of all programs, you will have to logout first."
+#~ msgstr ""
+#~ "భాషా అమరికలు మార్చబడినవి కొత్త ప్రారంభమైన అనువర్తనములకు మాత్రమే ఆపాదించబడినవి.\n"
+#~ "అన్ని ప్రోగ్రామ్స్ యొక్క భాషను మార్చుటకు, మీరు ముందల లాగ్అవుట్ కావలసివుంది."
+
+#~ msgid "Applying Language Settings"
+#~ msgstr "బాషా అమర్పులను ఆపాదిస్తోంది"
+
+#, fuzzy
+#~| msgctxt "Day name list, option for no day of religious observance"
+#~| msgid "None"
+#~ msgctxt "No separator symbol"
+#~ msgid "None"
+#~ msgstr "ఏదీకాదు"
+
+#, fuzzy
+#~| msgid "Country Selector"
+#~ msgid "Country"
+#~ msgstr "దేశము యెంపికచేయునది"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Languages"
+#~ msgstr "భాషలు:"
+
+#, fuzzy
+#~| msgid "Numbers:"
+#~ msgid "Numbers"
+#~ msgstr "సంఖ్యలు:"
+
+#, fuzzy
+#~| msgid "Money:"
+#~ msgid "Money"
+#~ msgstr "డబ్బు:"
+
+#, fuzzy
+#~| msgid "Calendar system:"
+#~ msgid "Calendar"
+#~ msgstr "క్యాలెండర్ సిస్టమ్:"
+
+#, fuzzy
+#~| msgid "&Other"
+#~ msgid "Other"
+#~ msgstr "(&O) ఇతర"
+
+#, fuzzy
+#~| msgid "This is how numbers will be displayed."
+#~ msgid "This is how positive numbers will be displayed."
+#~ msgstr "ఇలా సంఖ్యలు ప్రదర్శించబడతాయి."
+
+#, fuzzy
+#~| msgid "This is how numbers will be displayed."
+#~ msgid "This is how negative numbers will be displayed."
+#~ msgstr "ఇలా సంఖ్యలు ప్రదర్శించబడతాయి."
+
+#~ msgid "Money:"
+#~ msgstr "డబ్బు:"
+
+#, fuzzy
+#~| msgid "This is how monetary values will be displayed."
+#~ msgid "This is how positive monetary values will be displayed."
+#~ msgstr "ఇలా మానెటరీ విలువలు ప్రదర్శించబడతాయి."
+
+#, fuzzy
+#~| msgid "This is how monetary values will be displayed."
+#~ msgid "This is how negative monetary values will be displayed."
+#~ msgstr "ఇలా మానెటరీ విలువలు ప్రదర్శించబడతాయి."
+
+#~ msgid "Date:"
+#~ msgstr "తేదీ:"
+
+#, fuzzy
+#~| msgid "This is how date values will be displayed."
+#~ msgid "This is how long dates will be displayed."
+#~ msgstr "ఇలా తేదీ విలువలు ప్రదర్శించబడతాయి."
+
+#~ msgid "Short date:"
+#~ msgstr "పొట్టి తేది:"
+
+#, fuzzy
+#~| msgid "This is how the time will be displayed."
+#~ msgid "This is how short dates will be displayed."
+#~ msgstr "ఇలా సమయం ప్రదర్శించబడుతుంది."
+
+#, fuzzy
+#~| msgid "This is how the time will be displayed."
+#~ msgid "This is how time will be displayed."
+#~ msgstr "ఇలా సమయం ప్రదర్శించబడుతుంది."
+
+#, fuzzy
+#~| msgid "Country or region:"
+#~ msgid "Country:"
+#~ msgstr "దేశము లేదా ప్రాంతము:"
+
+#, fuzzy
+#~| msgid ""
+#~| "This is where you live. KDE will use the defaults for this country or "
+#~| "region."
+#~ msgid ""
+#~ "<p>This is the country where you live.  The KDE Workspace will use the "
+#~ "settings for this country or region.</p>"
+#~ msgstr "ఇది మీరు నివసిస్తున్నది. KDE ఈ దేశము లేదా ప్రాంతమునకు అప్రమేయములను వుపయోగిస్తుంది."
+
+#, fuzzy
+#~| msgid ""
+#~| "This is where you live. KDE will use the defaults for this country or "
+#~| "region."
+#~ msgid ""
+#~ "<p>This is the country subdivision where you live, e.g. your state or "
+#~ "province.  The KDE Workspace will use this setting for local information "
+#~ "services such as holidays.</p>"
+#~ msgstr "ఇది మీరు నివసిస్తున్నది. KDE ఈ దేశము లేదా ప్రాంతమునకు అప్రమేయములను వుపయోగిస్తుంది."
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Available Languages:"
+#~ msgstr "భాషలు:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Preferred Languages:"
+#~ msgstr "భాషలు:"
+
+#, fuzzy
+#~| msgid "Thousands separator:"
+#~ msgid "Group separator:"
+#~ msgstr "వేలను వేరుచేయునది:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal separator:"
+#~ msgstr "దశాంశ చిహ్నము:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal places:"
+#~ msgstr "దశాంశ చిహ్నము:"
+
+#, fuzzy
+#~| msgid "Positive si&gn:"
+#~ msgid "Positive sign:"
+#~ msgstr "(&g) ధన గుర్తు:"
+
+#, fuzzy
+#~| msgctxt "Day name list, option for no day of religious observance"
+#~| msgid "None"
+#~ msgctxt "No positive symbol"
+#~ msgid "None"
+#~ msgstr "ఏదీకాదు"
+
+#, fuzzy
+#~| msgid "&Negative sign:"
+#~ msgid "Negative sign:"
+#~ msgstr "(&N) ఋణ గుర్తు:"
+
+#, fuzzy
+#~| msgctxt "Day name list, option for no day of religious observance"
+#~| msgid "None"
+#~ msgctxt "No negative symbol"
+#~ msgid "None"
+#~ msgstr "ఏదీకాదు"
+
+#~ msgid "Currency symbol:"
+#~ msgstr "డబ్బు చిహ్నము:"
+
+#, fuzzy
+#~| msgid "Time format:"
+#~ msgid "Positive format:"
+#~ msgstr "సమయ ఫార్మాట్:"
+
+#~ msgid "Sign position:"
+#~ msgstr "గుర్తు స్థానము:"
+
+#~ msgid "Parentheses Around"
+#~ msgstr "చుట్టూ పెరాన్థసిస్"
+
+#~ msgid "Before Quantity Money"
+#~ msgstr "డబ్బు మొత్తముకు ముందు"
+
+#~ msgid "After Quantity Money"
+#~ msgstr "డబ్బు మొత్తముకు తరువాత"
+
+#~ msgid "Before Money"
+#~ msgstr "డబ్బుకు ముందు"
+
+#~ msgid "After Money"
+#~ msgstr "డబ్బుకు తర్వాత"
+
+#~ msgid ""
+#~ "Here you can select how a positive sign will be positioned. This only "
+#~ "affects monetary values."
+#~ msgstr ""
+#~ "ధన గుర్తు యెలా వుంచాలో మీరు యిక్కడ యెంపికచేసుకొనవచ్చు. ఇది మానెటరీ విలువలను మాత్రమే ప్రభావితం "
+#~ "చేస్తుంది."
+
+#~ msgid "Prefix currency symbol"
+#~ msgstr "ప్రిఫిక్స్ డబ్బు చిహ్నము"
+
+#, fuzzy
+#~| msgid "Date format:"
+#~ msgid "Negative format:"
+#~ msgstr "తేదీ ఫార్మాట్:"
+
+#~ msgid ""
+#~ "Here you can select how a negative sign will be positioned. This only "
+#~ "affects monetary values."
+#~ msgstr ""
+#~ "ఇక్కడ మీరు ఋణ గుర్తు యెలా వుంచాలో యెంచుకొనవచ్చు. ఇది మానెటరీ విలువలను మాత్రమే ప్రాభావితం చేస్తుంది."
+
+#~ msgid "Calendar system:"
+#~ msgstr "క్యాలెండర్ సిస్టమ్:"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This option determines whether possessive form of month names should "
+#~| "be used in dates.</p>"
+#~ msgid ""
+#~ "<p>This option determines if the Common Era (CE/BCE) should be used "
+#~ "instead of the Christian Era (AD/BC).</p>"
+#~ msgstr ""
+#~ "<p>తేదీలలో పొసెసివ్ రూపములో వున్న నెల పేరులను వుపయోగించాలేమో ఈ ఐచ్చికము నిర్ణయిస్తుంది.</p>"
+
+#, fuzzy
+#~| msgid "Measure system:"
+#~ msgid "Week number system:"
+#~ msgstr "కొలమాన సిస్టమ్‌:"
+
+#, fuzzy
+#~| msgid "First day of the week:"
+#~ msgid "First day of week:"
+#~ msgstr "వారము యొక్క మొదటి రోజు:"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This option determines which day will be considered as the first one "
+#~| "of the week.</p>"
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the first one "
+#~ "of the week.  This value may affect the Week Number System.</p> "
+#~ msgstr "<p>ఏ రోజును వారము యొక్క మొదటిరోజుగా పరిగణించాలో ఈ ఐచ్చికము నిర్ధారిస్తుంది.</p>"
+
+#, fuzzy
+#~| msgid "First working day of the week:"
+#~ msgid "First working day of week:"
+#~ msgstr "వారము యొక్క మొదటి పనిరోజు:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the first "
+#~ "working day of the week.</p>"
+#~ msgstr "<p>ఏ రోజును వారము యొక్క మొదటి పనిరోజుగా పరిగణించాలో ఈ ఐచ్చికము నిర్ణయిస్తుంది.</p>"
+
+#, fuzzy
+#~| msgid "Last working day of the week:"
+#~ msgid "Last working day of week:"
+#~ msgstr "వారము యొక్క చివరి పనిరోజు:"
+
+#~ msgid ""
+#~ "<p>This option determines which day will be considered as the last "
+#~ "working day of the week.</p>"
+#~ msgstr "<p>ఏ రోజును వారము యొక్క చివరి పనిరోజుగా పరిగణించాలో ఈ ఐచ్చికము నిర్ణయిస్తుంది.</p>"
+
+#, fuzzy
+#~| msgid "Day of the week for religious observance:"
+#~ msgid "Week day for special religious observance:"
+#~ msgstr "మతసంభందమైన ఆచారము కొరకు వారములో రోజు"
+
+#, fuzzy
+#~| msgid ""
+#~| "<p>This option determines which day will be considered as the day of the "
+#~| "week for religious observance.</p>"
+#~ msgid ""
+#~ "<p>This option determines which day if any will be considered as the day "
+#~ "of the week for special religious observance.</p>"
+#~ msgstr "<p>ఏ రోజును వారములో మతసంభదమైన ఆచారమునకు పరిగణించాలో ఈ ఐచ్చికము నిర్ణయిస్తుంది.</p>"
+
+#~ msgid "Time format:"
+#~ msgstr "సమయ ఫార్మాట్:"
+
+#~ msgid "HH"
+#~ msgstr "HH"
+
+#~ msgid "hH"
+#~ msgstr "hH"
+
+#~ msgid "PH"
+#~ msgstr "PH"
+
+#~ msgid "pH"
+#~ msgstr "pH"
+
+#~ msgctxt "Minute"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "SS"
+#~ msgstr "SS"
+
+#~ msgid "AMPM"
+#~ msgstr "AMPM"
+
+#~ msgctxt "some reasonable time formats for the language"
+#~ msgid ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+#~ msgstr ""
+#~ "HH:MM:SS\n"
+#~ "pH:MM:SS AMPM"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "AM symbol:"
+#~ msgstr "దశాంశ చిహ్నము:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "PM symbol:"
+#~ msgstr "దశాంశ చిహ్నము:"
+
+#~ msgid "YYYY"
+#~ msgstr "YYYY"
+
+#~ msgid "YY"
+#~ msgstr "YY"
+
+#~ msgid "mM"
+#~ msgstr "mM"
+
+#~ msgctxt "Month"
+#~ msgid "MM"
+#~ msgstr "MM"
+
+#~ msgid "SHORTMONTH"
+#~ msgstr "SHORTMONTH"
+
+#~ msgid "MONTH"
+#~ msgstr "MONTH"
+
+#~ msgid "dD"
+#~ msgstr "dD"
+
+#~ msgid "DD"
+#~ msgstr "DD"
+
+#~ msgid "SHORTWEEKDAY"
+#~ msgstr "SHORTWEEKDAY"
+
+#~ msgid "WEEKDAY"
+#~ msgstr "WEEKDAY"
+
+#, fuzzy
+#~| msgid "SHORTWEEKDAY"
+#~ msgid "ISOWEEK"
+#~ msgstr "SHORTWEEKDAY"
+
+#~ msgctxt "some reasonable date formats for the language"
+#~ msgid ""
+#~ "WEEKDAY MONTH dD YYYY\n"
+#~ "SHORTWEEKDAY MONTH dD YYYY"
+#~ msgstr ""
+#~ "WEEKDAY MONTH dD YYYY\n"
+#~ "SHORTWEEKDAY MONTH dD YYYY"
+
+#~ msgctxt "some reasonable short date formats for the language"
+#~ msgid ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+#~ msgstr ""
+#~ "YYYY-MM-DD\n"
+#~ "dD.mM.YYYY\n"
+#~ "DD.MM.YYYY"
+
+#~ msgid ""
+#~ "<p>This option determines whether possessive form of month names should "
+#~ "be used in dates.</p>"
+#~ msgstr ""
+#~ "<p>తేదీలలో పొసెసివ్ రూపములో వున్న నెల పేరులను వుపయోగించాలేమో ఈ ఐచ్చికము నిర్ణయిస్తుంది.</p>"
+
+#, fuzzy
+#~| msgid "A4"
+#~ msgctxt "Page size"
+#~ msgid "A4"
+#~ msgstr "A4"
+
+#, fuzzy
+#~| msgid "US Letter"
+#~ msgctxt "Page size"
+#~ msgid "US Letter"
+#~ msgstr "US లెటర్"
+
+#, fuzzy
+#~| msgid "Measure system:"
+#~ msgid "Metric System"
+#~ msgstr "కొలమాన సిస్టమ్‌:"
+
+#, fuzzy
+#~| msgid "Measure system:"
+#~ msgid "Measurement system"
+#~ msgstr "కొలమాన సిస్టమ్‌:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Available Languages:"
+#~ msgstr "భాషలు:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "&Preferred Languages:"
+#~ msgstr "భాషలు:"
+
+#, fuzzy
+#~| msgid "Languages:"
+#~ msgid "Preferred Langauges:"
+#~ msgstr "భాషలు:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal seperator:"
+#~ msgstr "దశాంశ చిహ్నము:"
+
+#~ msgid "Remove"
+#~ msgstr "తొలగించు"
+
+#~ msgctxt "@item:intext Country"
+#~ msgid "Not set (Generic English)"
+#~ msgstr "అమర్చి లేదు (సాదారణ ఇంగ్లీషు)"
+
+#~ msgctxt "@info %1 is country name"
+#~ msgid "<html>%1 (<a href=\"changeCountry\">change...</a>)</html>"
+#~ msgstr "<html>%1 (<a href=\"changeCountry\">మార్చు...</a>)</html>"
+
+#~ msgid "Add Language"
+#~ msgstr "భాషను జతచేయి"
+
+#~ msgid ""
+#~ "This will add a language to the list. If the language is already in the "
+#~ "list, the old one will be moved instead."
+#~ msgstr ""
+#~ "ఇది జాబితాకు భాషను జతచేస్తుంది. ఒకవేళ భాష యిప్పటికే జాబితానందు వుంటే, దీని బదులుగా పాతది "
+#~ "కదులుతుంది."
+
+#~ msgid "This will remove the highlighted language from the list."
+#~ msgstr "ఇది వుద్దీపనము చేసివ భాషను జాబితానుండి తీసివేస్తుంది."
+
+#~ msgid ""
+#~ "KDE programs will be displayed in the first available language in this "
+#~ "list.\n"
+#~ "If none of the languages are available, US English will be used."
+#~ msgstr ""
+#~ "KDE ప్రోగ్రామ్సు ఈ జాబితానందు మొదట అందుబాటులో వున్న భాషలో ప్రదర్శించ బడతాయి.\n"
+#~ "ఒకవేళ ఏ భాషలు అందుబాటులో లేకపోతే, US ఇంగ్లీషు వుపయోగించబడుతుంది."
+
+#~ msgid ""
+#~ "Here you can choose your country or region. The settings for languages, "
+#~ "numbers etc. will automatically switch to the corresponding values."
+#~ msgstr ""
+#~ "ఇక్కడు మీరు మీ దేశమును లేదా ప్రాంతమును యెంచుకొనగలరు. భాషలకు, సంఖ్యలకు మొదలగు వాటికి "
+#~ "సంభందించిన అమర్పులు స్వయంచాలకంగా సంభందిత విలువలకు మారతాయి."
+
+#~ msgid "This is how date values will be displayed using a short notation."
+#~ msgstr "పొట్టి నొటేషన్ వుపయోగిస్తూ తేదీ విలువలు యిలా ప్రదర్శించబడతాయి."
+
+#~ msgid "Positive"
+#~ msgstr "ధన"
+
+#~ msgid "Negative"
+#~ msgstr "ఋణ"
+
+#~ msgid "&Decimal symbol:"
+#~ msgstr "(&D) దశాంశ చిహ్నము:"
+
+#~ msgid "Tho&usands separator:"
+#~ msgstr "(&u) వేలను వేరుచేయునది:"
+
+#, fuzzy
+#~| msgid "Decimal symbol:"
+#~ msgid "Decimal &places:"
+#~ msgstr "దశాంశ చిహ్నము:"
+
+#~ msgid ""
+#~ "Here you can specify text used to prefix positive numbers. Most people "
+#~ "leave this blank."
+#~ msgstr ""
+#~ "ధన సంఖ్యలను ప్రిఫిక్స్ చేయుటకు వుపయోగించు వచనమును మీరు యిక్కడ తెలుపవచ్చు. చాలామంది దీనిని ఖాళీగా "
+#~ "వదులుతారు."
+
+#~ msgid "Paper format:"
+#~ msgstr "పేపర్ ఫార్మాట్:"
+
+#~ msgid "Use declined form of month name"
+#~ msgstr "నెల పేరు యొక్క పొట్టి రూపమును వుపయోగించుము"
+
+#~ msgid ""
+#~ "<p>The text in this textbox will be used to format long dates. The "
+#~ "sequences below will be replaced:</p>"
+#~ msgstr ""
+#~ "<p>ఈ వచనపెట్టె నందలి వచనము పొడవైన తేదీలను ఫార్మాట్ చేయుటకు వుపయోగించబడుతుంది. ఈ క్రిందవి "
+#~ "పునఃస్థాపించబడతాయి:</p>"
+
+#~ msgid "None selected (<a href=\"/change\">change...</a>)"
+#~ msgstr "ఏదీ ఎంచుకొనబడలేదు  (<a href=\"/change\">మార్చు...</a>)"
+
+#~ msgid "KCMLocale"
+#~ msgstr "KCMLocale"
+
+#~ msgid "(C) 1998 Matthias Hoelzer, (C) 1999-2003 Hans Petter Bieker"
+#~ msgstr "(C) 1998 మాథియాస్ హొయెల్జర్, (C) 1999-2003 హాన్స్ పీటర్ బైకర్"
+
+#~ msgid "&Numbers"
+#~ msgstr "(&N) సంఖ్యలు"
+
+#~ msgid "&Money"
+#~ msgstr "(&M) డబ్బు"
+
+#~ msgid "&Time && Dates"
+#~ msgstr "(&T) సమయం && తేదీలు"
+
+#~ msgid "Fract digits:"
+#~ msgstr "బిన్న అంకె:"
+
+#~ msgid "Here you can enter your usual currency symbol, e.g. $ or €."
+#~ msgstr "మీరు ఇక్కడ మీ డబ్బు చిహ్నమును ప్రవేశపెట్టవచ్చు, ఉ.దా. $ లేదా €."
+
+#~ msgid "Fractional digits:"
+#~ msgstr "ఫ్రాక్షనల్ అంకెలు:"
+
+#~ msgctxt "Calendar System Gregorian"
+#~ msgid "Gregorian"
+#~ msgstr "గ్రెగోరియన్"
+
+#~ msgctxt "Calendar System Hijri"
+#~ msgid "Hijri"
+#~ msgstr "హిజ్రి"
+
+#~ msgctxt "Calendar System Hebrew"
+#~ msgid "Hebrew"
+#~ msgstr "హెబ్రూ"
+
+#~ msgctxt "Calendar System Jalali"
+#~ msgid "Jalali"
+#~ msgstr "జెలలి"

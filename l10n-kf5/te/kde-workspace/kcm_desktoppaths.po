@@ -1,0 +1,143 @@
+# translation of kcmkonq.po to Telugu
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Krishna Babu K <kkrothap@redhat.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kcmkonq\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-09 03:20+0100\n"
+"PO-Revision-Date: 2009-01-16 22:16+0530\n"
+"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <en@li.org>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: globalpaths.cpp:55
+#, kde-format
+msgid ""
+"<h1>Paths</h1>\n"
+"This module allows you to choose where in the filesystem the files on your "
+"desktop should be stored.\n"
+"Use the \"Whats This?\" (Shift+F1) to get help on specific options."
+msgstr ""
+
+#, fuzzy
+#~| msgid "Des&ktop path:"
+#~ msgid "Desktop path:"
+#~ msgstr "(&k) రంగస్థలం దారి:"
+
+#, fuzzy
+#~| msgid "A&utostart path:"
+#~ msgid "Autostart path:"
+#~ msgstr "(&u) స్వయంచాలకప్రారంభం దారి:"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Documents path:"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Downloads path:"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Movies path:"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Pictures path:"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Music path:"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#~ msgid "Autostart"
+#~ msgstr "స్వయంచాలకప్రారంభం"
+
+#~ msgid "Desktop"
+#~ msgstr "రంగస్ఠలం"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Documents"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Downloads"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgctxt "Move desktop files from old to new place"
+#~| msgid "Move"
+#~ msgid "Movies"
+#~ msgstr "కదుపు"
+
+#, fuzzy
+#~| msgid "D&ocuments path:"
+#~ msgid "Pictures"
+#~ msgstr "(&o) పత్రముల దారి:"
+
+#, fuzzy
+#~| msgctxt "Move desktop files from old to new place"
+#~| msgid "Move"
+#~ msgctxt "Move files from old to new place"
+#~ msgid "Move"
+#~ msgstr "కదుపు"
+
+#, fuzzy
+#~| msgctxt "Move desktop files from old to new place"
+#~| msgid "Move"
+#~ msgctxt "Move the directory"
+#~ msgid "Move"
+#~ msgstr "కదుపు"
+
+#~ msgid "Confirmation Required"
+#~ msgstr "నిర్ధారణ అవసరమైంది"
+
+#~ msgid "Misc Options"
+#~ msgstr "Misc ఐచ్చికాలు"
+
+#~ msgid "Open folders in separate &windows"
+#~ msgstr "(&w) ఫోల్డర్లను ప్రత్యే విండోలనందు తెరువుము"
+
+#~ msgid "Menu Editor"
+#~ msgstr "పట్టి ఎడిటర్"
+
+#~ msgid "Menu"
+#~ msgstr "మెనూ"
+
+#~ msgid "New..."
+#~ msgstr "కొత్త..."
+
+#~ msgid "Remove"
+#~ msgstr "తొలగించు"
+
+#~ msgid "Move Up"
+#~ msgstr "పైకి కదుపు"
+
+#~ msgid "Move Down"
+#~ msgstr "క్రిందికి కదుపు"
+
+#~ msgctxt "@title:group what to do when a file is deleted"
+#~ msgid "Ask Confirmation For"
+#~ msgstr "దీనికొరకు నిర్ధారణను అడుగుము"
+
+#~ msgctxt "@option:check Ask for confirmation when moving to trash"
+#~ msgid "&Move to trash"
+#~ msgstr "(&M) ట్రాష్‌కు కదుపుము"
+
+#~ msgctxt "@option:check Ask for confirmation when deleting"
+#~ msgid "D&elete"
+#~ msgstr "(&e) తొలగించు"
