@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-28 03:06+0000\n"
+"PO-Revision-Date: 2018-10-11 02:02+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/kcmplymouth_actions.actions:2
+msgctxt "Name"
+msgid "Plymouth Control Module"
+msgstr ""
+
+#: src/kcmplymouth_actions.actions:44
+msgctxt "Name"
+msgid "Save the Plymouth Theme"
+msgstr ""
+
+#: src/kcmplymouth_actions.actions:82
+msgctxt "Description"
+msgid "System policies prevent you from applying the Plymouth theme."
+msgstr ""
+
+#: src/kcmplymouth_actions.actions:123
+msgctxt "Name"
+msgid "Install a new Plymouth Theme"
+msgstr ""
+
+#: src/kcmplymouth_actions.actions:161
+msgctxt "Description"
+msgid "System policies prevent you from installing a Plymouth theme."
+msgstr ""
+
+#: src/kcmplymouth_actions.actions:202
+msgctxt "Name"
+msgid "Uninstall a new Plymouth Theme"
+msgstr ""
+
+#: src/kcmplymouth_actions.actions:240
+msgctxt "Description"
+msgid "System policies prevent you from uninstalling a Plymouth theme."
+msgstr ""
+
+#: src/kcm_plymouth.desktop:14
+msgctxt "Name"
+msgid "Boot Splash Screen"
+msgstr ""
+
+#: src/kcm_plymouth.desktop:45
+msgctxt "Comment"
+msgid "Choose Plymouth boot splash screen"
+msgstr ""
+
+#: src/kcm_plymouth.desktop:76
+msgctxt "X-KDE-Keywords"
+msgid "plymouth,splash,splash screen,boot splash"
+msgstr ""
+
+#: src/package/metadata.desktop:2
+msgctxt "Name"
+msgid "System Splash"
+msgstr ""
+
+#: src/package/metadata.desktop:41
+msgctxt "Comment"
+msgid "Plymouth splash screen"
+msgstr ""

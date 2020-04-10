@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-28 03:06+0000\n"
+"PO-Revision-Date: 2018-10-11 02:02+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: kcm_sddm.actions:2
+msgctxt "Name"
+msgid "SDDM"
+msgstr ""
+
+#: kcm_sddm.actions:51
+msgctxt "Name"
+msgid "Save Settings"
+msgstr ""
+
+#: kcm_sddm.actions:96
+msgctxt "Description"
+msgid "Save Settings in SDDM"
+msgstr ""
+
+#: kcm_sddm.actions:144
+msgctxt "Name"
+msgid "Install an SDDM theme"
+msgstr ""
+
+#: kcm_sddm.actions:186
+msgctxt "Description"
+msgid "Extracts a zip file containing an SDDM theme to the SDDM theme location"
+msgstr ""
+
+#: kcm_sddm.actions:230
+msgctxt "Name"
+msgid "Uninstall an SDDM theme"
+msgstr ""
+
+#: kcm_sddm.actions:272
+msgctxt "Description"
+msgid "Removes a previously installed SDDM theme"
+msgstr ""
+
+#: kcm_sddm.actions:317
+msgctxt "Name"
+msgid "Synchronize Settings"
+msgstr ""
+
+#: kcm_sddm.actions:350
+msgctxt "Description"
+msgid "Synchronizes user settings with SDDM settings"
+msgstr ""
+
+#: kcm_sddm.actions:386
+msgctxt "Name"
+msgid "Reset Settings"
+msgstr ""
+
+#: kcm_sddm.actions:419
+msgctxt "Description"
+msgid "Resets SDDM settings so there are not user settings"
+msgstr ""
+
+#: kcm_sddm.desktop:12
+msgctxt "X-KDE-Keywords"
+msgid "sddm,display manager,theme"
+msgstr ""
+
+#: kcm_sddm.desktop:59
+msgctxt "Name"
+msgid "Login Screen (SDDM)"
+msgstr ""
+
+#: kcm_sddm.desktop:106
+msgctxt "Comment"
+msgid "Configure Login Manager"
+msgstr ""
+
+#: sddmtheme.knsrc:2
+msgctxt "Name"
+msgid "Login Screen"
+msgstr ""

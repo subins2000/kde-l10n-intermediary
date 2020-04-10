@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-phone-components package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-phone-components\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-11-22 03:12+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: contents/views/Pin.qml:116
+msgid "No pin (error)"
+msgstr ""
+
+#: contents/views/Pin.qml:117
+msgid "Enter Sim PIN"
+msgstr ""
+
+#: contents/views/Pin.qml:118
+msgid "Enter Sim PIN 2"
+msgstr ""
+
+#: contents/views/Pin.qml:119
+msgid "Enter Sim PUK"
+msgstr ""
+
+#: contents/views/Pin.qml:120
+msgid "Enter Sim PUK 2"
+msgstr ""
+
+#: contents/views/Pin.qml:121
+msgid "Unknown PIN type: %1"
+msgstr ""
+
+#: contents/views/Pin.qml:129
+msgid "%1 attempt left"
+msgid_plural "%1 attempts left"
+msgstr[0] ""
+msgstr[1] ""
+
+#: contents/views/Pin.qml:190
+msgid "OK"
+msgstr ""

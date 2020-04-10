@@ -1,0 +1,1612 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-10 03:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#: config.yaml:0
+msgid "Get Involved"
+msgstr ""
+
+#: config.yaml:0
+msgid "Donate"
+msgstr ""
+
+#: config.yaml:0
+msgid "KDE Announcement | Release Service"
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:3
+msgid "title: 19.12 RC Releases"
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:5
+msgid ""
+"summary: \"Over 120 individual programs plus dozens of programmer libraries "
+"and feature plugins are released simultaneously as part of KDE's release "
+"service.\""
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:7
+msgid "publishDate: 2019-11-29 00:01:00 # don't translate"
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:9 content/2019-12-apps-update/_index.md:9
+#: content/2020-01-apps-update/_index.md:7
+#: content/2020-02-apps-update/_index.md:7
+#: content/2020-03-apps-update/_index.md:7
+msgid "layout: page # don't translate"
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:11 content/2019-12-apps-update/_index.md:11
+#: content/2020-01-apps-update/_index.md:11
+#: content/2020-02-apps-update/_index.md:11
+#: content/2020-03-apps-update/_index.md:11
+#, no-wrap
+msgid ""
+"type: announcement # don't translate\n"
+"---\n"
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:14
+msgid ""
+"November 29, 2019. Over 120 individual programs plus dozens of programmer "
+"libraries and feature plugins are released simultaneously as part of KDE's "
+"release service."
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:16
+msgid ""
+"Today they all get release candidate sources meaning they are feature "
+"complete but need testing for final bugfixes."
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:18
+msgid ""
+"Distro and app store packagers should update their pre-release channels to "
+"check for issues."
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:22
+msgid ""
+"+ [19.12 release "
+"notes](https://community.kde.org/Releases/19.12_Release_Notes) for "
+"information on tarballs and known issues.  + [Package download wiki "
+"page](https://community.kde.org/Get_KDE_Software_on_Your_Linux_Distro)  + "
+"[19.12 RC source info page](https://kde.org/info/applications-19.11.90)"
+msgstr ""
+
+#. type: Title ##
+#: content/19.12-rc/_index.md:23
+#, no-wrap
+msgid "Press Contacts"
+msgstr ""
+
+#. type: Plain text
+#: content/19.12-rc/_index.md:25
+msgid ""
+"For more information send us an email: "
+"[press@kde.org](mailto:press@kde.org)."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:3
+msgid "title: KDE's December 2019 Apps Update"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:5
+#: content/2020-01-apps-update/_index.md:9
+#: content/2020-02-apps-update/_index.md:9
+#: content/2020-03-apps-update/_index.md:9
+msgid "summary: \"What Happened in KDE's Applications This Month\""
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:7
+msgid "publishDate: 2019-12-12 13:01:00 # don't translate"
+msgstr ""
+
+#. type: Title #
+#: content/2019-12-apps-update/_index.md:13
+#, no-wrap
+msgid "New versions of KDE applications landing in December"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:16
+msgid ""
+"The release of new versions for KDE applications is part of KDE's continued "
+"effort to bring you a complete and up-to-date catalog of fully-featured, "
+"beautiful and useful programs for your system."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:18
+msgid ""
+"Available now are new versions of KDE's file browser Dolphin; Kdenlive, one "
+"of the most complete open source video editors; the document viewer Okular; "
+"KDE's image viewer, Gwenview; and all of your other favorite KDE apps and "
+"utilities. All of these applications have been improved, making them faster "
+"and more stable and they boast exciting new features. The new versions of "
+"KDE applications let you be productive and creative, while at the same time "
+"making use of KDE software easy and fun."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:20
+msgid ""
+"We hope you enjoy all the novel features and improvements worked into all of"
+" KDE's apps!"
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:21
+#, no-wrap
+msgid ""
+"[Calligra Plan](https://kde.org/applications/office/org.kde.calligraplan) "
+"Reloaded"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:24
+msgid ""
+"[Calligra Plan](https://kde.org/applications/office/org.kde.calligraplan) is"
+" getting a big release in December. KDE's project planning and management "
+"tool has hit a huge milestone since the prior version was released almost "
+"two years ago."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:26
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"kplan.png\" "
+"link=\"https://dot.kde.org/sites/dot.kde.org/files/kplan.png\" "
+"caption=\"Calligra Plan\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:28
+msgid ""
+"Plan helps you manage small and large projects with multiple resources. In "
+"order for you to model your project, Plan offers different types of task "
+"dependencies and timing constraints. You can define your tasks, estimate the"
+" effort needed to perform each, allocate resources and then schedule the "
+"project according to your needs and the resources available."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:30
+msgid ""
+"One of Plan's strengths is its excellent support for Gantt charts. Gantt "
+"charts are charts made up of horizontal bars that provide a graphical "
+"illustration of a schedule and help plan, coordinate, and track specific "
+"tasks in a project. Using Gantt charts in Plan will help you better monitor "
+"your project's workflow."
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:31
+#, no-wrap
+msgid "Pump up the Volume on [Kdenlive](https://kdenlive.org)"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:34
+msgid ""
+"Developers of [Kdenlive](https://kdenlive.org) have been adding new features"
+" and squashing bugs at breakneck speed. This version alone comes with more "
+"than 200 commits."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:36
+msgid ""
+"A lot of work has gone into improving support for audio. In the \"bug "
+"solved\" department they have gotten rid of a huge memory consumption issue,"
+" inefficiency of audio thumbnails, and have sped up their storage."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:38
+msgid ""
+"But even more exciting is that Kdenlive now comes with a spectacular new "
+"sound mixer (see image). Developers have also added a new audio clip display"
+" in the clip monitor and the project bin so you can better synchronize your "
+"moving images with the soundtrack."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:40
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"Kdenlive1912BETA.png\" "
+"link=\"https://kdenlive.org/wp-"
+"content/uploads/2019/11/Kdenlive1912BETA.png\" caption=\"Kdenlive's audio "
+"mixer\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:42
+msgid ""
+"In the \"resolving paper-cuts\" department, Kdenlive has acquired many "
+"performance and usability improvements, and developers have fixed many bugs "
+"in the Windows version of the video editor."
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:43
+#, no-wrap
+msgid "[Dolphin](https://userbase.kde.org/Dolphin)'s Previews and Navigation"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:46
+msgid ""
+"KDE's powerful file browser [Dolphin](https://userbase.kde.org/Dolphin) adds"
+" new features to help you find and reach what you are looking for in your "
+"file system. One such feature is the redesigned advanced search options and "
+"another is that now you can go backwards and forwards in the history of "
+"places you have already visited multiple times by long-pressing the arrow "
+"icon in the toolbar. The feature that lets you quickly reach recently saved "
+"or recently accessed files has been reworked and its glitches ironed out."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:48
+msgid ""
+"One of the main concerns of Dolphin's developers is to allow users to "
+"preview the contents of files before they open them. For example, in the new"
+" version of Dolphin you can preview GIFs by highlighting them and then "
+"hovering over the preview pane. You can also click and play videos and audio"
+" files in the preview pane."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:50
+#, no-wrap
+msgid ""
+"If you are a fan of graphic novels, Dolphin can now display thumbnails for "
+".cb7 comic books (check out the support for this comic book format also in "
+"Okular -- see below). And, talking about thumbnails, zooming in on "
+"thumbnails has been a thing in Dolphin for a long time now: hold down "
+"<kbd>Ctrl</kbd>, spin the wheel and the thumbnail will grow or shrink. A new"
+" functionality is that now you can reset the zoom to the default level by "
+"hitting <kbd>Ctrl</kbd> + <kbd>0</kbd>.\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:52
+msgid ""
+"Another useful feature is that Dolphin shows you which programs are "
+"preventing a device from being unmounted."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:54
+#, no-wrap
+msgid "{{<img src=\"dolphin.png\" style=\"max-width: 500px\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:55
+#, no-wrap
+msgid ""
+"[KDE Connect](https://community.kde.org/KDEConnect): Let your Phone Control "
+"your Desktop"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:58
+msgid ""
+"The latest version of [KDE Connect](https://community.kde.org/KDEConnect) "
+"comes stuffed with new features. One of the most noticeable is that there is"
+" a new SMS app that lets you read and write SMS with the full conversation "
+"history."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:60
+msgid ""
+"A new [Kirigami](https://kde.org/products/kirigami/)-based user interface "
+"means you can run KDE Connect not only on Android, but also on all those "
+"mobile Linux platforms we'll be seeing in upcoming devices like the "
+"PinePhone and the Librem 5. The Kirigami interface also provides new "
+"features for desktop-to-desktop users, such as media control, remote input, "
+"device ringing, file transfer and running commands."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:62
+#, no-wrap
+msgid ""
+"{{<img src=\"kdeconnect2.png\" style=\"max-width: 600px\" caption=\"The new "
+"interface on desktop\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:64
+msgid ""
+"You could already use KDE Connect to control the volume of media playing on "
+"your desktop, but now you can use it to also control your system's global "
+"volume from your phone -- super handy when using your phone as a remote. "
+"When giving a talk, you can also control your presentation using KDE Connect"
+" to flip forward and back through your slides."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:66
+#, no-wrap
+msgid "{{<img src=\"kdeconnect1.png\" style=\"max-width: 400px\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:68
+msgid ""
+"Another feature that has been around for while is how you can use KDE "
+"Connect to send a file to your phone, but what's new in this version is that"
+" you can have your phone immediately open the file once it is received. KDE "
+"Itinerary uses this to send travel information to your phone from within "
+"KMail."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:70
+msgid ""
+"In a related note, you can now also send files from Thunar (Xfce's file "
+"manager) and Elementary applications such as Pantheon Files. Displaying "
+"progress of the copy of multiple files has been improved a lot and files "
+"received from Android now show their correct modification time."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:72
+msgid ""
+"When it comes to notifications, you can now trigger actions from Android "
+"notifications from the desktop and KDE Connect uses advanced features from "
+"Plasma's notification center to provide better notifications. The pairing "
+"confirmation notification does not time out so you can't miss it any more."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:74
+msgid ""
+"Finally, if you are using KDE Connect from the command line, *kdeconnect-"
+"cli* now features improved *zsh* autocompletion."
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:75
+#, no-wrap
+msgid "Remote Images [Gwenview](https://userbase.kde.org/Gwenview)"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:78
+msgid ""
+"[Gwenview](https://userbase.kde.org/Gwenview) now lets you adjust the JPEG "
+"compression level when you save images you have edited. Developers have also"
+" improved the performance for remote images and Gwenview can now import "
+"photos both to or from remote locations."
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:79
+#, no-wrap
+msgid ""
+"[Okular](https://kde.org/applications/office/org.kde.okular) support .cb7 "
+"format"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:82
+msgid ""
+"[Okular](https://kde.org/applications/office/org.kde.okular), the document "
+"viewer that lets you read, annotate and verify all sorts of documents, "
+"including PDFs, EPubs, ODTs and MDs, now also supports files using the .cb7 "
+"comic book format."
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:83
+#, no-wrap
+msgid ""
+"[Elisa](https://kde.org/applications/multimedia/org.kde.elisa): Simple but "
+"Complete Music Player"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:86
+msgid ""
+"[Elisa](https://kde.org/applications/multimedia/org.kde.elisa) is a KDE "
+"music player that combines simplicity with an elegant and modern interface. "
+"In its latest version, Elisa has optimized its looks to adapt better to High"
+" DPI screens. It also integrates better with other KDE applications and has "
+"acquired support for KDE's global menu system."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:88
+msgid ""
+"Indexing music files has also improved and Elisa now supports web radios and"
+" ships with a few examples for you to try."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:90
+#, no-wrap
+msgid "{{< img src=\"elisa.png\" caption=\"Elisa updated interface\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:91
+#, no-wrap
+msgid ""
+"[Spectacle](https://kde.org/applications/utilities/org.kde.spectacle) is "
+"Touchscreen-Ready"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:94
+msgid ""
+"[Spectacle](https://kde.org/applications/utilities/org.kde.spectacle), KDE's"
+" default screen-grabbing program, is another KDE application that has "
+"evolved to acquire touchscreen capabilities: Its new touch-friendly drag "
+"handler makes it much easier to drag rectangles to capture the parts of the "
+"desktop you want on tactile-enabled devices."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:96
+msgid ""
+"Other improvements are the new autosave function, which comes in handy for "
+"rapidly taking multiple screenshots, and the animated progress bars, which "
+"make sure you can clearly see what Spectacle is doing."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:98
+#, no-wrap
+msgid ""
+"{{<img style=\"max-width:500px\" src=\"spectacle.png\" caption=\"Spectacle "
+"new drag handler\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:99
+#, no-wrap
+msgid ""
+"[Plasma Browser "
+"Integration](https://community.kde.org/Plasma/Browser_Integration) "
+"Improvements"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:102
+msgid ""
+"The new release of [Plasma Browser "
+"Integration](https://community.kde.org/Plasma/Browser_Integration) now "
+"features a blacklist for the media controls functionality. This is useful "
+"for when you visit a site with a lot of media you can play, which can make "
+"it difficult to select what you want to control from your desktop. The "
+"blacklist lets you exclude these sites from the media controls."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:104
+msgid ""
+"The new version also lets you keep the origin URL in file metadata and adds "
+"support for the Web Share API. The Web Share API lets browsers share links, "
+"text and files with other apps in the same way KDE apps do, improving the "
+"integration of non-native browsers like Firefox, Chrome/Chromium and "
+"Vivaldi, with the rest of KDE's applications."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:106
+#, no-wrap
+msgid ""
+"{{<learn-more href=\"https://blog.broulik.de/2019/11/plasma-browser-"
+"integration-1-7/\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:107
+#, no-wrap
+msgid "Microsoft Store"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:110
+msgid ""
+"Quite a few of KDE applications can be downloaded from the Microsoft Store. "
+"Krita and Okular have been there for a while, and they are joined now by "
+"[Kile](https://kde.org/applications/office/org.kde.kile), a user-friendly "
+"LaTeX editor."
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:112
+#, no-wrap
+msgid ""
+"{{<microsoft-store "
+"href=\"https://www.microsoft.com/store/apps/9pmbng78pfk3\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:113
+#, no-wrap
+msgid "New"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:116
+msgid ""
+"Which brings us to new arrivals: "
+"[SubtitleComposer](https://invent.kde.org/kde/subtitlecomposer), an "
+"application that lets you easily create subtitles for videos, is now in the "
+"KDE Incubator, on track to become a full member of KDE's applications "
+"family. Welcome!"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:118
+msgid ""
+"Meanwhile, [plasma-nano](https://invent.kde.org/kde/plasma-nano), a minimal "
+"version of Plasma designed for embedded devices was moved into the Plasma "
+"repos ready for release with 5.18."
+msgstr ""
+
+#. type: Title ##
+#: content/2019-12-apps-update/_index.md:119
+#, no-wrap
+msgid "Release 19.12"
+msgstr ""
+
+#. type: Plain text
+#: content/2019-12-apps-update/_index.md:121
+msgid ""
+"Some of our projects release on their own timescale and some get released "
+"en-masse. The 19.12 bundle of projects was released today and should be "
+"available through app stores and distros soon.  See the [19.12 releases "
+"page](https://www.kde.org/announcements/releases/19.12).  This bundle was "
+"previously called KDE Applications but has been de-branded to become a "
+"release service to avoid confusion with all the other applications by KDE "
+"and because it is dozens of different products rather than a single whole."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:3
+msgid "title: KDE's January 2020 Apps Update"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:5
+msgid "publishDate: 2020-01-09 12:00:00"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:14
+msgid ""
+"The year is 2020, we are living in the future, let's see what KDE apps has "
+"brought us in the last month!"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:15
+#, no-wrap
+msgid "KTimeTracker ported to KDE Frameworks 5"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:21
+msgid ""
+"The long-awaited modernized version of KTimeTracker is finally released.  "
+"The application is a personal time tracker for busy people which is now "
+"available on Linux, FreeBSD and Windows. Over the course of 2019 it had been"
+" ported to Qt5 and KDE Frameworks after being unmaintained since around "
+"2013."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:23
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"ktimetracker.png\" "
+"link=\"https://cdn.kde.org/screenshots/ktimetracker/ktimetracker.png\" "
+"caption=\"KTimeTracker\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:27
+msgid ""
+"The new version is also polished and slightly modernised with the most "
+"noticeable new features being the new Task Time Editing dialog and live "
+"preview in the Export dialog as seen in the picture below."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:29
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"ktimetracker-export.png\" "
+"link=\"https://cgit.kde.org/ktimetracker.git/plain/doc/export-times-"
+"csv.png\" caption=\"Export dialog in KTimeTracker\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:32
+msgid ""
+"https://download.kde.org/stable/ktimetracker/5.0.1/src/ It is available "
+"through your Linux distro or as a [Windows "
+"installer](https://download.kde.org/stable/ktimetracker/5.0.1/win64/) and "
+"there's even [untested MacOS builds](https://binary-"
+"factory.kde.org/job/KTimeTracker_Nightly_macos/) built nightly."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:34
+msgid ""
+"[The release is announced in the blog of the maintainer Alexander "
+"Potashev](https://aspotashev.blogspot.com/2019/12/ktimetracker-501-released.html)"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:35
+#, no-wrap
+msgid "KStars 3.3.9"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:38
+msgid ""
+"Astronomy program [KStars got new features in "
+"3.3.9](http://knro.blogspot.com/2020/01/kstars-v339-is-released.html)."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:40
+msgid ""
+"Images can have fine changes in Shadows, Midtones, and Highlights allowing "
+"the faintest of stars to be seen."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:42
+msgid ""
+"Alternative constellations from the Western Sky Culture which is fascinating"
+" to [read about](https://sternenkarten.com/2019/12/27/kstars-clines/)."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:44
+#, no-wrap
+msgid ""
+"{{< img src=\"Screenshot_20200102_162452.jpg\" caption=\"Alternative "
+"constellations\" alt=\"Western Sky Culture\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:46
+msgid ""
+"[KStars is available for](https://edu.kde.org/kstars/) Android, Windows, "
+"MacOS, Snap store and from your Linux distro."
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:47
+#, no-wrap
+msgid "Common Frameworks - KNewStuff"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:50
+msgid ""
+"Here on the Apps Update we focus on the apps rather than coding libraries.  "
+"But new features in the common libraries will mean new features in all your "
+"apps :)"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:52
+msgid ""
+"This month saw a redesigned UI for KNewStuff, the framework to download "
+"addons for your applications.  The browse and download dialog was redesigned"
+" and the comments section can now be filtered.  It'll be appearing in all "
+"your apps and settings modules shortly starting with the Global Theme module"
+" in System Settings."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:54
+#, no-wrap
+msgid ""
+"{{< img src=\"knewstuff-comments.png\" caption=\"Filters on Comments\" "
+"alt=\"Filters on Comments\" style=\"width: 800px\">}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:56
+#, no-wrap
+msgid ""
+"{{< img src=\"knewstuff.png\" caption=\"Redesigned Browse Dialog\" "
+"alt=\"Redesigned Browse Dialog\" style=\"width: 800px\">}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:57
+#, no-wrap
+msgid "Bugfixes"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:60
+msgid ""
+"[KDevelop's monthly bugfix update "
+"5.4.6](https://www.kdevelop.org/news/kdevelop-546-released) fixed a "
+"longstanding problem where the GPL and LGPL headers were mixed up, grab it "
+"from your distro or Appimage to make sure your licencing is correct."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:62
+msgid ""
+"[Latte Dock 0.9.7](https://psifidotos.blogspot.com/2019/12/latte-bug-fix-"
+"release-v097.html) fixed some features with Qt 5.14 and removed some "
+"crashes."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:64
+msgid "Dolphin Plugins 19.12.1 fixed a broken SVN Commit dialog."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:66
+msgid ""
+"There was improved file indexing in Elisa.  It also fixed some compilation "
+"issues on Android and without Baloo."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:68
+msgid ""
+"The new release of KPat was declaired to have no "
+"[OARS](https://hughsie.github.io/oars/index.html) relevant age restrictions."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:70
+msgid "Okular fixed a crash when closing the print preview dialog."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:72
+msgid ""
+"This month's release of Kdenlive video editor had an impressive number of "
+"fixes best of all was updating the "
+"[screenshots](https://kde.org/applications/multimedia/org.kde.kdenlive) used"
+" in the meta info. It also has dozens of improvements and fixes in timeline "
+"and preview handling."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:74
+msgid ""
+"New JavaScript support is now in Kate's [LSP](https://langserver.org/) "
+"client."
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:75
+#, no-wrap
+msgid "Enjoy KDE on the Flathub Store"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:78
+msgid ""
+"KDE is embracing all the app stores.  We can now deliver more and more of "
+"our programs directly to you the user.  One of the leading app stores on "
+"Linux is [Flathub](https://flathub.org/home) which uses the FlatPak format."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:80
+msgid ""
+"You may well already have Flatpak and Flathub configured on your system and "
+"ready to use in Discover or other app installers.  For example KDE neon has "
+"set it up by default on installs for over a year now.  If not it's a quick "
+"[setup process](https://flatpak.org/setup/) for all the major distros."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:82
+msgid ""
+"If you're interested in the techy details you can browse [KDE's Flatpak "
+"packaging repo](https://phabricator.kde.org/source/flatpak-kde-"
+"applications/) and read the [KDE Flatpak "
+"guide](https://community.kde.org/Guidelines_and_HOWTOs/Flatpak)."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:84
+msgid ""
+"But probably what you're interested in is the apps so take a look at what "
+"the [Flathub store has under KDE](https://flathub.org/apps/search/kde)."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:86
+#, no-wrap
+msgid "{{< img src=\"flathub.png\" alt=\"KDE on Flathub\" style=\"width: 800px\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:87
+#, no-wrap
+msgid "LabPlot now on Chocolatey"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:90
+msgid ""
+"[Chocolatey](https://chocolatey.org/) is a package manager for Windows.  If "
+"you want full control over what software is installed on your Windows "
+"machine or whole office of machines then Chocolatey gives you easy control "
+"over that just like you are used to on Linux."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:92
+msgid ""
+"[LabPlot](https://chocolatey.org/packages/labplot) is KDE's app for "
+"interactive graphing and analysis of scientific data and it is now available"
+" through Chocolatey.  Give it a try!"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:94
+msgid ""
+"[LabPlot blog](https://labplot.kde.org/2019/09/17/chocolatey-package-for-"
+"labplot-available/)"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:96
+#, no-wrap
+msgid ""
+"{{< img src=\"labplot.png\" alt=\"LabPlot on Chocolatey\" style=\"width: "
+"800px\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:97
+#: content/2020-02-apps-update/_index.md:69
+#: content/2020-03-apps-update/_index.md:56
+#, no-wrap
+msgid "Website Updates"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:100
+msgid ""
+"The recently revived KDE Web Team has been updating a bunch of our older "
+"themed sites. The newly relaunched "
+"[KPhotoAlbum](https://www.kphotoalbum.org/) website is a lovely example, "
+"updated and refreshed for our photo storage and search app."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:102
+#, no-wrap
+msgid "{{< img src=\"kphotoalbum.png\" alt=\"New KPhotoAlbum website\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:104
+msgid ""
+"And if you want to show off a simple to use but full featured local music "
+"player but were ashamed by the old looking website, "
+"[JuK](https://juk.kde.org/) has just had an updated website too."
+msgstr ""
+
+#. type: Title ##
+#: content/2020-01-apps-update/_index.md:105
+#, no-wrap
+msgid "Releases 19.12.1"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-01-apps-update/_index.md:107
+msgid ""
+"Some of our projects release on their own timescale and some get released "
+"en-masse. The 19.12.1 bundle of projects was released today and should be "
+"available through app stores and distros soon.  See the [19.12.1 releases "
+"page](https://www.kde.org/info/releases-19.12.1.php).  This bundle was "
+"previously called KDE Applications but has been de-branded to become a "
+"release service to avoid confusion with all the other applications by KDE "
+"and because it is dozens of different products rather than a single whole."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:3
+msgid "title: KDE's February 2020 Apps Update"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:5
+msgid "publishDate: 2020-02-06 12:00:00"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:14
+msgid ""
+"This month sees a plethora of bugfix releases. While we all might like new "
+"features, we know that people love when mistakes and crashes get tidied up "
+"and solved too!"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:15
+#: content/2020-03-apps-update/_index.md:13
+#, no-wrap
+msgid "New releases"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:17
+#, no-wrap
+msgid "KDevelop 5.5"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:20
+msgid ""
+"The big release this month comes from [KDevelop "
+"5.5](https://www.kdevelop.org/news/kdevelop-550-released), the IDE that "
+"makes writing programs in C++, Python and PHP easier. We have fixed a bunch "
+"of bugs and tidied up a lot of KDevelop's code. We added Lambda init "
+"captures in C++, configurable predefined checkset selections are now in for "
+"Clazy-tidy and Clang, and look-ahead completion now tries harder. PHP gets "
+"PHP 7.4's typed properties and support was added for array of type and class"
+" constant visibility. In Python, support has now been added for Python 3.8."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:22
+msgid "KDevelop is available from your Linux distro or as an AppImage."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:24
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"KDevelop_5.5.0.png\" "
+"link=\"https://www.kdevelop.org/news/kdevelop-550-released\" "
+"caption=\"KDevelop\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:25
+#, no-wrap
+msgid "Zanshin 0.5.71"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:28
+msgid ""
+"[Zanshin](https://zanshin.kde.org/) is our TODO list tracker which "
+"integrates with Kontact. Recent releases of Kontact had broken Zanshin and "
+"users were left not knowing what tasks to carry out next. But this month, a "
+"release was made to [get it working "
+"again](https://jriddell.org/2020/01/14/zanshin-0-5-71/). We can now all "
+"easily find the tasks that we need to get on with!"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:30
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"zanshin.png\" "
+"link=\"https://jriddell.org/2020/01/14/zanshin-0-5-71/\" caption=\"Zanshin\""
+" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:31
+#, no-wrap
+msgid "Latte-dock 0.9.8"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:34
+msgid ""
+"https://psifidotos.blogspot.com/2020/01/latte-bug-fix-release-v0981.html"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:36
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"latte.png\" "
+"link=\"https://psifidotos.blogspot.com/2020/01/latte-bug-fix-"
+"release-v0981.html\" caption=\"Latte Dock\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:37
+#, no-wrap
+msgid "RKWard 0.7.1"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:40
+msgid "https://rkward.kde.org/News.html"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:42
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"rkward.png\" "
+"link=\"https://rkward.kde.org/News.html\" caption=\"RKWard\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:43
+#, no-wrap
+msgid "Okteta 0.26.3"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:46
+msgid ""
+"[Okteta](https://kde.org/applications/utilities/org.kde.okteta), KDE's Hex "
+"editor, had a bugfix release and includes a new feature: a CRC-64 algorithm "
+"for the checksum tool. Okteta also updates the code for new Qt and KDE "
+"Frameworks."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:48
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"okteta.png\" "
+"link=\"https://kde.org/applications/utilities/org.kde.okteta\" "
+"caption=\"Okteta\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:49
+#, no-wrap
+msgid "KMyMoney 5.0.8"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:52
+msgid ""
+"[KMyMoney](https://kmymoney.org/), the KDE app that helps you manage your "
+"finances, [included several "
+"bugfixes](https://kmymoney.org/changelogs/kmymoney-5-0-8-release-notes.html)"
+" and an enhancement that added support for check forms with split protocol"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:54
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"kmymoney.png\" "
+"link=\"https://kmymoney.org/changelogs/kmymoney-5-0-8-release-notes.html\" "
+"caption=\"KMyMoney\" >}}\n"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:55
+#: content/2020-03-apps-update/_index.md:39
+#, no-wrap
+msgid "Incoming"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:58
+msgid ""
+"Keysmith is a two-factor code generator for Plasma Mobile and Plasma Desktop"
+" that uses oath-toolkit. The user interface is written in the Kirigami, "
+"making it slick on any size of screen. Expect releases soon."
+msgstr ""
+
+#. type: Title #
+#: content/2020-02-apps-update/_index.md:59
+#, no-wrap
+msgid "Chocolatey"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:62
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"chocolatey.png\" "
+"link=\"https://chocolatey.org/profiles/KDE\" caption=\"Chocolatey\" >}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:64
+msgid ""
+"[Chocolatey](https://chocolatey.org) is a package manager for the Windows "
+"operating system. Chocolatey deals with installing and updating all the "
+"software on the system and can make the life smoother for Windows users."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:66
+msgid ""
+"[KDE has an account on Chocolatey](https://chocolatey.org/profiles/KDE) and "
+"you can install Digikam, Krita, KDevelop and Kate through it. Installation "
+"is very easy: All you have to do is `choco install kdevelop` and Chocolatey "
+"will do the rest. Chocolatey maintainers have high standards so you can be "
+"sure the packages are tested and secure."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:68
+msgid ""
+"If you are a KDE app maintainer, do consider getting your app added, and if "
+"you're a large Windows rollout manager, do consider this for your installs."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:73
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"kmymoney.png\" link=\"https://kmymoney.org/\" caption=\"KMyMoney\" >}}\n"
+"Our web team continues to update our online presence and has recently refreshed the [KMyMoney website](https://kmymoney.org).\n"
+msgstr ""
+
+#. type: Title #
+#: content/2020-02-apps-update/_index.md:74
+#, no-wrap
+msgid "Releases 19.12.2"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:77
+msgid ""
+"Some of our projects release on their own timescale and some get released "
+"en-masse. The 19.12.2 bundle of projects was released today and should be "
+"available through app stores and distros soon. See the [19.12.2 releases "
+"page](https://www.kde.org/info/releases-19.12.2.php) for details. This "
+"bundle was previously called KDE Applications but has been de-branded to "
+"become a release service to avoid confusion with all the other applications "
+"by KDE and because there are dozens of different products rather than a "
+"single whole."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:79
+#: content/2020-03-apps-update/_index.md:67
+msgid "Some of the fixes included in this release are:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-02-apps-update/_index.md:84
+msgid ""
+"The [Elisa](https://kde.org/applications/multimedia/org.kde.elisa) music "
+"player now handles files that do not contain any metadata"
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-02-apps-update/_index.md:84
+msgid ""
+"Attachments saved in the *Draft* folder no longer disappear when reopening a"
+" message for editing in "
+"[KMail](https://kde.org/applications/internet/org.kde.kmail2)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-02-apps-update/_index.md:84
+msgid ""
+"A timing issue that could cause the "
+"[Okular](https://kde.org/applications/office/org.kde.okular) document viewer"
+" to stop rendering has been fixed"
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-02-apps-update/_index.md:84
+msgid ""
+"The [Umbrello](https://umbrello.kde.org/) UML designer now comes with an "
+"improved Java import"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:86
+msgid ""
+"[19.12.2 release "
+"notes](https://community.kde.org/Releases/19.12_Release_Notes) &bull; "
+"[Package download wiki "
+"page](https://community.kde.org/Get_KDE_Software_on_Your_Linux_Distro) "
+"&bull; [19.12.2 source info page](https://kde.org/info/releases-19.12.2) "
+"&bull; [19.12.2 full changelog](https://kde.org/announcements/changelog-"
+"releases.php?version=19.12.2)"
+msgstr ""
+
+#. type: Title ##
+#: content/2020-02-apps-update/_index.md:87
+#: content/2020-03-apps-update/_index.md:74
+#, no-wrap
+msgid "Stores"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:89
+#: content/2020-03-apps-update/_index.md:77
+msgid "KDE software is available on many platforms and software app stores."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-02-apps-update/_index.md:92
+msgid ""
+"[![Snapcraft](snapcraft.png)](https://snapcraft.io/publisher/kde)  "
+"[![Flathub](flathub.png)](https://flathub.org/apps/search/kde)  [![Microsoft"
+" Store](microsoft.png)](https://www.microsoft.com/en-gb/search?q=kde)"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:3
+msgid "title: KDE's March 2020 Apps Update"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:5
+msgid "publishDate: 2020-03-05 15:50:00 # don't translate"
+msgstr ""
+
+#. type: Title ###
+#: content/2020-03-apps-update/_index.md:15
+#, no-wrap
+msgid "Choqok 1.7"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:18
+msgid ""
+"February started with a long awaited update to our microblogging app "
+"[Choqok](https://choqok.kde.org/news/2020/02/04/choqok-1-7-released.html)."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:20
+msgid ""
+"Important fixes include the 280 character limit on Twitter, allowing "
+"disabling accounts and support extended tweets."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:22
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"quick-post.png\" "
+"link=\"https://choqok.kde.org/\" caption=\"Choqok\" >}}\n"
+msgstr ""
+
+#. type: Title ###
+#: content/2020-03-apps-update/_index.md:23
+#, no-wrap
+msgid "KPMcore and KDE Partition Manager 4.1.0"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:26
+msgid ""
+"Our disk formatting program Partition Manager got a new release with lots of"
+" work done to the library KPMCore which is also used by the Calamares distro"
+" installer.  The app itself added support for Minix file systems."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:28
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"kdepartitionmanager.png\" "
+"link=\"https://kde.org/applications/system/org.kde.partitionmanager\" "
+"caption=\"Partition Manager\" >}}\n"
+msgstr ""
+
+#. type: Title ###
+#: content/2020-03-apps-update/_index.md:29
+#, no-wrap
+msgid "KPhotoAlbum 5.6"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:32
+msgid ""
+"If you have hundreds or even thousands of images on your hard drive, it "
+"becomes impossible to remember the story behind every single image or the "
+"names of the persons photographed. KPhotoAlbum was created to help you "
+"describe your images and then search the big pile of pictures quickly and "
+"efficiently."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:34
+msgid ""
+"This release particularly brings huge performance improvements when tagging "
+"a large number of images and performance improvements for thumbnail view. "
+"Kudos to Robert Krawitz for again diving into the code and finding places "
+"for optimization and removal of redundancy!"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:36
+msgid ""
+"Additionally, this release adds support for KDE's purpose plugin framework."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:38
+msgid "[KPhotoAlbum](https://www.kphotoalbum.org/2020/02/08/0099/)"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:42
+msgid ""
+"The MP3 ID tag editor Kid3 was moved into kdereview, the first step to "
+"getting new releases."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:44
+msgid ""
+"And the Rocket.chat app Ruqola passed kdereview and was moved to be ready to"
+" release.  However the word from the maintainer Laurent Montel is that a "
+"rewrite with Qt Widgets is planned so there's still a lot of work to be "
+"done."
+msgstr ""
+
+#. type: Title ##
+#: content/2020-03-apps-update/_index.md:45
+#, no-wrap
+msgid "App Store"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:48
+#, no-wrap
+msgid ""
+"{{< img class=\"text-center\" src=\"elisa.jpeg\" "
+"link=\"https://www.microsoft.com/en-"
+"gb/p/elisa/9pb5md7zh8tl?activetab=pivot:overviewtab\" caption=\"Elisa\" "
+">}}\n"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:50
+msgid ""
+"New in the Microsoft Store for Windows is "
+"[Elisa](https://www.microsoft.com/en-"
+"gb/p/elisa/9pb5md7zh8tl?activetab=pivot:overviewtab)."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:53
+msgid ""
+"A modern and beautiful music player made with love by KDE. Browse, and play "
+"your music very easily! Elisa should be able to read almost any music files."
+"  Elisa is made to be accessible to everybody."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:55
+msgid "Meanwhile Digikam is ready to be submitted to the Microsoft Store."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:59
+msgid ""
+"[KDE Connect](https://kdeconnect.kde.org/), our nifty phone and desktop "
+"integration tool, got a new website."
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:61
+msgid ""
+"[Kid3](https://kid3.kde.org/) has a shiny new website with news and download"
+" links from all the stores it's available from."
+msgstr ""
+
+#. type: Title ##
+#: content/2020-03-apps-update/_index.md:62
+#, no-wrap
+msgid "Releases 19.12.3"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:65
+msgid ""
+"Some of our projects release on their own timescale and some get released "
+"en-masse. The 19.12.3 bundle of projects was released today and should be "
+"available through app stores and distros soon. See the [19.12.3 releases "
+"page](https://www.kde.org/info/releases-19.12.3.php) for details. This "
+"bundle was previously called KDE Applications but has been de-branded to "
+"become a release service to avoid confusion with all the other applications "
+"by KDE and because there are dozens of different products rather than a "
+"single whole."
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-03-apps-update/_index.md:71
+msgid ""
+"Support for file attributes for SMB shares has been improved, [various "
+"commits](https://cgit.kde.org/kio-extras.git/log/?h=release/19.12)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-03-apps-update/_index.md:71
+msgid ""
+"K3b now accepts WAV files as audio files [BUG "
+"399056](https://bugs.kde.org/show_bug.cgi?id=399056) "
+"[Commit](https://cgit.kde.org/k3b.git/commit/?h=release/19.12&id=2491cc70f9ffb129cf49633cbdc4f0d77789677d)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: content/2020-03-apps-update/_index.md:71
+msgid ""
+"Gwenview now can load remote images via https "
+"[Commit](https://cgit.kde.org/gwenview.git/commit/?h=release/19.12&id=9973a097d30a91dd50a4d23388b0b2b00eeeb626)"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:73
+msgid ""
+"💻 [19.12 release "
+"notes](https://community.kde.org/Releases/19.12_Release_Notes) for "
+"information on tarballs and known issues. 💻 [Package download wiki "
+"page](https://community.kde.org/Get_KDE_Software_on_Your_Linux_Distro) 💻 "
+"[19.12.3 source info page](https://kde.org/info/releases-19.12.3) 💻 [19.12 "
+"full changelog](https://kde.org/announcements/changelog-"
+"releases.php?version=19.12.3) 💻"
+msgstr ""
+
+#. type: Plain text
+#: content/2020-03-apps-update/_index.md:80
+msgid ""
+"[![Snapcraft](../platforms/snapcraft.png)](https://snapcraft.io/publisher/kde)"
+"  "
+"[![Flathub](../platforms/flathub.png)](https://flathub.org/apps/search/kde)"
+"  [![Microsoft "
+"Store](../platforms/microsoft.png)](https://www.microsoft.com/en-"
+"gb/search/shop/Apps?q=KDE+e.V.)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Donate to KDE"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "International Websites"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "News &amp; Press"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Screenshots"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Patrons"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Learn More"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Return to kde.org"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Other ways to donate"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "RSS Feed"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Why Donate?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Click here to browse"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Press Contact"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Code of Conduct"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "API Documentation"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE applications"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Visit the KDE MetaStore"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Donate via PayPal"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Resources"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Timeline"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Announcements"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Releases"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Show your love for KDE! Purchase books, mugs, apparel, and more to support "
+"KDE."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Develop"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Download KDE Software"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Destinations"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Products"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Development and communication of KDE software"
+msgstr ""

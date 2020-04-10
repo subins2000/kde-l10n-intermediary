@@ -1,0 +1,238 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the plasma-desktop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-desktop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-23 03:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: gtkpage.cpp:117
+#, kde-format
+msgid "%1 is not a valid GTK Theme archive."
+msgstr ""
+
+#: kcmstyle.cpp:92
+#, kde-format
+msgid "Application Style"
+msgstr ""
+
+#: kcmstyle.cpp:94
+#, kde-format
+msgid "(c) 2002 Karol Szwed, Daniel Molkentin, (c) 2019 Kai Uwe Broulik"
+msgstr ""
+
+#: kcmstyle.cpp:96
+#, kde-format
+msgid "Karol Szwed"
+msgstr ""
+
+#: kcmstyle.cpp:97
+#, kde-format
+msgid "Daniel Molkentin"
+msgstr ""
+
+#: kcmstyle.cpp:98
+#, kde-format
+msgid "Kai Uwe Broulik"
+msgstr ""
+
+#: kcmstyle.cpp:181 kcmstyle.cpp:188
+#, kde-format
+msgid "There was an error loading the configuration dialog for this style."
+msgstr ""
+
+#: kcmstyle.cpp:283
+#, kde-format
+msgid "Failed to apply selected style '%1'."
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:43
+#, kde-format
+msgid "Show icons:"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:44
+#, kde-format
+msgid "On buttons"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:51
+#, kde-format
+msgid "In menus"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:60
+#, kde-format
+msgid "Main toolbar label:"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:62
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:63
+#, kde-format
+msgid "Text only"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:64
+#, kde-format
+msgid "Beside icons"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:65
+#, kde-format
+msgid "Below icon"
+msgstr ""
+
+#: package/contents/ui/EffectSettingsPopup.qml:76
+#, kde-format
+msgid "Secondary toolbar label:"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:32
+#, kde-format
+msgid "GNOME/GTK Application Style"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:58
+#, kde-format
+msgid "GTK2 theme:"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:90
+#: package/contents/ui/GtkStylePage.qml:130
+#, kde-format
+msgid "Preview..."
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:98
+#, kde-format
+msgid "GTK3 theme:"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:151
+#, kde-format
+msgid "Install from File..."
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:157
+#, kde-format
+msgid "Download New GNOME/GTK Application Styles..."
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:165
+#, kde-format
+msgid "Download New GNOME/GTK2 Application Styles..."
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:173
+#, kde-format
+msgid "GNOME/GTK2 Application Styles"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:182
+#, kde-format
+msgid "Download New GNOME/GTK3 Application Styles..."
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:190
+#, kde-format
+msgid "GNOME/GTK3 Application Styles"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:207
+#, kde-format
+msgid "Select GTK Theme Archive"
+msgstr ""
+
+#: package/contents/ui/GtkStylePage.qml:209
+#, kde-format
+msgid "GTK Theme Archive (*.tar.xz *.tar.gz *.tar.bz2)"
+msgstr ""
+
+#: package/contents/ui/main.qml:31
+#, kde-format
+msgid ""
+"This module allows you to modify the visual appearance of applications' user "
+"interface elements."
+msgstr ""
+
+#: package/contents/ui/main.qml:107
+#, kde-format
+msgid "Configure Style..."
+msgstr ""
+
+#: package/contents/ui/main.qml:124
+#, kde-format
+msgid "Configure Icons and Toolbars"
+msgstr ""
+
+#: package/contents/ui/main.qml:137
+#, kde-format
+msgid "Configure GNOME/GTK Application Style..."
+msgstr ""
+
+#: styleconfdialog.cpp:33
+#, kde-format
+msgid "Configure %1"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_1)
+#: stylepreview.ui:33
+#, kde-format
+msgid "Tab 1"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButton)
+#: stylepreview.ui:65
+#, kde-format
+msgid "Push Button"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboBox)
+#: stylepreview.ui:86
+#, kde-format
+msgid "Combo box"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkBox)
+#: stylepreview.ui:96
+#, kde-format
+msgid "Checkbox"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_2)
+#. i18n: ectx: property (text), widget (QRadioButton, radioButton_1)
+#: stylepreview.ui:106 stylepreview.ui:116
+#, kde-format
+msgid "Radio button"
+msgstr ""
+
+#. i18n: ectx: attribute (title), widget (QWidget, tab_2)
+#: stylepreview.ui:133
+#, kde-format
+msgid "Tab 2"
+msgstr ""

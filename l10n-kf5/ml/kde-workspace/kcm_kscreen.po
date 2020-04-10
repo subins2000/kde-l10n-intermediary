@@ -1,0 +1,236 @@
+# Malayalam translations for kscreen package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the kscreen package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kscreen\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-27 03:46+0100\n"
+"PO-Revision-Date: 2019-12-12 22:38+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+
+#: kcm.cpp:59
+#, kde-format
+msgid "Display Configuration"
+msgstr ""
+
+#: kcm.cpp:61
+#, kde-format
+msgid "Manage and configure monitors and displays"
+msgstr ""
+
+#: kcm.cpp:63
+#, kde-format
+msgid "Copyright © 2019 Roman Gilg"
+msgstr ""
+
+#: kcm.cpp:64
+#, kde-format
+msgid "Roman Gilg"
+msgstr ""
+
+#: kcm.cpp:65
+#, kde-format
+msgid "Maintainer"
+msgstr ""
+
+#: output_model.cpp:85
+#, kde-format
+msgid "%1 Hz"
+msgstr ""
+
+#: output_model.cpp:496
+#, kde-format
+msgctxt "Width x height (aspect ratio)"
+msgid "%1x%2 (%3:%4)"
+msgstr ""
+
+#: output_model.cpp:572
+#, kde-format
+msgid "None"
+msgstr ""
+
+#: output_model.cpp:579
+#, kde-format
+msgid "Replicated by other output"
+msgstr ""
+
+#: package/contents/ui/main.qml:44
+#, kde-format
+msgid ""
+"Are you sure you want to disable all outputs? This might render the device "
+"unusable."
+msgstr ""
+
+#: package/contents/ui/main.qml:50
+#, kde-format
+msgid "Disable All Outputs"
+msgstr ""
+
+#: package/contents/ui/main.qml:62
+#, kde-format
+msgid "No KScreen backend found. Please check your KScreen installation."
+msgstr ""
+
+#: package/contents/ui/main.qml:70
+#, kde-format
+msgid "Outputs could not be saved due to error."
+msgstr ""
+
+#: package/contents/ui/main.qml:78
+#, kde-format
+msgid "New global scale applied. Change will come into effect after restart."
+msgstr ""
+
+#: package/contents/ui/main.qml:97
+#, kde-format
+msgid "A new output has been added. Settings have been reloaded."
+msgstr ""
+
+#: package/contents/ui/main.qml:99
+#, kde-format
+msgid "An output has been removed. Settings have been reloaded."
+msgstr ""
+
+#: package/contents/ui/Orientation.qml:23
+#, kde-format
+msgid "Orientation:"
+msgstr ""
+
+#: package/contents/ui/Orientation.qml:37
+#, kde-format
+msgid "Automatic"
+msgstr ""
+
+#: package/contents/ui/Orientation.qml:46
+#, kde-format
+msgid "Only when in tablet mode."
+msgstr ""
+
+#: package/contents/ui/Orientation.qml:55
+#, kde-format
+msgid "Manual"
+msgstr ""
+
+#: package/contents/ui/Output.qml:150
+#, kde-format
+msgid "Replicas"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:32
+#, kde-format
+msgid "Enabled"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:39
+#, kde-format
+msgid "Primary"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:46
+#, kde-format
+msgid "Resolution:"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:57
+#, kde-format
+msgid "Scale:"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:86 package/contents/ui/Panel.qml:117
+#, kde-format
+msgctxt "Global scale factor expressed in percentage form"
+msgid "%1%"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:98
+#, kde-format
+msgid "Refresh rate:"
+msgstr ""
+
+#: package/contents/ui/OutputPanel.qml:106
+#, kde-format
+msgid "Replica of:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:30
+#, kde-format
+msgid "Device:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:81
+#, kde-format
+msgid "Global scale:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:138
+#, kde-format
+msgid ""
+"The global scale factor is limited to multiples of 6.25% to minimize visual "
+"glitches in applications using the X11 windowing system."
+msgstr ""
+
+#: package/contents/ui/Panel.qml:150
+#, kde-format
+msgid "Save displays' properties:"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:156
+#, kde-format
+msgid "For any display arrangement"
+msgstr ""
+
+#: package/contents/ui/Panel.qml:163
+#, kde-format
+msgid "For only this specific display arrangement"
+msgstr ""
+
+#: package/contents/ui/RotationButton.qml:61
+#, kde-format
+msgid "90° Clockwise"
+msgstr ""
+
+#: package/contents/ui/RotationButton.qml:65
+#, kde-format
+msgid "Upside Down"
+msgstr ""
+
+#: package/contents/ui/RotationButton.qml:69
+#, kde-format
+msgid "90° Counterclockwise"
+msgstr ""
+
+#: package/contents/ui/RotationButton.qml:74
+#, kde-format
+msgid "No Rotation"
+msgstr ""
+
+#: package/contents/ui/Screen.qml:63
+#, kde-format
+msgid "Drag screens to re-arrange them"
+msgstr ""
+
+#: package/contents/ui/Screen.qml:76
+#, kde-format
+msgid "Identify"
+msgstr ""

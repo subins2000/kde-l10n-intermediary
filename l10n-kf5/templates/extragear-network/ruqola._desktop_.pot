@@ -1,0 +1,32 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-01 02:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/data/org.kde.ruqola.desktop:2
+msgctxt "Name"
+msgid "Ruqola"
+msgstr ""
+
+#: src/data/org.kde.ruqola.desktop:28
+msgctxt "GenericName"
+msgid "Rocket.Chat client"
+msgstr ""
+
+#: src/data/org.kde.ruqolaqml.desktop:2
+msgctxt "Name"
+msgid "RuqolaQml"
+msgstr ""
+
+#: src/data/org.kde.ruqolaqml.desktop:23
+msgctxt "GenericName"
+msgid "QML Rocket.Chat client"
+msgstr ""

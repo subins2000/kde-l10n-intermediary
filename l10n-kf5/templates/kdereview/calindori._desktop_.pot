@@ -1,0 +1,57 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-07 02:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: calindac/calindac.notifyrc:3
+msgctxt "Comment"
+msgid "Plasma Mobile Calendar"
+msgstr ""
+
+#: calindac/calindac.notifyrc:21 org.kde.phone.calindori.desktop:2
+msgctxt "Name"
+msgid "Calindori"
+msgstr ""
+
+#: calindac/calindac.notifyrc:42
+msgctxt "Name"
+msgid "Incidence uid"
+msgstr ""
+
+#: calindac/calindac.notifyrc:58
+msgctxt "Comment"
+msgid "The uid of the incidence of the alarm"
+msgstr ""
+
+#: calindac/calindac.notifyrc:76
+msgctxt "Name"
+msgid "Alarm"
+msgstr ""
+
+#: calindac/calindac.notifyrc:96
+msgctxt "Comment"
+msgid "Alarm Notification"
+msgstr ""
+
+#: calindac/org.kde.calindac.desktop:2
+msgctxt "Name"
+msgid "Calindori Reminder Client"
+msgstr ""
+
+#: calindac/org.kde.calindac.desktop:24
+msgctxt "GenericName"
+msgid "Calindori Reminder Daemon Client"
+msgstr ""
+
+#: org.kde.phone.calindori.desktop:21
+msgctxt "Comment"
+msgid "Calindori"
+msgstr ""

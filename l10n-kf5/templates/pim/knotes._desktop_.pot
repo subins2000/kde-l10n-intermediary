@@ -1,0 +1,182 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: notesagent/akonadi_notes_agent.notifyrc:3
+msgctxt "Comment"
+msgid "Notes Agent"
+msgstr ""
+
+#: notesagent/akonadi_notes_agent.notifyrc:43
+msgctxt "Name"
+msgid "Received a note"
+msgstr ""
+
+#: notesagent/notesagent.desktop:2
+msgctxt "Name"
+msgid "Notes Agent"
+msgstr ""
+
+#: notesagent/notesagent.desktop:40
+msgctxt "Comment"
+msgid "Adds notes received via network and handles note alarm notifications"
+msgstr ""
+
+#: src/data/knote_config_action.desktop:15
+msgctxt "Name"
+msgid "Actions"
+msgstr ""
+
+#: src/data/knote_config_action.desktop:66
+msgctxt "Comment"
+msgid "Setup actions for notes"
+msgstr ""
+
+#: src/data/knote_config_collection.desktop:15
+msgctxt "Name"
+msgid "Collections"
+msgstr ""
+
+#: src/data/knote_config_collection.desktop:51
+msgctxt "Comment"
+msgid "Setup collections for notes"
+msgstr ""
+
+#: src/data/knote_config_display.desktop:15
+msgctxt "Name"
+msgid "Display"
+msgstr ""
+
+#: src/data/knote_config_display.desktop:67
+msgctxt "Comment"
+msgid "Setup display for notes"
+msgstr ""
+
+#: src/data/knote_config_editor.desktop:15
+msgctxt "Name"
+msgid "Editor"
+msgstr ""
+
+#: src/data/knote_config_editor.desktop:68
+msgctxt "Comment"
+msgid "Setup editor"
+msgstr ""
+
+#: src/data/knote_config_misc.desktop:15
+msgctxt "Name"
+msgid "Misc"
+msgstr ""
+
+#: src/data/knote_config_misc.desktop:85
+msgctxt "Comment"
+msgid "Settings that don't fit elsewhere"
+msgstr ""
+
+#: src/data/knote_config_network.desktop:15
+msgctxt "Name"
+msgid "Network"
+msgstr ""
+
+#: src/data/knote_config_network.desktop:67
+msgctxt "Comment"
+msgid "Network Settings"
+msgstr ""
+
+#: src/data/knote_config_print.desktop:15
+msgctxt "Name"
+msgid "Print"
+msgstr ""
+
+#: src/data/knote_config_print.desktop:54
+msgctxt "Comment"
+msgid "Setup printing for notes"
+msgstr ""
+
+#: src/data/knotes_printing_theme.knsrc:2
+msgctxt "Name"
+msgid "KNotes Printing Theme"
+msgstr ""
+
+#: src/data/org.kde.knotes.desktop:8
+msgctxt "GenericName"
+msgid "Popup Notes"
+msgstr ""
+
+#: src/data/org.kde.knotes.desktop:77
+msgctxt "Name"
+msgid "KNotes"
+msgstr ""
+
+#: src/data/org.kde.knotes.desktop:155
+msgctxt "Name"
+msgid "New Note"
+msgstr ""
+
+#: src/kontactplugin/kcmknotessummary.desktop:14
+msgctxt "Name"
+msgid "New Notes"
+msgstr ""
+
+#: src/kontactplugin/kcmknotessummary.desktop:52
+msgctxt "Comment"
+msgid "Notes Summary Setup"
+msgstr ""
+
+#: src/kontactplugin/kcmknotessummary.desktop:90
+msgctxt "X-KDE-Keywords"
+msgid "notes, summary, configure, settings"
+msgstr ""
+
+#: src/kontactplugin/knotesplugin.desktop:18
+msgctxt "Comment"
+msgid "Kontact KNotes Plugin"
+msgstr ""
+
+#: src/kontactplugin/knotesplugin.desktop:85 src/kontactplugin/knotes.setdlg:2
+msgctxt "Name"
+msgid "Popup Notes"
+msgstr ""
+
+#: src/kontactplugin/knotes.setdlg:54
+msgctxt "Comment"
+msgid "Popup Notes Component"
+msgstr ""
+
+#: src/print/themes/background-color/theme.desktop:2
+msgctxt "Name"
+msgid "Note with background color"
+msgstr ""
+
+#: src/print/themes/background-color/theme.desktop:37
+msgctxt "Description"
+msgid "Theme which use note background color"
+msgstr ""
+
+#: src/print/themes/big-title/theme.desktop:2
+msgctxt "Name"
+msgid "Big Title"
+msgstr ""
+
+#: src/print/themes/big-title/theme.desktop:41
+msgctxt "Description"
+msgid "KNote printing theme with big title"
+msgstr ""
+
+#: src/print/themes/default/theme.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr ""
+
+#: src/print/themes/default/theme.desktop:73
+msgctxt "Description"
+msgid "Default knotes printing theme"
+msgstr ""

@@ -1,0 +1,386 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdevelop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevelop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-12 02:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: cutcopypastehelpers.cpp:91
+#, kde-format
+msgid "Move %1 item into %2"
+msgid_plural "Move %1 items into %2"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cutcopypastehelpers.cpp:94
+#, kde-format
+msgid "Copy %1 item into %2"
+msgid_plural "Copy %1 items into %2"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cutcopypastehelpers.cpp:97
+#, kde-format
+msgid "Delete %1 item"
+msgid_plural "Delete %1 items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cutcopypastehelpers.cpp:106
+#, kde-format
+msgid "Move item %1 into %2"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:109
+#, kde-format
+msgid "Copy item %1 into %2"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:112
+#, kde-format
+msgid "Delete item %1"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:121
+#, kde-format
+msgid "Suboperation succeeded"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:125
+#, kde-format
+msgid "Suboperation failed"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:129
+#, kde-format
+msgid "Suboperation skipped to prevent data loss"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:300
+#, kde-format
+msgctxt "@title:window"
+msgid "Paste Failed"
+msgstr ""
+
+#: cutcopypastehelpers.cpp:336
+#, kde-format
+msgid ""
+"Failed to paste. Below is a list of suboperations that have been attempted."
+msgstr ""
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kdevprojectmanagerview.rc:26
+#, kde-format
+msgid "Main Toolbar"
+msgstr ""
+
+#: projectbuildsetwidget.cpp:137
+#, kde-format
+msgid "Build Set"
+msgstr ""
+
+#: projectbuildsetwidget.cpp:138
+#, kde-format
+msgid "Remove From Build Set"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, topButton)
+#: projectbuildsetwidget.ui:35
+#, kde-format
+msgid "Move the selected items to the top"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, upButton)
+#: projectbuildsetwidget.ui:67
+#, kde-format
+msgid "Move the selected items up"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, downButton)
+#: projectbuildsetwidget.ui:83
+#, kde-format
+msgid "Move the selected item down"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, bottomButton)
+#: projectbuildsetwidget.ui:115
+#, kde-format
+msgid "Move the selected items to the bottom"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLabel, label)
+#: projectbuildsetwidget.ui:177
+#, kde-format
+msgid "These items will be built in the order they are listed."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: projectbuildsetwidget.ui:180
+#, kde-format
+msgid "Build Sequence"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, addItemButton)
+#: projectbuildsetwidget.ui:200
+#, kde-format
+msgid "Add currently selected items from project tree view to buildset."
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, removeItemButton)
+#: projectbuildsetwidget.ui:216
+#, kde-format
+msgid "Remove currently selected item from buildset."
+msgstr ""
+
+#: projectmanagerview.cpp:100
+#, kde-format
+msgid "Locate Current Document"
+msgstr ""
+
+#: projectmanagerview.cpp:101
+#, kde-format
+msgid "Locates the current document in the project tree and selects it."
+msgstr ""
+
+#: projectmanagerview.cpp:108
+#, kde-format
+msgid "Show Targets"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (ProjectTreeView, projectTreeView)
+#: projectmanagerview.ui:33
+#, kde-format
+msgid "Project Overview"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (ProjectBuildSetWidget, buildSetView)
+#: projectmanagerview.ui:53
+#, kde-format
+msgid "Build Items:"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:154
+#, kde-format
+msgid "Build all Projects"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:159
+#, kde-format
+msgid "Build Selection"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:160
+#, kde-format
+msgid "Build"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:166
+#, kde-format
+msgid "Install Selection"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:167
+#, kde-format
+msgid "Install"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:173
+#, kde-format
+msgid "Clean Selection"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:174
+#, kde-format
+msgid "Clean"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:179
+#, kde-format
+msgid "Configure Selection"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:181
+#, kde-format
+msgid "Configure"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:186
+#, kde-format
+msgid "Prune Selection"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:187
+#, kde-format
+msgid "Prune"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:198
+#, kde-format
+msgid "Projects"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:289
+#, kde-format
+msgid "Create &File..."
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:295
+#, kde-format
+msgid "Create F&older..."
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:302
+#, kde-format
+msgctxt "@action"
+msgid "&Build"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:306
+#, kde-format
+msgctxt "@action"
+msgid "&Install"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:310
+#, kde-format
+msgctxt "@action"
+msgid "&Clean"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:314
+#, kde-format
+msgid "&Add to Build Set"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:321
+#, kde-format
+msgid "C&lose Project"
+msgid_plural "Close Projects"
+msgstr[0] ""
+msgstr[1] ""
+
+#: projectmanagerviewplugin.cpp:327
+#, kde-format
+msgid "&Reload"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:358
+#, kde-format
+msgid "Remo&ve"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:362
+#, kde-format
+msgid "Re&name..."
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:368
+#, kde-format
+msgid "Remove From &Target"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:555
+#, kde-format
+msgid "Create Folder in %1"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:555
+#, kde-format
+msgid "Folder name:"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:606
+#, kde-format
+msgid "Do you really want to delete this item?"
+msgid_plural "Do you really want to delete these %1 items?"
+msgstr[0] ""
+msgstr[1] ""
+
+#: projectmanagerviewplugin.cpp:609
+#, kde-format
+msgid "Delete Files"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:662
+#, kde-format
+msgid "Rename..."
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:663
+#, kde-format
+msgid "New name for '%1':"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:675
+#, kde-format
+msgid "There is already a file named '%1'"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:678
+#, kde-format
+msgid "Could not rename '%1'"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:681
+#, kde-format
+msgid "'%1' is not a valid file name"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:695
+#, kde-format
+msgid "Create File in %1"
+msgstr ""
+
+#: projectmanagerviewplugin.cpp:695
+#, kde-format
+msgid "File name:"
+msgstr ""
+
+#: projecttreeview.cpp:164
+#, kde-format
+msgid "&Move Here"
+msgstr ""
+
+#: projecttreeview.cpp:170
+#, kde-format
+msgid "&Copy Here"
+msgstr ""
+
+#: projecttreeview.cpp:176 projecttreeview.cpp:237
+#, kde-format
+msgid "C&ancel"
+msgstr ""
+
+#: projecttreeview.cpp:231
+#, kde-format
+msgid "&Add to Target"
+msgstr ""
+
+#: projecttreeview.cpp:361
+#, kde-format
+msgid "Analyze With"
+msgstr ""
+
+#: projecttreeview.cpp:377
+#, kde-format
+msgid "Open Configuration..."
+msgstr ""
+
+#: vcsoverlayproxymodel.cpp:119
+#, kde-format
+msgctxt "Version control: Currently not on a branch"
+msgid "(no branch)"
+msgstr ""

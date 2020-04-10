@@ -1,0 +1,245 @@
+# Malayalam translations for sddm-kcm package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the sddm-kcm package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sddm-kcm\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-10 03:50+0100\n"
+"PO-Revision-Date: 2019-12-12 22:32+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+
+#: sddmauthhelper.cpp:341 sddmauthhelper.cpp:361 sddmauthhelper.cpp:368
+#, kde-format
+msgid "Invalid theme package"
+msgstr ""
+
+#: sddmauthhelper.cpp:346
+#, kde-format
+msgid "Could not open file"
+msgstr ""
+
+#: sddmauthhelper.cpp:376
+#, kde-format
+msgid "Could not decompress archive"
+msgstr ""
+
+#: sddmthemeinstaller.cpp:40
+#, kde-format
+msgid "SDDM theme installer"
+msgstr ""
+
+#: sddmthemeinstaller.cpp:47
+#, kde-format
+msgid "Install a theme."
+msgstr ""
+
+#: sddmthemeinstaller.cpp:48
+#, kde-format
+msgid "Uninstall a theme."
+msgstr ""
+
+#: sddmthemeinstaller.cpp:50
+#, kde-format
+msgid "The theme to install, must be an existing archive file."
+msgstr ""
+
+#: sddmthemeinstaller.cpp:76
+#, kde-format
+msgid "Unable to install theme"
+msgstr ""
+
+#: src/configwidgets/selectimagebutton.cpp:41
+#, kde-format
+msgid "Load from file..."
+msgstr ""
+
+#: src/configwidgets/selectimagebutton.cpp:42
+#, kde-format
+msgid "Clear Image"
+msgstr ""
+
+#: src/configwidgets/selectimagebutton.cpp:75
+#, kde-format
+msgctxt "@title:window"
+msgid "Select Image"
+msgstr ""
+
+#: src/qml/main.qml:91 src/themesdelegate.cpp:67
+#, kde-format
+msgid "No preview available"
+msgstr ""
+
+#: src/qml/main.qml:116
+#, kde-format
+msgid ", by "
+msgstr ""
+
+#: src/sddmkcm.cpp:43
+#, kde-format
+msgid "SDDM KDE Config"
+msgstr ""
+
+#: src/sddmkcm.cpp:45
+#, kde-format
+msgid "Login screen using the SDDM"
+msgstr ""
+
+#: src/sddmkcm.cpp:49 src/sddmkcm.cpp:50
+#, kde-format
+msgid "Author"
+msgstr ""
+
+#: src/sddmkcm.cpp:116
+#, kde-format
+msgid "Theme"
+msgstr ""
+
+#: src/sddmkcm.cpp:121
+#, kde-format
+msgid "Advanced"
+msgstr ""
+
+#: src/sessionmodel.cpp:89
+#, kde-format
+msgctxt "%1 is the name of a session"
+msgid "%1 (Wayland)"
+msgstr ""
+
+#: src/themeconfig.cpp:188
+#, kde-format
+msgid "Download New SDDM Themes"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: src/ui/advancedconfig.ui:25
+#, kde-format
+msgid "Automatically log in:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, autoLogin)
+#: src/ui/advancedconfig.ui:34
+#, kde-format
+msgid "as user:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: src/ui/advancedconfig.ui:51
+#, kde-format
+msgid "with session:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, reloginAfterQuit)
+#: src/ui/advancedconfig.ui:76
+#, kde-format
+msgid "Log in again immediately after logging off"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: src/ui/advancedconfig.ui:99
+#, kde-format
+msgid "Minimum user UID:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: src/ui/advancedconfig.ui:119
+#, kde-format
+msgid "Maximum user UID:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/advancedconfig.ui:155
+#, kde-format
+msgid "Halt command:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: src/ui/advancedconfig.ui:172
+#, kde-format
+msgid "Reboot command:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: src/ui/advancedconfig.ui:205
+#, kde-format
+msgid "Settings synchronization:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, syncSettings)
+#: src/ui/advancedconfig.ui:214
+#, kde-format
+msgid "Sync"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, resetSettings)
+#: src/ui/advancedconfig.ui:224
+#, kde-format
+msgid "Reset"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, syncExplanation)
+#: src/ui/advancedconfig.ui:242
+#, kde-format
+msgid ""
+"Settings synchronization allows you to transfer the following Plasma "
+"settings to SDDM: color scheme, cursor theme, font, font rendering, NumLock "
+"preference, Plasma theme, and scaling DPI."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, syncWarning)
+#: src/ui/advancedconfig.ui:255
+#, kde-format
+msgid ""
+"Please note that theme files must be installed globally for settings "
+"synchronization to work."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (SelectImageButton, selectBackgroundButton)
+#: src/ui/themeconfig.ui:127
+#, kde-format
+msgid "..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: src/ui/themeconfig.ui:134
+#, kde-format
+msgid "Background:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, removeThemeButton)
+#: src/ui/themeconfig.ui:156
+#, kde-format
+msgid "Remove"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, installFromFileButton)
+#: src/ui/themeconfig.ui:180
+#, kde-format
+msgid "Install From File..."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, getNewButton)
+#: src/ui/themeconfig.ui:191
+#, kde-format
+msgid "Get New Login Screens..."
+msgstr ""

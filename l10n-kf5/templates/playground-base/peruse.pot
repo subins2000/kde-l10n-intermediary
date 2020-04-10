@@ -1,0 +1,1360 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the peruse package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: peruse\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-07 03:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: app/main.cpp:48
+#, kde-format
+msgid "Peruse Reader"
+msgstr ""
+
+#: app/main.cpp:48
+#, kde-format
+msgid "Comic Book Reader by KDE"
+msgstr ""
+
+#: app/main.cpp:49 creator/main.cpp:44
+#, kde-format
+msgid "© 2016-2019 KDE"
+msgstr ""
+
+#: app/main.cpp:50 creator/main.cpp:45
+#, kde-format
+msgid "Dan Leinir Turthra Jensen"
+msgstr ""
+
+#: app/main.cpp:56
+#, kde-format
+msgid "Clear the metainfo cache and perform a full rescan."
+msgstr ""
+
+#: app/main.cpp:57 creator/main.cpp:51
+#, kde-format
+msgid "Open file in peruse."
+msgstr ""
+
+#: app/qml/Book.qml:182
+#, kde-format
+msgctxt "Enter full screen mode on a touch-based device"
+msgid "Go Full Screen"
+msgstr ""
+
+#: app/qml/Book.qml:182
+#, kde-format
+msgctxt "Exit full sceen mode on a touch based device"
+msgid "Exit Full Screen"
+msgstr ""
+
+#: app/qml/Book.qml:188
+#, kde-format
+msgctxt ""
+"Action used on touch devices to close the currently open book and return to "
+"whatever page was most recently shown"
+msgid "Close Book"
+msgstr ""
+
+#: app/qml/Book.qml:197
+#, kde-format
+msgctxt ""
+"Top level entry leading to a submenu with options for the book display"
+msgid "View Options"
+msgstr ""
+
+#: app/qml/Book.qml:240
+#, kde-format
+msgctxt "Go to the previous frame on the current page"
+msgid "Previous Frame"
+msgstr ""
+
+#: app/qml/Book.qml:247
+#, kde-format
+msgctxt "Go to the next frame on the current page"
+msgid "Next Frame"
+msgstr ""
+
+#: app/qml/Book.qml:254
+#, kde-format
+msgctxt "Go to the previous page in the book"
+msgid "Previous Page"
+msgstr ""
+
+#: app/qml/Book.qml:261
+#, kde-format
+msgctxt "Go to the next page in the book"
+msgid "Next Page"
+msgstr ""
+
+#: app/qml/Book.qml:268
+#, kde-format
+msgctxt "Enter full screen mode on a non-touch-based device"
+msgid "Go Full Screen"
+msgstr ""
+
+#: app/qml/Book.qml:268
+#, kde-format
+msgctxt "Exit full sceen mode on a non-touch based device"
+msgid "Exit Full Screen"
+msgstr ""
+
+#: app/qml/Book.qml:275
+#, kde-format
+msgctxt ""
+"Action used on non-touch devices to close the currently open book and return "
+"to whatever page was most recently shown"
+msgid "Close Book"
+msgstr ""
+
+#: app/qml/Book.qml:308
+#, kde-format
+msgctxt "Enter full screen mode on any device type"
+msgid "Go Full Screen"
+msgstr ""
+
+#: app/qml/Book.qml:308
+#, kde-format
+msgctxt "Exit full screen mode on any device type"
+msgid "Exit Full Screen"
+msgstr ""
+
+#: app/qml/Book.qml:315
+#, kde-format
+msgctxt "Closes the book information drawer"
+msgid "Close"
+msgstr ""
+
+#: app/qml/BookDetails.qml:49
+#, kde-format
+msgctxt "Label for the author field"
+msgid "Author:"
+msgstr ""
+
+#: app/qml/BookDetails.qml:50
+#, kde-format
+msgctxt "Label for the publisher field"
+msgid "Publisher:"
+msgstr ""
+
+#: app/qml/BookDetails.qml:51
+#, kde-format
+msgctxt "Label for the series field"
+msgid "Series:"
+msgstr ""
+
+#: app/qml/BookDetails.qml:52
+#, kde-format
+msgctxt "Label for the filename field"
+msgid "Filename:"
+msgstr ""
+
+#: app/qml/BookDetails.qml:147 app/qml/listcomponents/BookTile.qml:372
+#, kde-format
+msgctxt "Spawn inline dialog box to confirm permanent removal of this book"
+msgid "Delete from Device"
+msgstr ""
+
+#: app/qml/BookDetails.qml:174 app/qml/listcomponents/BookTile.qml:400
+#, kde-format
+msgctxt "Dialog text for delete book dialog"
+msgid "Are you sure you want to delete this from your device?"
+msgstr ""
+
+#: app/qml/BookDetails.qml:184 app/qml/listcomponents/BookTile.qml:410
+#, kde-format
+msgctxt "Confirmation button for book delete dialog"
+msgid "Yes, Really Delete"
+msgstr ""
+
+#: app/qml/BookDetails.qml:198 app/qml/listcomponents/BookTile.qml:421
+#, kde-format
+msgctxt "Cancellation button or book delete dialog"
+msgid "No, Cancel Delete"
+msgstr ""
+
+#: app/qml/Bookshelf.qml:71
+#, kde-format
+msgctxt "Navigate one page back"
+msgid "Back"
+msgstr ""
+
+#: app/qml/Bookshelf.qml:92
+#, kde-format
+msgctxt "Open the book which is currently selected in the list"
+msgid "Open Selected Book"
+msgstr ""
+
+#: app/qml/Bookshelf.qml:105 app/qml/WelcomePage.qml:79
+#, kde-format
+msgctxt "search in the list of books (not inside the books)"
+msgid "Search Books"
+msgstr ""
+
+#: app/qml/Bookshelf.qml:112
+#, kde-format
+msgctxt "Closes the book details drawer"
+msgid "Close"
+msgstr ""
+
+#: app/qml/Bookshelf.qml:164 app/qml/SearchBox.qml:120
+#, kde-format
+msgctxt "used for the author data in book lists if author is empty"
+msgid "(unknown)"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:149
+#, kde-format
+msgctxt "Label for authors"
+msgid "Author(s)"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:172
+#, kde-format
+msgctxt "Label for publisher"
+msgid "Publisher"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:212
+#, kde-format
+msgctxt "label for rating widget"
+msgid "Rating"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:274
+#, kde-format
+msgctxt "label for tags field"
+msgid "Tags"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:290
+#, kde-format
+msgctxt "Placeholder tag field"
+msgid "(No tags)"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:311
+#, kde-format
+msgctxt "label for comment field"
+msgid "Comment"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:327
+#, kde-format
+msgctxt "Placeholder comment field"
+msgid "(No comment)"
+msgstr ""
+
+#: app/qml/listcomponents/BookTile.qml:347
+#, kde-format
+msgctxt ""
+"Placeholder text for the book description field when no description is set"
+msgid "(no description available for this book)"
+msgstr ""
+
+#: app/qml/Main.qml:37
+#, kde-format
+msgctxt ""
+"@title:window standard file open dialog used to open a book not in the "
+"collection"
+msgid "Please Choose a Comic to Open"
+msgstr ""
+
+#: app/qml/MobileMain.qml:42
+#, kde-format
+msgctxt ""
+"Title of a page which lets you open comics not in your collection by using a "
+"standard touch-friendly dig-down style filesystem browser"
+msgid "Open Comics not in Your Collection"
+msgstr ""
+
+#: app/qml/PeruseContextDrawer.qml:37
+#, kde-format
+msgid "Actions"
+msgstr ""
+
+#: app/qml/PeruseContextDrawer.qml:171
+#, kde-format
+msgid "Back"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:106
+#, kde-format
+msgctxt "application title for the sidebar"
+msgid "Peruse"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:114 creator/qml/Main.qml:72
+#, kde-format
+msgctxt "Switch to the welcome page"
+msgid "Welcome"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:127
+#, kde-format
+msgctxt "Switch to the listing page showing the most recently discovered books"
+msgid "Recently Added Books"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:133
+#, kde-format
+msgctxt "Switch to the listing page showing items grouped by title"
+msgid "Group by Title"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:139
+#, kde-format
+msgctxt "Switch to the listing page showing items grouped by author"
+msgid "Group by Author"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:145
+#, kde-format
+msgctxt "Switch to the listing page showing items grouped by series"
+msgid "Group by Series"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:151
+#, kde-format
+msgctxt "Switch to the listing page showing items grouped by publisher"
+msgid "Group by Publisher"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:157
+#, kde-format
+msgctxt ""
+"Switch to the listing page showing items grouped by keywords, characters or "
+"genres"
+msgid "Group by Keywords"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:163
+#, kde-format
+msgctxt ""
+"Switch to the listing page showing items grouped by their filesystem folder"
+msgid "Filter by Folder"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:172 creator/qml/Main.qml:87
+#, kde-format
+msgctxt ""
+"Open a book from somewhere on disk (uses the open dialog, or a drilldown on "
+"touch devices)"
+msgid "Open Other..."
+msgstr ""
+
+#: app/qml/PeruseMain.qml:177
+#, kde-format
+msgctxt "Switch to the book store page"
+msgid "Get Hot New Books"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:186 creator/qml/Main.qml:94
+#, kde-format
+msgctxt "Open the settings page"
+msgid "Settings"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:192 creator/qml/Main.qml:100
+#, kde-format
+msgctxt "Open the about page"
+msgid "About"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:223
+#, kde-format
+msgctxt "Title of the page with books grouped by the title start letters"
+msgid "Group by Title"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:233
+#, kde-format
+msgctxt ""
+"Title of the page with all books ordered by which was added most recently"
+msgid "Recently Added Books"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:245
+#, kde-format
+msgctxt "Title of the page with books grouped by what series they are in"
+msgid "Group by Series"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:255
+#, kde-format
+msgctxt "Title of the page with books grouped by author"
+msgid "Group by Author"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:265
+#, kde-format
+msgctxt "Title of the page with books grouped by who published them"
+msgid "Group by Publisher"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:275
+#, kde-format
+msgctxt "Title of the page with books grouped by keywords, character or genres"
+msgid "Group by Keywords, Characters and Genres"
+msgstr ""
+
+#: app/qml/PeruseMain.qml:285
+#, kde-format
+msgctxt "Title of the page with books grouped by what folder they are in"
+msgid "Filter by Folder"
+msgstr ""
+
+#: app/qml/SearchBox.qml:57
+#, kde-format
+msgctxt "placeholder text for the search field"
+msgid "Tap and type to search"
+msgstr ""
+
+#: app/qml/Settings.qml:39 creator/qml/Settings.qml:31
+#, kde-format
+msgctxt "title of the settings page"
+msgid "Settings"
+msgstr ""
+
+#: app/qml/Settings.qml:55
+#, kde-format
+msgctxt "title of the list of search folders"
+msgid "Search Folders"
+msgstr ""
+
+#: app/qml/Settings.qml:84
+#, kde-format
+msgctxt "remove the search folder from the list"
+msgid "Delete"
+msgstr ""
+
+#: app/qml/Settings.qml:123 app/qml/WelcomePage.qml:506
+#, kde-format
+msgctxt "shown with a throbber when searching for books on the device"
+msgid "Please wait while we find your books..."
+msgstr ""
+
+#: app/qml/Settings.qml:167
+#, kde-format
+msgctxt "@title:window dialogue used to add a new search folder"
+msgid "Select a Folder"
+msgstr ""
+
+#: app/qml/Store.qml:37
+#, kde-format
+msgctxt "title of the book store page"
+msgid "Book Store"
+msgstr ""
+
+#: app/qml/Store.qml:97
+#, kde-format
+msgctxt ""
+"Message shown when the engine is not busy and there are no entries (which "
+"means the store connection is broken in some way, usually caused by a broken "
+"internet connection, or the store being down)"
+msgid ""
+"Sorry, no books.\n"
+"This is unusual, and likely means your internet is down, or the store is."
+msgstr ""
+
+#: app/qml/WelcomePage.qml:45 creator/qml/WelcomePage.qml:38
+#, kde-format
+msgctxt "title of the welcome page"
+msgid "Welcome"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:54
+#, kde-format
+msgid "Open Selected Book"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:61
+#, kde-format
+msgctxt "select the previous book entry in the list"
+msgid "Previous Book"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:68
+#, kde-format
+msgctxt "select the next book entry in the list"
+msgid "Next Book"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:127
+#, kde-format
+msgctxt "application subtitle"
+msgid "Comic Book Reader"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:223
+#, kde-format
+msgctxt "title of list of recently opened books"
+msgid "Continue Reading"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:323
+#, kde-format
+msgctxt "title of list of recently discovered books"
+msgid "Recently Added"
+msgstr ""
+
+#: app/qml/WelcomePage.qml:331
+#, kde-format
+msgctxt ""
+"description text for the recently discovered list, shown when no items exist "
+"in the search paths"
+msgid ""
+"You have no comics on your device. Please put some into your Documents or "
+"Downloads folder (for example by downloading some) and they will show up "
+"here."
+msgstr ""
+
+#: creator/main.cpp:43
+#, kde-format
+msgid "Peruse Creator"
+msgstr ""
+
+#: creator/main.cpp:43
+#, kde-format
+msgid "Comic Book Creator by KDE"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:74
+#, kde-format
+msgctxt "title text for the add page area sheet"
+msgid "Add Page Area"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:129
+#, kde-format
+msgid "Text Rotation Guide"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:140
+#, kde-format
+msgctxt "label for the page area combobox"
+msgid "Page area type:"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:145
+#, kde-format
+msgid "Frame"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:145
+#, kde-format
+msgid "Textarea"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:145
+#, kde-format
+msgid "Jump"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:162 creator/qml/AddPageArea.qml:205
+#, kde-format
+msgctxt "Label for background color button"
+msgid "Background color:"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:185 creator/qml/AddPageArea.qml:229
+#, kde-format
+msgctxt "@title color choosing dialog"
+msgid "Choose the background color for this frame"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:250
+#, kde-format
+msgctxt "Label for text rotation slider"
+msgid "Text rotation:"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:265
+#, kde-format
+msgctxt "Label for text type combobox"
+msgid "Type:"
+msgstr ""
+
+#: creator/qml/AddPageArea.qml:279
+#, kde-format
+msgctxt "Place holder text for text area"
+msgid "Type to input text for text area here"
+msgstr ""
+
+#: creator/qml/AddPageSheet.qml:42
+#, kde-format
+msgctxt "title text for the add page sheet"
+msgid "Add a Page?"
+msgstr ""
+
+#: creator/qml/AddPageSheet.qml:47
+#, kde-format
+msgctxt "help text for the add page sheet"
+msgid ""
+"Please select the method you want to add the new page. No changes will be "
+"made outside of the project by performing these actions."
+msgstr ""
+
+#: creator/qml/AddPageSheet.qml:57
+#, kde-format
+msgctxt ""
+"@action:button add a page by finding an image on the filesystem and copying "
+"it into the book"
+msgid "Copy Image from Device"
+msgstr ""
+
+#: creator/qml/AddPageSheet.qml:61
+#, kde-format
+msgctxt ""
+"@title:window standard file open dialog used to find a page to add to the "
+"book"
+msgid "Please Choose an Image to Add"
+msgstr ""
+
+#: creator/qml/AddPageSheet.qml:78
+#, kde-format
+msgctxt ""
+"@action:button add a page by creating a new image using an image editor"
+msgid "Create a New Image Using an Image Editor"
+msgstr ""
+
+#: creator/qml/AddPageSheet.qml:83
+#, kde-format
+msgctxt "@action:button add a page by taking a photo with a camera"
+msgid "Take a Photo and Add That"
+msgstr ""
+
+#: creator/qml/Book.qml:40
+#, kde-format
+msgctxt "title of the main book editor page"
+msgid "Editing %1"
+msgstr ""
+
+#: creator/qml/Book.qml:50
+#, kde-format
+msgctxt "Saves the book to a file on disk"
+msgid "Save Book"
+msgstr ""
+
+#: creator/qml/Book.qml:57
+#, kde-format
+msgctxt "adds a new page at the end of the book"
+msgid "Add Page"
+msgstr ""
+
+#: creator/qml/Book.qml:63
+#, kde-format
+msgctxt ""
+"causes a dialog to show in which the user can edit the meta information for "
+"the entire book"
+msgid "Edit Metainfo"
+msgstr ""
+
+#: creator/qml/Book.qml:69
+#, kde-format
+msgctxt "closes the add page sheet"
+msgid "Do not Add a Page"
+msgstr ""
+
+#: creator/qml/Book.qml:113
+#, kde-format
+msgctxt "swap the position of this page with the previous one"
+msgid "Move Up"
+msgstr ""
+
+#: creator/qml/Book.qml:120
+#, kde-format
+msgctxt "swap the position of this page with the next one"
+msgid "Move Down"
+msgstr ""
+
+#: creator/qml/Book.qml:127
+#, kde-format
+msgctxt "remove the page from the book"
+msgid "Delete Page"
+msgstr ""
+
+#: creator/qml/Book.qml:132
+#, kde-format
+msgctxt "add a page to the book after this one"
+msgid "Add Page After This"
+msgstr ""
+
+#: creator/qml/Book.qml:137
+#, kde-format
+msgctxt "Edit page data such as title, frames, etc."
+msgid "Edit Page"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:38
+#, kde-format
+msgctxt "title text for the book meta information editor sheet"
+msgid "Edit Meta Information"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:46
+#, kde-format
+msgctxt ""
+"Saves the remaining unsaved edited fields and closes the metainfo editor"
+msgid "Save and Close Editor"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:77 creator/qml/CreateNewBook.qml:67
+#, kde-format
+msgctxt "label text for the edit field for the book title"
+msgid "Title"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:84
+#, kde-format
+msgctxt "placeholder text for default title text-input"
+msgid "Write to add default title"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:91
+#, kde-format
+msgctxt "label text for the edit field for the default annotation"
+msgid "Annotation"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:97
+#, kde-format
+msgctxt "placeholder text for default annotiation text-area"
+msgid "Write to add default annotation"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:103
+#, kde-format
+msgctxt "label text for the edit field for the keyword list"
+msgid "Keywords"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:109
+#, kde-format
+msgctxt "placeholder text for the add new keyword text entry"
+msgid "Write a comma separated list of keywords."
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:116
+#, kde-format
+msgctxt "label text for the edit field for the author list"
+msgid "Authors (%1)"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:162 creator/qml/BookMetainfoPage.qml:832
+#, kde-format
+msgctxt "placeholder text for the add new author text entry"
+msgid "Write to add new author (nickname)"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:191
+#, kde-format
+msgctxt "label text for the edit field for the genre list"
+msgid "Genres"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:270
+#, kde-format
+msgctxt "label text for the edit field for the character list"
+msgid "Characters"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:299
+#, kde-format
+msgctxt "placeholder text for the add new character text entry"
+msgid "Write to add new character"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:327
+#, kde-format
+msgctxt "label text for the edit field for the sequence list"
+msgid "Sequence"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:355
+#, kde-format
+msgctxt "Label for sequence number"
+msgid "Number:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:379
+#, kde-format
+msgctxt "Label for sequence volume"
+msgid "Volume:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:426
+#, kde-format
+msgctxt "placeholder text for the add new series text entry"
+msgid "Write to add new series"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:454
+#, kde-format
+msgctxt "label text for the edit field for the database reference list"
+msgid "Database References"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:495
+#, kde-format
+msgctxt "placeholder text for the add reference type text entry"
+msgid "Write to add reference type"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:532
+#, kde-format
+msgctxt "placeholder text for the add new reference text entry"
+msgid "Write to add new reference"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:542
+#, kde-format
+msgctxt "placeholder text for the add databasename text entry"
+msgid "Write to add database name for new reference."
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:563
+#, kde-format
+msgctxt "label text for the edit field for the content rating list"
+msgid "Content Ratings"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:581 creator/qml/BookMetainfoPage.qml:627
+#, kde-format
+msgctxt "placeholder text for the add content rating text entry"
+msgid "Write to add rating label."
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:592 creator/qml/BookMetainfoPage.qml:637
+#, kde-format
+msgctxt "placeholder text for the add content rating system text entry"
+msgid "Write to add rating system."
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:657
+#, kde-format
+msgctxt "label text for the form for reading direction."
+msgid "Reading Direction"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:661
+#, kde-format
+msgctxt "label text for right to left checkbox."
+msgid "Right to left."
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:669
+#, kde-format
+msgctxt "label text for the form for the publishing info list"
+msgid "Publisher Info"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:672
+#, kde-format
+msgctxt "Label for publisher"
+msgid "Publisher:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:677
+#, kde-format
+msgctxt "placeholder text for the publisher entry"
+msgid "Write to add publisher"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:687
+#, kde-format
+msgctxt "Label for publishing date"
+msgid "Publishing Date:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:737
+#, kde-format
+msgctxt "Label for city"
+msgid "City:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:742
+#, kde-format
+msgctxt "placeholder text for the publishing city entry"
+msgid "Write to add city"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:752
+#, kde-format
+msgctxt "Label for ISBN"
+msgid "ISBN:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:758
+#, kde-format
+msgctxt "placeholder text for the publishing ISBN entry"
+msgid "Write to add ISBN"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:768
+#, kde-format
+msgctxt "Label for license"
+msgid "License:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:773
+#, kde-format
+msgctxt "placeholder text for the publishing license entry"
+msgid "Write to add license"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:785
+#, kde-format
+msgctxt "label text for the form for the document info list"
+msgid "Document Authors"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:861
+#, kde-format
+msgctxt "label text for the form for the sources list"
+msgid "Document Sources"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:923
+#, kde-format
+msgctxt "label text for the form for the history list"
+msgid "Document History"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:988
+#, kde-format
+msgctxt "Label for the document version spinbox"
+msgid "Document Version:"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:1030
+#, kde-format
+msgctxt "label text for the form for the body background color."
+msgid "General Page Background Color"
+msgstr ""
+
+#: creator/qml/BookMetainfoPage.qml:1067
+#, kde-format
+msgctxt "@title color choosing dialog"
+msgid "Choose the general background color for this comic"
+msgstr ""
+
+#: creator/qml/BookPage.qml:31
+#, kde-format
+msgctxt "title of the page editing sub-page for the book editor"
+msgid "Page %1"
+msgstr ""
+
+#: creator/qml/BookPage.qml:62
+#, kde-format
+msgid "Page %1"
+msgstr ""
+
+#: creator/qml/BookPage.qml:73
+#, kde-format
+msgctxt "Saves the remaining unsaved edited fields and closes the page editor"
+msgid "Save and Close Page"
+msgstr ""
+
+#: creator/qml/BookPage.qml:84
+#, kde-format
+msgctxt "Edit the page data in detail"
+msgid "Edit Page Data"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:38
+#, kde-format
+msgctxt "title of the new book creation page"
+msgid "Create New Book"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:42
+#, kde-format
+msgctxt "Accept button which will create a new book"
+msgid "Create Book"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:72
+#, kde-format
+msgctxt "Default name for new books"
+msgid "Untitled"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:78
+#, kde-format
+msgctxt ""
+"label text for the edit field for the file system location for the book"
+msgid "Folder"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:95
+#, kde-format
+msgctxt "@title:window folder dialog used to select the location of a new book"
+msgid "Please Choose the Location for the Book"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:104
+#, kde-format
+msgctxt "label text for the edit field for the cover image for the book"
+msgid "Cover Image"
+msgstr ""
+
+#: creator/qml/CreateNewBook.qml:117
+#, kde-format
+msgctxt ""
+"@title:window file dialog used to select the cover image for a new book"
+msgid "Please Choose Your Cover Image"
+msgstr ""
+
+#: creator/qml/Main.qml:66
+#, kde-format
+msgctxt "application title for the sidebar"
+msgid "Peruse Creator"
+msgstr ""
+
+#: creator/qml/Main.qml:82
+#, kde-format
+msgctxt "Create a book"
+msgid "Create a New Book..."
+msgstr ""
+
+#: creator/qml/Main.qml:152
+#, kde-format
+msgctxt ""
+"@title:window standard file open dialog used to open a book not in the "
+"collection"
+msgid "Please Choose a Book to Open"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:73
+#, kde-format
+msgctxt "title text for the edit author sheet"
+msgid "Edit Author"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:98
+#, kde-format
+msgctxt "help text for the edit author sheet"
+msgid "Please complete the information for this author."
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:109
+#, kde-format
+msgctxt "label for the activity field"
+msgid "Activity:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:122
+#, kde-format
+msgctxt "label for the language field"
+msgid "Language:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:128
+#, kde-format
+msgctxt "placeholder text for the language field"
+msgid "Language"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:135
+#, kde-format
+msgctxt "label for the first name field"
+msgid "First name:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:141
+#, kde-format
+msgctxt "placeholder text for the first name field"
+msgid "First Name"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:148
+#, kde-format
+msgctxt "label for the middle name field"
+msgid "Middle name:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:154
+#, kde-format
+msgctxt "placeholder text for the middle name field"
+msgid "Middle Name"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:161
+#, kde-format
+msgctxt "label for the last name field"
+msgid "Last name:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:167
+#, kde-format
+msgctxt "placeholder text for the last name field"
+msgid "Last Name"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:174
+#, kde-format
+msgctxt "label for the nickname field"
+msgid "Nickname:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:180
+#, kde-format
+msgctxt "placeholder text for the nickname field"
+msgid "Nickname"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:187
+#, kde-format
+msgctxt "label for the homepage field"
+msgid "Homepage addresses:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:216
+#, kde-format
+msgctxt "placeholder text for the homepage field"
+msgid "Add Homepage"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:243
+#, kde-format
+msgctxt "label for the email field"
+msgid "Email addresses:"
+msgstr ""
+
+#: creator/qml/metainfoeditors/AuthorEntryEditor.qml:272
+#, kde-format
+msgctxt "placeholder text for the email field"
+msgid "Add Email address"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:34
+#, kde-format
+msgctxt "title text for the page meta information editor sheet"
+msgid "Edit Page Information"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:44
+#, kde-format
+msgctxt ""
+"Saves the remaining unsaved edited fields and closes the metainfo editor"
+msgid "Close Editor"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:62
+#, kde-format
+msgctxt "label text for the edit field for the page title"
+msgid "Title"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:69
+#, kde-format
+msgctxt "placeholder text for default page text-input"
+msgid "Write to add default title"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:76
+#, kde-format
+msgctxt "label text for the edit field for the page transition type"
+msgid "Transition"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:92
+#, kde-format
+msgctxt "label text for the edit field for the page background color"
+msgid "Background Color"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:116
+#, kde-format
+msgctxt "@title color choosing dialog"
+msgid "Choose the background color for page"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:125
+#, kde-format
+msgctxt "label text for the edit field for the page frames"
+msgid "Frames"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:138
+#, kde-format
+msgctxt "swap the position of this frame with the previous one"
+msgid "Move Up"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:145
+#, kde-format
+msgctxt "swap the position of this frame with the next one"
+msgid "Move Down"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:152
+#, kde-format
+msgctxt "remove the frame from the page"
+msgid "Delete Frame"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:161
+#, kde-format
+msgctxt "Comic book panel frame name."
+msgid "Frame %1"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:171
+#, kde-format
+msgctxt "Label from frame background color."
+msgid "Background Color:"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:192
+#, kde-format
+msgctxt "@title color choosing dialog"
+msgid "Choose background color for this frame"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:204
+#, kde-format
+msgctxt "label text for the edit field for the page textareas"
+msgid "Text Areas"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:211
+#, kde-format
+msgctxt "Label from textlayer background color."
+msgid "Background Color:"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:233
+#, kde-format
+msgctxt "@title color choosing dialog"
+msgid "Choose the background color for all text areas on this page"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:249
+#, kde-format
+msgctxt "swap the position of this text area with the previous one"
+msgid "Move Up"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:256
+#, kde-format
+msgctxt "swap the position of this text area with the next one"
+msgid "Move Down"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:263
+#, kde-format
+msgctxt "remove the text area from the page"
+msgid "Delete Text Area"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:272
+#, kde-format
+msgctxt "Comic book panel textarea name."
+msgid "Text Area %1"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:289
+#, kde-format
+msgctxt "label text for the edit field for the page jumps"
+msgid "Jumps"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:301
+#, kde-format
+msgctxt "swap the position of this jump with the previous one"
+msgid "Move Up"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:308
+#, kde-format
+msgctxt "swap the position of this jump with the next one"
+msgid "Move Down"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:315
+#, kde-format
+msgctxt "remove the jump from the page"
+msgid "Delete Jump"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:324
+#, kde-format
+msgctxt "Comic book panel jump name."
+msgid "Jump %1"
+msgstr ""
+
+#: creator/qml/PageMetaInfo.qml:333
+#, kde-format
+msgctxt "Label from jump page index."
+msgid "Page Index:"
+msgstr ""
+
+#: creator/qml/WelcomePage.qml:69
+#, kde-format
+msgctxt "application subtitle"
+msgid "Comic Book Creation Tool"
+msgstr ""
+
+#: creator/qml/WelcomePage.qml:101
+#, kde-format
+msgctxt "Longer introduction text used on the welcome page"
+msgid ""
+"Welcome to Peruse Creator, a tool designed to assist you in creating comic "
+"book archives which can be read with any cbz capable comic book reader app. "
+"You can either create entirely new comic book archives from scratch, create "
+"one from a set of pictures, or editing existing archives. Once you have "
+"created them, you can even publish them directly to the online comic book "
+"archive at the KDE Store from within the application, or just share the "
+"files with your friends."
+msgstr ""
+
+#: creator/qml/WelcomePage.qml:122
+#, kde-format
+msgctxt ""
+"@action:button continue working on the most recently opened comic book "
+"archive"
+msgid "Continue %1"
+msgstr ""
+
+#: creator/qml/WelcomePage.qml:148
+#, kde-format
+msgctxt "@action:button open existing comic book archive"
+msgid "Open Existing..."
+msgstr ""
+
+#: creator/qml/WelcomePage.qml:162
+#, kde-format
+msgctxt "@action:button create a new, empty comic book archive"
+msgid "Create Blank"
+msgstr ""
+
+#: creator/qml/WelcomePage.qml:176
+#, kde-format
+msgctxt ""
+"@action:button create a new comic book archive by copying in a bunch of "
+"pictures"
+msgid "Create from Images..."
+msgstr ""

@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-07-03 03:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.phone.calindori.appdata.xml:6
+msgid "Calindori"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.phone.calindori.appdata.xml:7
+msgid "Calendar application"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.phone.calindori.appdata.xml:9
+msgid "Calindori is a touch friendly calendar application. It has been designed for mobile devices but it can also run on desktop environments. Users of Calindori are able to check previous and future dates and manage tasks and events."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.phone.calindori.appdata.xml:10
+msgid "When executing the application for the first time, a new calendar file is created that follows the ical standard. Alternatively, users may create additional calendars or import existing ones."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.phone.calindori.appdata.xml:11
+msgid "Features:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.phone.calindori.appdata.xml:13
+msgid "Agenda"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.phone.calindori.appdata.xml:14
+msgid "Events"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.phone.calindori.appdata.xml:15
+msgid "Todos"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.phone.calindori.appdata.xml:16
+msgid "Multiple calendars"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.phone.calindori.appdata.xml:17
+msgid "Import calendar"
+msgstr ""

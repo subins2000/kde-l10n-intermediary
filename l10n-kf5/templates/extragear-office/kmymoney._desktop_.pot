@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-12-13 02:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kmymoney/org.kde.kmymoney.desktop:2
+msgctxt "Name"
+msgid "KMyMoney"
+msgstr ""
+
+#: kmymoney/org.kde.kmymoney.desktop:39
+msgctxt "GenericName"
+msgid "Personal Finance Manager"
+msgstr ""
+
+#: kmymoney/org.kde.kmymoney.desktop:78
+msgctxt "Comment"
+msgid "Personal Finance Manager"
+msgstr ""
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:2
+msgctxt "Name"
+msgid "Configure the check printing plugin"
+msgstr ""
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:27
+msgctxt "Keywords"
+msgid "checkprinting;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/checkprinting/kcm_checkprinting.desktop:50
+msgctxt "Comment"
+msgid "Permits the configuration of the print check plugin's options"
+msgstr ""
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:2
+msgctxt "Name"
+msgid "CSV Importer configuration"
+msgstr ""
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:32
+msgctxt "Keywords"
+msgid "csvimporter;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/csv/import/kcm_csvimporter.desktop:56
+msgctxt "Comment"
+msgid "Configuration for CSV Importer plugin"
+msgstr ""
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:2
+msgctxt "Name"
+msgid "Configure icalendar export plugin"
+msgstr ""
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:41
+msgctxt "Keywords"
+msgid "icalendarexporter;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/icalendar/export/kcm_icalendarexporter.desktop:65
+msgctxt "Comment"
+msgid "Permits the configuration of the iCalendar plugin's options"
+msgstr ""
+
+#: kmymoney/plugins/kmymoney-importerplugin.desktop:3
+msgctxt "Name"
+msgid "KMyMoney Importer Plugin"
+msgstr ""
+
+#: kmymoney/plugins/kmymoney-importerplugin.desktop:38
+msgctxt "Comment"
+msgid "A KMyMoney plugin"
+msgstr ""
+
+#: kmymoney/plugins/kmymoney-payeeidentifierdelegate.desktop:4
+msgctxt "Name"
+msgid "Painter of payee identifier"
+msgstr ""
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:2
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:2
+msgctxt "Name"
+msgid "QIF Importer configuration"
+msgstr ""
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:30
+msgctxt "Keywords"
+msgid "qifexporter;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/qif/config/kcm_qifexporter.desktop:53
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:53
+msgctxt "Comment"
+msgid "Configuration for QIF Importer plugin"
+msgstr ""
+
+#: kmymoney/plugins/qif/config/kcm_qifimporter.desktop:30
+msgctxt "Keywords"
+msgid "qifimporter;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:2
+msgctxt "Name"
+msgid "Forecast view configuration"
+msgstr ""
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:28
+msgctxt "Keywords"
+msgid "forecastview;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/views/forecast/kcm_forecastview.desktop:51
+msgctxt "Comment"
+msgid "Configuration for forecast view plugin"
+msgstr ""
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:2
+msgctxt "Name"
+msgid "Reports view configuration"
+msgstr ""
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:28
+msgctxt "Keywords"
+msgid "reportsview;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/views/reports/kcm_reportsview.desktop:51
+msgctxt "Comment"
+msgid "Configuration for reports view plugin"
+msgstr ""
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:2
+msgctxt "Name"
+msgid "XML storage configuration"
+msgstr ""
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:29
+msgctxt "Keywords"
+msgid "xmlstorage;kmymoney;"
+msgstr ""
+
+#: kmymoney/plugins/xml/kcm_xmlstorage.desktop:53
+msgctxt "Comment"
+msgid "Configuration for XML storage plugin"
+msgstr ""

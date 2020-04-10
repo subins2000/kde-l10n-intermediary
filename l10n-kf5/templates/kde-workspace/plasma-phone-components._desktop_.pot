@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-01 02:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applets/activities/metadata.desktop:3
+msgctxt "Name"
+msgid "Phone Activities"
+msgstr ""
+
+#: applets/activities/metadata.desktop:36
+msgctxt "Comment"
+msgid "Activity switcher for the phone"
+msgstr ""
+
+#: applets/clock/metadata.desktop:3
+msgctxt "Name"
+msgid "Clock"
+msgstr ""
+
+#: applets/clock/metadata.desktop:37
+msgctxt "Comment"
+msgid "Time displayed in a digital format"
+msgstr ""
+
+#: applets/krunner/metadata.desktop:3
+msgctxt "Name"
+msgid "Search And Run"
+msgstr ""
+
+#: applets/krunner/metadata.desktop:27
+msgctxt "Comment"
+msgid "Search and run Applications and services"
+msgstr ""
+
+#: bin/plasma-mobile.desktop.cmake:5
+msgctxt "Name"
+msgid "Plasma Mobile"
+msgstr ""
+
+#: bin/plasma-mobile.desktop.cmake:36
+msgctxt "Comment"
+msgid "Plasma Mobile by KDE"
+msgstr ""
+
+#: containments/homescreen/package/metadata.desktop:4
+msgctxt "Name"
+msgid "Phone Homescreen"
+msgstr ""
+
+#: containments/panel/package/metadata.desktop:4
+msgctxt "Name"
+msgid "Phone Panel"
+msgstr ""
+
+#: containments/taskpanel/package/metadata.desktop:4
+msgctxt "Name"
+msgid "Phone Task panel"
+msgstr ""
+
+#: kwinmultitasking/metadata.desktop:2
+msgctxt "Name"
+msgid "Phone multitask"
+msgstr ""
+
+#: kwinmultitasking/metadata.desktop:31
+msgctxt "Comment"
+msgid "Multitasking user interface for Phone devices"
+msgstr ""
+
+#: look-and-feel/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Phone"
+msgstr ""
+
+#: look-and-feel/metadata.desktop:32
+msgctxt "Comment"
+msgid "Plasma workspace for smartphones"
+msgstr ""
+
+#: look-and-feel/metadata.desktop:62
+msgctxt "Keywords"
+msgid "Phone, Workspace, Look and Feel"
+msgstr ""
+
+#: shell/metadata.desktop:3
+msgctxt "Name"
+msgid "Phone"
+msgstr ""
+
+#: shell/metadata.desktop:35
+msgctxt "Comment"
+msgid "Plasma shell for phones"
+msgstr ""
+
+#: touchscreentest/org.kde.touchtest.desktop:2
+msgctxt "Name"
+msgid "Touch Test"
+msgstr ""
+
+#: touchscreentest/org.kde.touchtest.desktop:37
+msgctxt "GenericName"
+msgid "Terminal"
+msgstr ""
+
+#: wallpaper/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Phone Lockers"
+msgstr ""

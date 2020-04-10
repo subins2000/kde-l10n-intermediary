@@ -1,0 +1,578 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-26 02:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/amarok.notifyrc:4
+msgctxt "Comment"
+msgid "Amarok"
+msgstr ""
+
+#: data/amarok.notifyrc:58
+msgctxt "Name"
+msgid "Track Change"
+msgstr ""
+
+#: data/amarok.notifyrc:105
+msgctxt "Comment"
+msgid "Amarok changed to a new track"
+msgstr ""
+
+#: data/amarok.notifyrc:156
+msgctxt "Name"
+msgid "Message"
+msgstr ""
+
+#: data/amarok.notifyrc:201
+msgctxt "Comment"
+msgid "Amarok issued an uncategorized text message"
+msgstr ""
+
+#: playground/src/context/applets/coverbling/amarok-context-applet-coverbling.desktop:2
+msgctxt "Name"
+msgid "CoverBling"
+msgstr ""
+
+#: playground/src/context/applets/covergrid/amarok-context-applet-covergrid.desktop:3
+msgctxt "Name"
+msgid "CoverGrid"
+msgstr ""
+
+#: src/amarok_addaspodcast.desktop:5
+msgctxt "Name"
+msgid "Add as Podcast to Amarok"
+msgstr ""
+
+#: src/amarok_append.desktop:5
+msgctxt "X-KDE-Submenu"
+msgid "Amarok"
+msgstr ""
+
+#: src/amarok_append.desktop:71
+msgctxt "Name"
+msgid "Append to Playlist"
+msgstr ""
+
+#: src/amarok_append.desktop:132
+msgctxt "Name"
+msgid "Append & Play"
+msgstr ""
+
+#: src/amarok_append.desktop:193
+msgctxt "Name"
+msgid "Queue Track"
+msgstr ""
+
+#: src/amarok-contextapplet.desktop:4 src/amarok-plugin.desktop:4
+msgctxt "Comment"
+msgid "Plugin for Amarok"
+msgstr ""
+
+#: src/amarok-play-audiocd.desktop:8
+msgctxt "Name"
+msgid "Play Audio CD with Amarok"
+msgstr ""
+
+#: src/context/applets/albums/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Albums"
+msgstr ""
+
+#: src/context/applets/albums/package/metadata.desktop:68
+msgctxt "Comment"
+msgid "Album cover manager for Amarok"
+msgstr ""
+
+#: src/context/applets/analyzer/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Analyzer"
+msgstr ""
+
+#: src/context/applets/analyzer/package/metadata.desktop:43
+msgctxt "Comment"
+msgid "Analyzer applet for Amarok"
+msgstr ""
+
+#: src/context/applets/currenttrack/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Current Track"
+msgstr ""
+
+#: src/context/applets/currenttrack/package/metadata.desktop:59
+msgctxt "Comment"
+msgid "Current track applet for Amarok"
+msgstr ""
+
+#: src/context/applets/info/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Info"
+msgstr ""
+
+#: src/context/applets/labels/amarok-context-applet-labels.desktop:2
+msgctxt "Name"
+msgid "Labels"
+msgstr ""
+
+#: src/context/applets/lyrics/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Lyrics"
+msgstr ""
+
+#: src/context/applets/lyrics/package/metadata.desktop:62
+msgctxt "Comment"
+msgid "Lyrics applet for Amarok"
+msgstr ""
+
+#: src/context/applets/photos/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Photos"
+msgstr ""
+
+#: src/context/applets/photos/package/metadata.desktop:61
+msgctxt "Comment"
+msgid "Photos applet for Amarok"
+msgstr ""
+
+#: src/context/applets/playlistinfo/amarok-context-applet-playlistinfo.desktop:2
+msgctxt "Name"
+msgid "Playlist Information"
+msgstr ""
+
+#: src/context/applets/similarartists/amarok-context-applet-similarArtists.desktop:2
+msgctxt "Name"
+msgid "Similar Artists"
+msgstr ""
+
+#: src/context/applets/songkick/amarok-context-applet-songkick.desktop:2
+msgctxt "Name"
+msgid "Songkick"
+msgstr ""
+
+#: src/context/applets/tabs/amarok-context-applet-tabs.desktop:2
+msgctxt "Name"
+msgid "Tabs"
+msgstr ""
+
+#: src/context/applets/upcomingevents/amarok-context-applet-upcomingEvents.desktop:2
+msgctxt "Name"
+msgid "Upcoming Events"
+msgstr ""
+
+#: src/context/applets/wikipedia/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Wikipedia"
+msgstr ""
+
+#: src/context/applets/wikipedia/package/metadata.desktop:61
+msgctxt "Comment"
+msgid "Wikipedia applet for Amarok"
+msgstr ""
+
+#: src/context/context_qml_package/metadata.desktop:2
+msgctxt "Name"
+msgid "Amarok-Context-QML-Package"
+msgstr ""
+
+#: src/context/context_qml_package/metadata.desktop:27
+msgctxt "Comment"
+msgid "QML base package for amarok context area"
+msgstr ""
+
+#: src/context/engines/labels/amarok-data-engine-labels.desktop:2
+msgctxt "Name"
+msgid "Labels Data Engine"
+msgstr ""
+
+#: src/context/engines/similarartists/amarok-data-engine-similarArtists.desktop:2
+#: src/context/engines/upcomingevents/amarok-data-engine-upcomingEvents.desktop:2
+msgctxt "Name"
+msgid "Upcoming Events Data Engine"
+msgstr ""
+
+#: src/context/engines/songkick/amarok-data-engine-songkick.desktop:2
+msgctxt "Name"
+msgid "Songkick Data Engine"
+msgstr ""
+
+#: src/context/engines/tabs/amarok-data-engine-tabs.desktop:2
+msgctxt "Name"
+msgid "Tabs Data Engine"
+msgstr ""
+
+#: src/context/servicetypes/amarok_containment.desktop:5
+msgctxt "Comment"
+msgid "Plasma applet container and background painter"
+msgstr ""
+
+#: src/context/servicetypes/amarok_context_applet.desktop:5
+msgctxt "Comment"
+msgid "Amarok Context applet"
+msgstr ""
+
+#: src/core-impl/collections/audiocd/amarok_collection-audiocdcollection.desktop:4
+msgctxt "Name"
+msgid "AudioCd Collection"
+msgstr ""
+
+#: src/core-impl/collections/audiocd/amarok_collection-audiocdcollection.desktop:54
+msgctxt "Comment"
+msgid "AudioCd collection plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/collections/daap/amarok_collection-daapcollection.desktop:4
+msgctxt "Name"
+msgid "DAAP Collection"
+msgstr ""
+
+#: src/core-impl/collections/daap/amarok_collection-daapcollection.desktop:60
+msgctxt "Comment"
+msgid "DAAP collection plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/collections/db/sql/mysqlcollection/amarok_collection-mysqlcollection.desktop:4
+msgctxt "Name"
+msgid "MySQL Collection"
+msgstr ""
+
+#: src/core-impl/collections/db/sql/mysqlcollection/amarok_collection-mysqlcollection.desktop:36
+msgctxt "Comment"
+msgid "Collection plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/collections/ipodcollection/amarok_collection-ipodcollection.desktop:4
+msgctxt "Name"
+msgid "iPod, iPad & iPhone Collection"
+msgstr ""
+
+#: src/core-impl/collections/ipodcollection/amarok_collection-ipodcollection.desktop:45
+msgctxt "Comment"
+msgid "Plugin to use iPod-like devices as collections in Amarok"
+msgstr ""
+
+#: src/core-impl/collections/mediadevicecollection/amarok_collection-mediadevicecollection.desktop:4
+msgctxt "Name"
+msgid "Media Device Collection"
+msgstr ""
+
+#: src/core-impl/collections/mediadevicecollection/amarok_collection-mediadevicecollection.desktop:58
+msgctxt "Comment"
+msgid "Media Device collection plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/collections/mtpcollection/amarok_collection-mtpcollection.desktop:4
+msgctxt "Name"
+msgid "MTP Collection"
+msgstr ""
+
+#: src/core-impl/collections/mtpcollection/amarok_collection-mtpcollection.desktop:58
+msgctxt "Comment"
+msgid "MTP collection plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/collections/nepomukcollection/amarok_collection-nepomukcollection.desktop:4
+msgctxt "Name"
+msgid "Nepomuk Collection"
+msgstr ""
+
+#: src/core-impl/collections/playdarcollection/amarok_collection-playdarcollection.desktop:4
+msgctxt "Name"
+msgid "Playdar Collection"
+msgstr ""
+
+#: src/core-impl/collections/playdarcollection/amarok_collection-playdarcollection.desktop:48
+msgctxt "Comment"
+msgid "Music that Playdar can find"
+msgstr ""
+
+#: src/core-impl/collections/umscollection/amarok_collection-umscollection.desktop:4
+msgctxt "Name"
+msgid "Universal Mass Storage Collection"
+msgstr ""
+
+#: src/core-impl/collections/upnpcollection/amarok_collection-upnpcollection.desktop:4
+msgctxt "Name"
+msgid "UPnP Collection"
+msgstr ""
+
+#: src/core-impl/collections/upnpcollection/amarok_collection-upnpcollection.desktop:58
+msgctxt "Comment"
+msgid "UPnP collection plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/storage/sql/mysqlestorage/amarok_storage-mysqlestorage.desktop:4
+msgctxt "Name"
+msgid "MySQLe Storage"
+msgstr ""
+
+#: src/core-impl/storage/sql/mysqlestorage/amarok_storage-mysqlestorage.desktop:36
+#: src/core-impl/storage/sql/mysqlserverstorage/amarok_storage-mysqlserverstorage.desktop:36
+msgctxt "Comment"
+msgid "Storage plugin for Amarok"
+msgstr ""
+
+#: src/core-impl/storage/sql/mysqlserverstorage/amarok_storage-mysqlserverstorage.desktop:4
+msgctxt "Name"
+msgid "MySQLServer Storage"
+msgstr ""
+
+#: src/importers/amarok/amarok_importer-amarok.desktop:4
+msgctxt "Name"
+msgid "Amarok 2.x Importer"
+msgstr ""
+
+#: src/importers/amarok/amarok_importer-amarok.desktop:39
+msgctxt "Comment"
+msgid "Import statistics from Amarok 2.x database"
+msgstr ""
+
+#: src/importers/banshee/amarok_importer-banshee.desktop:4
+msgctxt "Name"
+msgid "Banshee Importer"
+msgstr ""
+
+#: src/importers/banshee/amarok_importer-banshee.desktop:39
+msgctxt "Comment"
+msgid "Import statistics from Banshee database"
+msgstr ""
+
+#: src/importers/clementine/amarok_importer-clementine.desktop:4
+msgctxt "Name"
+msgid "Clementine Importer"
+msgstr ""
+
+#: src/importers/clementine/amarok_importer-clementine.desktop:39
+msgctxt "Comment"
+msgid "Import statistics from Clementine database"
+msgstr ""
+
+#: src/importers/fastforward/amarok_importer-fastforward.desktop:4
+msgctxt "Name"
+msgid "Amarok 1.4 (FastForward) Importer"
+msgstr ""
+
+#: src/importers/fastforward/amarok_importer-fastforward.desktop:39
+msgctxt "Comment"
+msgid "Import statistics from Amarok 1.4 database"
+msgstr ""
+
+#: src/importers/itunes/amarok_importer-itunes.desktop:4
+msgctxt "Name"
+msgid "Apple iTunes Importer"
+msgstr ""
+
+#: src/importers/itunes/amarok_importer-itunes.desktop:39
+msgctxt "Comment"
+msgid "Import statistics from Apple iTunes database"
+msgstr ""
+
+#: src/importers/rhythmbox/amarok_importer-rhythmbox.desktop:4
+msgctxt "Name"
+msgid "Rhythmbox Importer"
+msgstr ""
+
+#: src/importers/rhythmbox/amarok_importer-rhythmbox.desktop:39
+msgctxt "Comment"
+msgid "Import statistics from Rhythmbox database"
+msgstr ""
+
+#: src/org.kde.amarok_containers.desktop:4 src/org.kde.amarok.desktop:4
+msgctxt "Name"
+msgid "Amarok"
+msgstr ""
+
+#: src/org.kde.amarok_containers.desktop:67 src/org.kde.amarok.desktop:67
+msgctxt "GenericName"
+msgid "Audio Player"
+msgstr ""
+
+#: src/org.kde.amarok_containers.desktop:128 src/org.kde.amarok.desktop:128
+msgctxt "Comment"
+msgid "Amarok - Rediscover Your Music!"
+msgstr ""
+
+#: src/org.kde.amarok_containers.desktop:190 src/org.kde.amarok.desktop:191
+msgctxt "X-KDE-Keywords"
+msgid "music,podcast"
+msgstr ""
+
+#: src/scripting/scripts/librivox_service/script.desktop:6
+msgctxt "Name"
+msgid "Librivox.org"
+msgstr ""
+
+#: src/scripting/scripts/librivox_service/script.desktop:40
+msgctxt "Comment"
+msgid ""
+"A scripted service that lets you search, stream and download free, public "
+"domain, audio books from Librivox.org"
+msgstr ""
+
+#: src/scripting/scripts/radio_station_service/script.desktop:6
+msgctxt "Name"
+msgid "Cool Streams"
+msgstr ""
+
+#: src/scripting/scripts/radio_station_service/script.desktop:40
+msgctxt "Comment"
+msgid "A script that sets up a service with a few cool internet radio stations"
+msgstr ""
+
+#: src/scripting/scripts/script_console/script.desktop:6
+msgctxt "Name"
+msgid "Amarok Script Console"
+msgstr ""
+
+#: src/scripting/scripts/script_console/script.desktop:40
+msgctxt "Comment"
+msgid "Amarok Script Console"
+msgstr ""
+
+#: src/services/ampache/amarok_service_ampache_config.desktop:10
+msgctxt "Name"
+msgid "Ampache Service Config"
+msgstr ""
+
+#: src/services/ampache/amarok_service_ampache_config.desktop:62
+msgctxt "Comment"
+msgid "Sets up the ampache server(s) to connect to"
+msgstr ""
+
+#: src/services/ampache/amarok_service_ampache.desktop:4
+msgctxt "Name"
+msgid "Ampache"
+msgstr ""
+
+#: src/services/ampache/amarok_service_ampache.desktop:55
+msgctxt "Comment"
+msgid "Listen to music from an Ampache server"
+msgstr ""
+
+#: src/services/gpodder/amarok_service_gpodder_config.desktop:11
+msgctxt "Name"
+msgid "gpodder.net Service Config"
+msgstr ""
+
+#: src/services/gpodder/amarok_service_gpodder_config.desktop:52
+msgctxt "Comment"
+msgid "Configure gpodder.net Credentials"
+msgstr ""
+
+#: src/services/gpodder/amarok_service_gpodder.desktop:4
+msgctxt "Name"
+msgid "gpodder.net"
+msgstr ""
+
+#: src/services/gpodder/amarok_service_gpodder.desktop:49
+msgctxt "Comment"
+msgid "Podcast Service"
+msgstr ""
+
+#: src/services/jamendo/amarok_service_jamendo.desktop:4
+msgctxt "Name"
+msgid "Jamendo"
+msgstr ""
+
+#: src/services/jamendo/amarok_service_jamendo.desktop:60
+msgctxt "Comment"
+msgid "Listen to and download music uploaded by independent artists"
+msgstr ""
+
+#: src/services/lastfm/amarok_service_lastfm_config.desktop:11
+msgctxt "Name"
+msgid "Last.fm Service Config"
+msgstr ""
+
+#: src/services/lastfm/amarok_service_lastfm_config.desktop:66
+msgctxt "Comment"
+msgid "Set up Last.fm username and password"
+msgstr ""
+
+#: src/services/lastfm/amarok_service_lastfm.desktop:4
+msgctxt "Name"
+msgid "Last.fm"
+msgstr ""
+
+#: src/services/lastfm/amarok_service_lastfm.desktop:57
+msgctxt "Comment"
+msgid "A service that integrates Last.fm functionality into Amarok"
+msgstr ""
+
+#: src/services/magnatune/amarok_service_magnatunestore_config.desktop:11
+msgctxt "Name"
+msgid "MagnatuneStore Service Config"
+msgstr ""
+
+#: src/services/magnatune/amarok_service_magnatunestore_config.desktop:63
+msgctxt "Comment"
+msgid "Configure Magnatune store settings and memberships credentials"
+msgstr ""
+
+#: src/services/magnatune/amarok_service_magnatunestore.desktop:4
+msgctxt "Name"
+msgid "Magnatune Store"
+msgstr ""
+
+#: src/services/magnatune/amarok_service_magnatunestore.desktop:60
+msgctxt "Comment"
+msgid "Preview and buy music from the non-evil Magnatune record label"
+msgstr ""
+
+#: src/services/mp3tunes/amarok_service_mp3tunes_config.desktop:11
+msgctxt "Name"
+msgid "MP3tunes Service Config"
+msgstr ""
+
+#: src/services/mp3tunes/amarok_service_mp3tunes_config.desktop:57
+msgctxt "Comment"
+msgid "Configure mp3tunes credentials"
+msgstr ""
+
+#: src/services/mp3tunes/amarok_service_mp3tunes.desktop:4
+msgctxt "Name"
+msgid "MP3tunes"
+msgstr ""
+
+#: src/services/mp3tunes/amarok_service_mp3tunes.desktop:50
+msgctxt "Comment"
+msgid "Browse and listen to the music stored in your MP3tunes account"
+msgstr ""
+
+#: src/services/opmldirectory/amarok_service_opmldirectory.desktop:4
+msgctxt "Name"
+msgid "Podcast Directory"
+msgstr ""
+
+#: src/services/opmldirectory/amarok_service_opmldirectory.desktop:54
+msgctxt "Comment"
+msgid "Browse and subscribe to a huge list of podcasts"
+msgstr ""
+
+#: supplementary_scripts/neon/tools/desktopfiles/amarok-nightly.desktop:4
+msgctxt "Name"
+msgid "Amarok Nightly"
+msgstr ""
+
+#: supplementary_scripts/neon/tools/desktopfiles/amarok-nightly-kcm-phonon.desktop:4
+msgctxt "Name"
+msgid "Amarok Nightly Audio Configuration"
+msgstr ""
+
+#: supplementary_scripts/neon/tools/kde/xsessions/kde4-neon.desktop:5
+msgctxt "Name"
+msgid "KDE Nightly (Neon)"
+msgstr ""
+
+#: supplementary_scripts/neon/tools/kde/xsessions/kde4-neon.desktop:56
+msgctxt "Comment"
+msgid ""
+"The K Desktop Environment. A powerful Open Source graphical desktop "
+"environment"
+msgstr ""

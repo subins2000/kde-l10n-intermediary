@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-06-21 03:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.audex.appdata.xml:6
+msgid "Audex"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.audex.appdata.xml:7
+msgid "An easy to use audio CD ripping application"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.audex.appdata.xml:9
+msgid "The general usage of Audex is self-explanatory. With the first start Audex scans your system for common encoders and creates a common set of profiles automatically for you."
+msgstr ""

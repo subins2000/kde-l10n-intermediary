@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-07-18 02:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.skrooge.appdata.xml:7
+msgid "Skrooge"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.skrooge.appdata.xml:8
+msgid "Personal Finances"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.skrooge.appdata.xml:10
+msgid "Skrooge is a personal finance manager powered by KDE that aims to be simple and intuitive. Skrooge allows you to keep track of your expenses and income, categorize them, and build reports of them."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.skrooge.appdata.xml:11
+msgid "Features:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:13
+msgid "QIF, CSV, SKROOGE, KMYMONEY import/export"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:14
+msgid "Microsoft Money, OFX, QFX, MT940, GNUCASH, GRISBI, HOMEBANK and MONEY MANAGER EX import"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:15
+msgid "Advanced Graphical Reports"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:16
+msgid "Multiple tabs to help you organize your work"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:17
+msgid "Infinite undo/redo (even after the file was closed !)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:18
+msgid "Instant filtering on operations and reports"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:19
+msgid "Infinite category levels"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:20
+msgid "Mass update of operations"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:21
+msgid "Scheduled operations"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:22
+msgid "Track refund of your expenses"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:23
+msgid "Automatically process operations based on search conditions"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:24
+msgid "Multiple currencies"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:25
+msgid "Budget"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:26
+msgid "Dashboard"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.skrooge.appdata.xml:27
+msgid "Advice"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.skrooge.appdata.xml:35
+msgid "The default screenshot"
+msgstr ""
+
+#. (itstool) path: component/developer_name
+#: org.kde.skrooge.appdata.xml:43
+msgid "Stephane MANKOWSKI"
+msgstr ""

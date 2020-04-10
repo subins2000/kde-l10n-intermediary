@@ -1,0 +1,162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-12-17 02:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/conf/kleopatra_config_appear.desktop:15
+msgctxt "Name"
+msgid "Appearance"
+msgstr ""
+
+#: src/conf/kleopatra_config_appear.desktop:89
+msgctxt "Comment"
+msgid "Colors & Fonts Configuration"
+msgstr ""
+
+#: src/conf/kleopatra_config_appear.desktop:155
+msgctxt "X-KDE-Keywords"
+msgid "color,font, configuration"
+msgstr ""
+
+#: src/conf/kleopatra_config_cryptooperations.desktop:15
+msgctxt "Name"
+msgid "Crypto Operations"
+msgstr ""
+
+#: src/conf/kleopatra_config_cryptooperations.desktop:62
+msgctxt "Comment"
+msgid "Configuration of Crypto Operations"
+msgstr ""
+
+#: src/conf/kleopatra_config_cryptooperations.desktop:109
+msgctxt "X-KDE-Keywords"
+msgid "sign,encrypt,email,quick mode,checksum,configuration"
+msgstr ""
+
+#: src/conf/kleopatra_config_dirserv.desktop:15
+msgctxt "Name"
+msgid "Directory Services"
+msgstr ""
+
+#: src/conf/kleopatra_config_dirserv.desktop:80
+msgctxt "Comment"
+msgid "Configuration of directory services"
+msgstr ""
+
+#: src/conf/kleopatra_config_dirserv.desktop:130
+msgctxt "X-KDE-Keywords"
+msgid "ldap,directory,services,hkp,keyserver"
+msgstr ""
+
+#: src/conf/kleopatra_config_gnupgsystem.desktop:16
+msgctxt "Name"
+msgid "GnuPG System"
+msgstr ""
+
+#: src/conf/kleopatra_config_gnupgsystem.desktop:66
+msgctxt "Comment"
+msgid "Configuration of GnuPG System options"
+msgstr ""
+
+#: src/conf/kleopatra_config_gnupgsystem.desktop:114
+msgctxt "X-KDE-Keywords"
+msgid "gpg,gpgsm,gpg-agent,dirmngr,scdaemon,kleopatra,signing,encryption"
+msgstr ""
+
+#: src/conf/kleopatra_config_smimevalidation.desktop:15
+msgctxt "Name"
+msgid "S/MIME Validation"
+msgstr ""
+
+#: src/conf/kleopatra_config_smimevalidation.desktop:64
+msgctxt "Comment"
+msgid "Configuration of S/MIME certificate validation options"
+msgstr ""
+
+#: src/conf/kleopatra_config_smimevalidation.desktop:110
+msgctxt "X-KDE-Keywords"
+msgid "smime,validation,kleopatra,signing,encryption"
+msgstr ""
+
+#: src/data/kleopatra_decryptverifyfiles.desktop:5
+msgctxt "Name"
+msgid "Kleopatra Decrypt/Verify Files"
+msgstr ""
+
+#: src/data/kleopatra_decryptverifyfiles.desktop:56
+msgctxt "Name"
+msgid "Decrypt/Verify File"
+msgstr ""
+
+#: src/data/kleopatra_decryptverifyfolders.desktop:4
+msgctxt "Name"
+msgid "Kleopatra Decrypt/Verify All Files In Folder"
+msgstr ""
+
+#: src/data/kleopatra_decryptverifyfolders.desktop:55
+msgctxt "Name"
+msgid "Decrypt/Verify All Files In Folder"
+msgstr ""
+
+#: src/data/kleopatra_import.desktop:8 src/data/org.kde.kleopatra.desktop:6
+msgctxt "Name"
+msgid "Kleopatra"
+msgstr ""
+
+#: src/data/kleopatra_import.desktop:77
+msgctxt "Comment"
+msgid "Certificate Manager and Unified Crypto GUI"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfiles.desktop:6
+msgctxt "Name"
+msgid "Kleopatra Sign/Encrypt Files"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfiles.desktop:57
+msgctxt "Name"
+msgid "Sign & Encrypt File"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfiles.desktop:109
+msgctxt "Name"
+msgid "Encrypt File"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfiles.desktop:165
+msgctxt "Name"
+msgid "OpenPGP-Sign File"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfiles.desktop:217
+msgctxt "Name"
+msgid "S/MIME-Sign File"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfolders.desktop:5
+msgctxt "Name"
+msgid "Kleopatra Sign/Encrypt Folders"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfolders.desktop:55
+msgctxt "Name"
+msgid "Archive, Sign && Encrypt Folder"
+msgstr ""
+
+#: src/data/kleopatra_signencryptfolders.desktop:106
+msgctxt "Name"
+msgid "Archive && Encrypt Folder"
+msgstr ""
+
+#: src/data/org.kde.kleopatra.desktop:75
+msgctxt "GenericName"
+msgid "Certificate Manager and Unified Crypto GUI"
+msgstr ""

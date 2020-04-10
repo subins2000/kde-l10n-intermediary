@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-07 02:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kontactplugin/kaddressbookplugin.desktop:19
+msgctxt "Comment"
+msgid "Kontact KAddressBook Plugin"
+msgstr ""
+
+#: kontactplugin/kaddressbookplugin.desktop:85
+#: kontactplugin/kaddressbook.setdlg:2
+msgctxt "Name"
+msgid "Contacts"
+msgstr ""
+
+#: kontactplugin/kaddressbook.setdlg:74
+msgctxt "Comment"
+msgid "Address Book Component"
+msgstr ""
+
+#: src/configuration/kaddressbook_config_plugins.desktop:12
+msgctxt "Name"
+msgid "Plugins"
+msgstr ""
+
+#: src/configuration/kaddressbook_config_plugins.desktop:82
+msgctxt "X-KDE-Keywords"
+msgid "kaddressbook, configure, settings, plugins"
+msgstr ""
+
+#: src/configuration/kaddressbook_config_userfeedback.desktop:12
+msgctxt "Name"
+msgid "User Feedback"
+msgstr ""
+
+#: src/configuration/kaddressbook_config_userfeedback.desktop:27
+msgctxt "X-KDE-Keywords"
+msgid "kaddressbook, configure, settings, userfeedback"
+msgstr ""
+
+#: src/data/kaddressbook-importer.desktop:2
+msgctxt "Name"
+msgid "KAddressbook import file"
+msgstr ""
+
+#: src/data/kaddressbook-importer.desktop:41
+msgctxt "Comment"
+msgid "KAddressBook running in file import mode"
+msgstr ""
+
+#: src/data/kaddressbook_themes.knsrc:2
+msgctxt "Name"
+msgid "KAddressbook Theme"
+msgstr ""
+
+#: src/data/org.kde.kaddressbook.desktop:2
+msgctxt "Name"
+msgid "KAddressBook"
+msgstr ""
+
+#: src/data/org.kde.kaddressbook.desktop:69
+msgctxt "GenericName"
+msgid "Contact Manager"
+msgstr ""
+
+#: src/data/org.kde.kaddressbook.desktop:134
+msgctxt "Name"
+msgid "New Contact..."
+msgstr ""
+
+#: src/printing/grantlee/themes/big-theme-example/theme.desktop:2
+msgctxt "Name"
+msgid "Example big title"
+msgstr ""
+
+#: src/printing/grantlee/themes/big-theme-example/theme.desktop:41
+msgctxt "Description"
+msgid "Example big title grantlee printing theme"
+msgstr ""
+
+#: src/printing/grantlee/themes/default/theme.desktop:2
+#: src/viewertemplates/theme.desktop:2
+msgctxt "Name"
+msgid "Default"
+msgstr ""
+
+#: src/printing/grantlee/themes/default/theme.desktop:74
+msgctxt "Description"
+msgid "Default grantlee printing theme"
+msgstr ""
+
+#: src/printing/grantlee/themes/full/theme.desktop:2
+msgctxt "Name"
+msgid "Full Information"
+msgstr ""
+
+#: src/printing/grantlee/themes/full/theme.desktop:39
+msgctxt "Description"
+msgid "Display All Information"
+msgstr ""
+
+#: src/viewertemplates/theme.desktop:74
+msgctxt "Description"
+msgid "Default kaddressbook theme."
+msgstr ""

@@ -1,0 +1,106 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WikiPages-en d47b5ca59ea0c2965f889c1627eeb5143860d083\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-15 19:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.0.0\n"
+
+#: wikitolearn-guide-chapter-3.mw:1
+msgid ""
+"Chapters are a collection of sections. They're intended to be used like a "
+"chapter of a book and have their own title."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:1
+msgid "Add a chapter"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:4
+msgid ""
+"You can add a chapter to a course by navigating to the course main page.\n"
+"Click on the red pencil button on the right and insert the name of the chapter you want to add.\n"
+"Once done, click on <code>Save Course</code> button."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:8
+msgid "[[<ref:FILE_42>]]"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:8
+msgid "Rename a chapter"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:11
+msgid ""
+"To rename a chapter, go to the course main page and click on the red pencil button on the right.\n"
+"A list of all the created chapters will show up.\n"
+"Place the mouse on the target chapter and a blue pencil will appear on the right.\n"
+"Click on the pencil and insert the new name for the chapter.\n"
+"Once done, click on the <code>Save course</code> button."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:17
+msgid "[[<ref:FILE_43>]]"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:17
+msgid "Delete a chapter"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:20
+msgid ""
+"To delete a chapter, go to the course main page and click on the <code>edit course</code> link.\n"
+"A list of all the created chapters will show up.\n"
+"Place the mouse on the targeted chapter and a red bin will appear on the right.\n"
+"If you click on the bin you will notice that your chapter will be placed in a recycling bin.\n"
+"Once done, save the changes by clicking on the <code>Save course</code> button."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:26
+msgid "[[<ref:FILE_44>]]"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:26
+msgid "Restore a chapter"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:29
+msgid ""
+"If you have chapters in the recycling bin you can restore them by placing "
+"the mouse on the chapters and clicking on the restore icon on the left of "
+"the chapter's name."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:31
+msgid "[[<ref:FILE_45>]]"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:33
+msgid ""
+"Always remember to save the changes by clicking on the <code>Save "
+"Course</code> button."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:33
+msgid "Move a chapter"
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:36
+msgid ""
+"You can change the order of the chapter's list by clicking on the red pencil button.\n"
+"A list of chapters will show up.\n"
+"Simply drag and drop them to swap their order.\n"
+"Once done, save your changes by clicking on the <code>Save course</code> button."
+msgstr ""
+
+#: wikitolearn-guide-chapter-3.mw:41
+msgid "[[<ref:FILE_46>]]"
+msgstr ""

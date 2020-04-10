@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: json files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-25 03:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: krfb/krfb-events.json
+msgctxt "Description"
+msgid "Events plugins for KRfb"
+msgstr ""
+
+#: krfb/krfb-framebuffer.json
+msgctxt "Description"
+msgid "Frame Buffer plugins for KRfb"
+msgstr ""
+
+#: events/x11/krfb_events_x11.json
+msgctxt "Description"
+msgid "X11 XFakeInput based event handler for KRfb"
+msgstr ""
+
+#: events/xdp/krfb_events_xdp.json
+msgctxt "Description"
+msgid "Xdg-desktop-portal based event handler for KRfb"
+msgstr ""
+
+#: framebuffers/pipewire/krfb_framebuffer_pw.json
+msgctxt "Description"
+msgid "PipeWire based Framebuffer for KRfb."
+msgstr ""
+
+#: framebuffers/xcb/krfb_framebuffer_xcb.json
+msgctxt "Description"
+msgid "X11 XDamage/XShm based Framebuffer for KRfb."
+msgstr ""
+
+#: framebuffers/qt/krfb_framebuffer_qt.json
+msgctxt "Description"
+msgid "Qt based Framebuffer for KRfb."
+msgstr ""
+
+#: events/x11/krfb_events_x11.json
+msgctxt "Name"
+msgid "X11 Event handler for KRfb"
+msgstr ""
+
+#: events/xdp/krfb_events_xdp.json
+msgctxt "Name"
+msgid "Xdg-desktop-portal Event handler for KRfb"
+msgstr ""
+
+#: framebuffers/pipewire/krfb_framebuffer_pw.json
+msgctxt "Name"
+msgid "PipeWire Framebuffer for KRfb"
+msgstr ""
+
+#: framebuffers/xcb/krfb_framebuffer_xcb.json
+msgctxt "Name"
+msgid "X11 Framebuffer for KRfb"
+msgstr ""
+
+#: framebuffers/qt/krfb_framebuffer_qt.json
+msgctxt "Name"
+msgid "Qt Framebuffer for KRfb"
+msgstr ""

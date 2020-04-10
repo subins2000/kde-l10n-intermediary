@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdepim-runtime package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdepim-runtime\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-27 03:29+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../common/googleresource.cpp:60
+#, kde-format
+msgid "Waiting for KWallet..."
+msgstr ""
+
+#: ../common/googleresource.cpp:90
+#, kde-format
+msgid "Aborted"
+msgstr ""
+
+#: ../common/googleresource.cpp:113 ../common/googleresource.cpp:143
+#: ../common/googleresource.cpp:181
+#, kde-format
+msgid "Configured account does not exist"
+msgstr ""
+
+#: ../common/googleresource.cpp:118 ../common/googleresource.cpp:151
+#: ../common/googleresource.cpp:185 ../common/googleresource.cpp:293
+#, kde-format
+msgctxt "@info:status"
+msgid "Ready"
+msgstr ""
+
+#: ../common/googleresource.cpp:169
+#, kde-format
+msgid "Can't access KWallet"
+msgstr ""
+
+#: ../common/googleresource.cpp:210
+#, kde-format
+msgid "Configured account has been removed"
+msgstr ""
+
+#: ../common/googleresource.cpp:245 ../common/googleresource.cpp:246
+#, kde-format
+msgctxt "@info:status"
+msgid "Resource is not configured"
+msgstr ""
+
+#: ../common/googleresource.cpp:258
+#, kde-format
+msgid "Failed to refresh tokens"
+msgstr ""
+
+#: ../common/googleresource.h:84
+#, kde-format
+msgid "Invalid item payload."
+msgstr ""
+
+#: ../common/googleresource.h:87
+#, kde-format
+msgid "Invalid payload MIME type. Expected %1, found %2"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:67
+#, kde-format
+msgid "Accounts"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:75
+#, kde-format
+msgid "&Add"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:79
+#, kde-format
+msgid "&Remove"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:83
+#, kde-format
+msgid "Refresh"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:87
+#, kde-format
+msgid "Enable interval refresh"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:91
+#, kde-format
+msgid "Refresh interval:"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:99
+#, kde-format
+msgid " minute"
+msgid_plural " minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../common/googlesettingsdialog.cpp:176
+#, kde-format
+msgid ""
+"Do you really want to revoke access to account <b>%1</b>?<p>This will revoke "
+"access to all resources using this account!</p>"
+msgstr ""
+
+#: ../common/googlesettingsdialog.cpp:179
+#, kde-format
+msgid "Revoke Access?"
+msgstr ""
+
+#: calendarresource.cpp:113
+#, kde-format
+msgid "not configured"
+msgstr ""
+
+#: calendarresource.cpp:113
+#, kde-format
+msgctxt "%1 is account name (user@gmail.com)"
+msgid "Google Calendars and Tasks (%1)"
+msgstr ""
+
+#: calendarresource.cpp:191 calendarresource.cpp:296
+#, kde-format
+msgid "The top-level collection cannot contain any tasks or events"
+msgstr ""
+
+#: calendarresource.cpp:221 calendarresource.cpp:256
+#, kde-format
+msgid "Invalid payload type"
+msgstr ""
+
+#: calendarresource.cpp:285
+#, kde-format
+msgid "Invalid payload type. Expected event or todo, got %1"
+msgstr ""
+
+#: calendarresource.cpp:301
+#, kde-format
+msgid "Moving tasks between task lists is not supported"
+msgstr ""
+
+#: calendarresource.cpp:333 calendarresource.cpp:361 calendarresource.cpp:381
+#, kde-format
+msgid "Unknown collection mimetype"
+msgstr ""
+
+#: calendarresource.cpp:598 calendarresource.cpp:640
+#, kde-format
+msgid "Failed to delete task: %1"
+msgstr ""
+
+#. i18n: ectx: label, entry (Calendars), group (General)
+#: settingsbase.kcfg:21
+#, kde-format
+msgid "IDs of calendars in collection"
+msgstr ""
+
+#. i18n: ectx: label, entry (TaskLists), group (General)
+#: settingsbase.kcfg:25
+#, kde-format
+msgid "IDs of task lists in collection"
+msgstr ""
+
+#: settingsdialog.cpp:45
+#, kde-format
+msgid "Calendars"
+msgstr ""
+
+#: settingsdialog.cpp:53 settingsdialog.cpp:85
+#, kde-format
+msgid "Reload"
+msgstr ""
+
+#: settingsdialog.cpp:60
+#, kde-format
+msgctxt "Followed by a date picker widget"
+msgid "&Fetch only new events since"
+msgstr ""
+
+#: settingsdialog.cpp:77
+#, kde-format
+msgid "Tasklists"
+msgstr ""

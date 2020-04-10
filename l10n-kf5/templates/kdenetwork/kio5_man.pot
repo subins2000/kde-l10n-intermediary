@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kio-extras package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kio-extras\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-06 03:18+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kio_man.cpp:480
+#, kde-format
+msgid ""
+"No man page matching to %1 found.<br /><br />Check that you have not "
+"mistyped the name of the page that you want.<br />Check that you have typed "
+"the name using the correct upper and lower case characters.<br />If "
+"everything looks correct, then you may need to improve the search path for "
+"man pages; either using the environment variable MANPATH or using a matching "
+"file in the /etc directory."
+msgstr ""
+
+#: kio_man.cpp:511
+#, kde-format
+msgid "Open of %1 failed."
+msgstr ""
+
+#: kio_man.cpp:581
+#, kde-format
+msgid ""
+"The specified man page referenced another page '%1',<br />but the referenced "
+"page '%2' could not be found."
+msgstr ""
+
+#: kio_man.cpp:617 kio_man.cpp:636
+#, kde-format
+msgid "Man output"
+msgstr ""
+
+#: kio_man.cpp:621
+#, kde-format
+msgid "<h1>KDE Man Viewer Error</h1>"
+msgstr ""
+
+#: kio_man.cpp:640
+#, kde-format
+msgid "There is more than one matching man page."
+msgstr ""
+
+#: kio_man.cpp:651
+#, kde-format
+msgid ""
+"Note: if you read a man page in your language, be aware it can contain some "
+"mistakes or be obsolete. In case of doubt, you should have a look at the "
+"English version."
+msgstr ""
+
+#: kio_man.cpp:728
+#, kde-format
+msgid "Header files"
+msgstr ""
+
+#: kio_man.cpp:729
+#, kde-format
+msgid "Header files (POSIX)"
+msgstr ""
+
+#: kio_man.cpp:730
+#, kde-format
+msgid "User Commands"
+msgstr ""
+
+#: kio_man.cpp:731
+#, kde-format
+msgid "User Commands (POSIX)"
+msgstr ""
+
+#: kio_man.cpp:732
+#, kde-format
+msgid "System Calls"
+msgstr ""
+
+#: kio_man.cpp:733
+#, kde-format
+msgid "Subroutines"
+msgstr ""
+
+#: kio_man.cpp:734
+#, kde-format
+msgid "Perl Modules"
+msgstr ""
+
+#: kio_man.cpp:735
+#, kde-format
+msgid "Network Functions"
+msgstr ""
+
+#: kio_man.cpp:736
+#, kde-format
+msgid "Devices"
+msgstr ""
+
+#: kio_man.cpp:737
+#, kde-format
+msgid "File Formats"
+msgstr ""
+
+#: kio_man.cpp:738
+#, kde-format
+msgid "Games"
+msgstr ""
+
+#: kio_man.cpp:739
+#, kde-format
+msgid "Miscellaneous"
+msgstr ""
+
+#: kio_man.cpp:740
+#, kde-format
+msgid "System Administration"
+msgstr ""
+
+#: kio_man.cpp:741
+#, kde-format
+msgid "Kernel"
+msgstr ""
+
+#: kio_man.cpp:742
+#, kde-format
+msgid "Local Documentation"
+msgstr ""
+
+#: kio_man.cpp:743
+#, kde-format
+msgid "New"
+msgstr ""
+
+#: kio_man.cpp:778 kio_man.cpp:782 kio_man.cpp:1133
+#, kde-format
+msgid "UNIX Manual Index"
+msgstr ""
+
+#: kio_man.cpp:808
+#, kde-format
+msgid "Section %1"
+msgstr ""
+
+#: kio_man.cpp:1142
+#, kde-format
+msgid "Index for Section %1: %2"
+msgstr ""
+
+#: kio_man.cpp:1147
+#, kde-format
+msgid "Generating Index"
+msgstr ""
+
+#: kio_man.cpp:1412
+#, kde-format
+msgid ""
+"Could not find the sgml2roff program on your system. Please install it, if "
+"necessary, and extend the search path by adjusting the environment variable "
+"PATH before starting KDE."
+msgstr ""

@@ -1,0 +1,156 @@
+# translation of kwinstartmenu.po to
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+# ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>, 2008
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kwinstartmenu\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 03:19+0200\n"
+"PO-Revision-Date: 2008-07-05 19:10+0530\n"
+"Last-Translator: ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "അനി പീറ്റര്‍"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "peter.ani@gmail.com"
+
+#: main.cpp:39
+#, fuzzy, kde-format
+#| msgid "winstartmenu"
+msgid "kwinstartmenu"
+msgstr "winstartmenu"
+
+#: main.cpp:40
+#, kde-format
+msgid "An application to create/update or remove Windows Start Menu entries"
+msgstr ""
+"വിന്‍ഡോസിലുള്ള പ്രാരംഭ മെനു എന്‍ട്രികള്‍ ഉണ്ടാക്കുന്നതിനും പരിഷ്കരിക്കുന്നതിനും നീക്കം ചെയ്യുന്നതിനുള്ള "
+"പ്രയോഗം"
+
+#: main.cpp:42
+#, fuzzy, kde-format
+#| msgid "(C) 2008 Ralf Habacker"
+msgid "(C) 2008-2011 Ralf Habacker"
+msgstr "(C) 2008 റാഫ് ഹബാക്കര്‍"
+
+#: main.cpp:46
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "remove installed start menu entries"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:47
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "install start menu entries"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:48
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "update start menu entries"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:49
+#, kde-format
+msgid "remove start menu entries from unused kde installation"
+msgstr ""
+
+#: main.cpp:51
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "query root path of start menu entries"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:53
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "use categories for start menu entries (default)"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:54
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "don't use categories for start menu entries"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:55
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "query current value of categories in start menu"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:57
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "set custom string for root start menu entry"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:60
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "remove custom string from root start menu entry"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:61
+#, kde-format
+msgid "query current value of root start menu entry custom string"
+msgstr ""
+
+#: main.cpp:63
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "set custom name string for root start menu entry"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:64
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "remove custom name string from root start menu entry"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:65
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "query current value of start menu entry custom name string"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:67
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "set custom version string for root start menu entry"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:68
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "remove custom version string from root start menu entry"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#: main.cpp:69
+#, fuzzy, kde-format
+#| msgid "Remove installed Start Menu entries"
+msgid "query current value of root start menu entry version string"
+msgstr "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ നീക്കം ചെയ്യുക"
+
+#~ msgid ""
+#~ "Install Start Menu entries (this is also the default when this option is "
+#~ "not used)"
+#~ msgstr ""
+#~ "തുടക്കത്തിലുള്ള മെനു എന്‍ട്രികള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക (ഈ ഉപാധി ഉപയോഗിക്കാത്തപ്പോള്‍ ഇതാണു് "
+#~ "സ്വതവേയുള്ളതു്)"

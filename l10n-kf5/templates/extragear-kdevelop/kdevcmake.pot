@@ -1,0 +1,362 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdevelop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevelop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-26 02:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: cmakebuilddirchooser.cpp:43
+#, kde-format
+msgid "Configure a build directory - %1"
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:101
+#, kde-format
+msgid "Configure a build directory for %1"
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:211
+#, kde-format
+msgid "You need to specify a build directory."
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:218
+#, kde-format
+msgid "Using an already created build directory."
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:229
+#, kde-format
+msgid "Creating a new build directory."
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:235
+#, kde-format
+msgid "Build directory already configured."
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:237
+#, kde-format
+msgid "This build directory is for %1, but the project directory is %2."
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:240
+#, kde-format
+msgid "You may not select a relative build directory."
+msgstr ""
+
+#: cmakebuilddirchooser.cpp:242
+#, kde-format
+msgid "The selected build directory is not empty."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, availableLabel)
+#: cmakebuilddirchooser.ui:32
+#, kde-format
+msgid "Available build directories:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, availableBuildDirs)
+#: cmakebuilddirchooser.ui:40
+#, kde-format
+msgid "New build directory"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: cmakebuilddirchooser.ui:48
+#, kde-format
+msgid "Build &directory:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: cmakebuilddirchooser.ui:84
+#, kde-format
+msgid "&Installation prefix:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KUrlRequester, installPrefix)
+#: cmakebuilddirchooser.ui:109
+#, kde-format
+msgid ""
+"The prefix under which the project will be installed. Leaving this empty "
+"will let CMake use its default install prefix."
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, installPrefix)
+#: cmakebuilddirchooser.ui:112
+#, kde-format
+msgid "CMake's default install prefix"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: cmakebuilddirchooser.ui:119
+#, kde-format
+msgid "Build &type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, extraArgumentsLabel)
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: cmakebuilddirchooser.ui:162 settings/cmakebuildsettings.ui:178
+#, kde-format
+msgid "Extra arguments:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: cmakebuilddirchooser.ui:182
+#, kde-format
+msgid "CMake &executable:"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:203
+#, kde-format
+msgid "INVALID"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:211
+#, kde-format
+msgid "Command"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:212
+#, kde-format
+msgid "Variable"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:213
+#, kde-format
+msgid "Macro"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:214
+#, kde-format
+msgid "Path"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:215
+#, kde-format
+msgid "Target"
+msgstr ""
+
+#: cmakecodecompletionmodel.cpp:267
+#, kde-format
+msgid "wrong"
+msgstr ""
+
+#: cmakecommandscontents.cpp:43
+#, kde-format
+msgid "Commands"
+msgstr ""
+
+#: cmakecommandscontents.cpp:44
+#, kde-format
+msgid "Variables"
+msgstr ""
+
+#: cmakecommandscontents.cpp:45
+#, kde-format
+msgid "Modules"
+msgstr ""
+
+#: cmakecommandscontents.cpp:46
+#, kde-format
+msgid "Properties"
+msgstr ""
+
+#: cmakecommandscontents.cpp:47
+#, kde-format
+msgid "Policies"
+msgstr ""
+
+#: cmakecommandscontents.cpp:116
+#, kde-format
+msgid "<p>For better cmake documentation rendering, install rst2html</p>"
+msgstr ""
+
+#: cmakedocumentation.cpp:60 cmakemanager.cpp:92
+#, kde-format
+msgid "Unable to find a CMake executable. Is one installed on the system?"
+msgstr ""
+
+#: cmakedocumentation.cpp:95
+#, kde-format
+msgid "<br /><em>Cache Value:</em> %1\n"
+msgstr ""
+
+#: cmakedocumentation.cpp:98
+#, kde-format
+msgid "<br /><em>Cache Documentation:</em> %1\n"
+msgstr ""
+
+#: cmakehelpdocumentation.cpp:35
+#, kde-format
+msgid "CMake Content Page"
+msgstr ""
+
+#: cmakemanager.cpp:85
+#, kde-format
+msgid "KDevelop - CMake Support"
+msgstr ""
+
+#: cmakemanager.cpp:558
+#, kde-format
+msgid ""
+"Failed to configure project '%1' (error message: %2). As a result, "
+"KDevelop's code understanding will likely be broken.\n"
+"\n"
+"To fix this issue, please ensure that the project's CMakeLists.txt files are "
+"correct, and KDevelop is configured to use the correct CMake version and "
+"settings. Then right-click the project item in the projects tool view and "
+"click 'Reload'."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: cmakepossibleroots.ui:16
+#, kde-format
+msgid ""
+"KDevelop has found several possible root directories for your project, "
+"please select the correct one."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: settings/cmakebuildsettings.ui:74
+#, kde-format
+msgid "Cache Values"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: settings/cmakebuildsettings.ui:89
+#, kde-format
+msgid "Comment:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, showAdvanced)
+#: settings/cmakebuildsettings.ui:106
+#, kde-format
+msgid "Show Advanced"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, advancedBox)
+#: settings/cmakebuildsettings.ui:125 settings/cmakecachemodel.cpp:54
+#, kde-format
+msgid "Advanced"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, installationPrefixLabel)
+#: settings/cmakebuildsettings.ui:134
+#, kde-format
+msgid "Installation prefix:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, buildTypeLabel)
+#: settings/cmakebuildsettings.ui:144
+#, kde-format
+msgid "Build type:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: settings/cmakebuildsettings.ui:198
+#, kde-format
+msgid "Configure environment:"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (KDevelop::EnvironmentSelectionWidget, environment)
+#: settings/cmakebuildsettings.ui:213
+#, kde-format
+msgid "Select an environment to be used"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, showInternal)
+#: settings/cmakebuildsettings.ui:225
+#, kde-format
+msgid "Show advanced values"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: settings/cmakebuildsettings.ui:235
+#, kde-format
+msgid "CMake executable:"
+msgstr ""
+
+#: settings/cmakecachemodel.cpp:50
+#, kde-format
+msgid "Name"
+msgstr ""
+
+#: settings/cmakecachemodel.cpp:51
+#, kde-format
+msgid "Type"
+msgstr ""
+
+#: settings/cmakecachemodel.cpp:52
+#, kde-format
+msgid "Value"
+msgstr ""
+
+#: settings/cmakecachemodel.cpp:53
+#, kde-format
+msgid "Comment"
+msgstr ""
+
+#: settings/cmakecachemodel.cpp:55
+#, kde-format
+msgid "Strings"
+msgstr ""
+
+#: settings/cmakepreferences.cpp:339
+#, kde-format
+msgid ""
+"The %1 directory is about to be removed in KDevelop's list.\n"
+"Do you want KDevelop to remove it in the file system as well?"
+msgstr ""
+
+#: settings/cmakepreferences.cpp:346
+#, kde-format
+msgid "Could not remove: %1"
+msgstr ""
+
+#: settings/cmakepreferences.cpp:392
+#, kde-format
+msgid "CMake"
+msgstr ""
+
+#: settings/cmakepreferences.cpp:397
+#, kde-format
+msgid "Configure CMake settings"
+msgstr ""
+
+#: testing/ctestfindjob.cpp:37
+#, kde-format
+msgid "Parse test suite %1"
+msgstr ""
+
+#: testing/ctestrunjob.cpp:88
+#, kde-format
+msgid "CTest"
+msgstr ""
+
+#: testing/ctestrunjob.cpp:130
+#, kde-format
+msgctxt "running test %1, %2 test case"
+msgid "CTest %1: %2"
+msgstr ""
+
+#: testing/ctestrunjob.cpp:132
+#, kde-format
+msgctxt "running test %1, %2 number of test cases"
+msgid "CTest %2 (%1)"
+msgid_plural "CTest %2 (%1)"
+msgstr[0] ""
+msgstr[1] ""

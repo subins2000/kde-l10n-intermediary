@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-02-14 02:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.ruqola.appdata.xml:6
+msgid "Ruqola"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.ruqola.appdata.xml:7
+msgid "Rocket Chat Client"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.ruqola.appdata.xml:9
+msgid "Ruqola is a Rocket Chat client based on QML. Connection is activated directly when you launch Ruqola."
+msgstr ""

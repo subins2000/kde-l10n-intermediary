@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdevelop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevelop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-07-18 02:40+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: outputwidget.cpp:69
+#, kde-format
+msgid "Output View"
+msgstr ""
+
+#: outputwidget.cpp:80
+#, kde-format
+msgid "Close the currently active output view"
+msgstr ""
+
+#: outputwidget.cpp:86
+#, kde-format
+msgid "Close all other output views"
+msgstr ""
+
+#: outputwidget.cpp:97
+#, kde-format
+msgid "Previous Output"
+msgstr ""
+
+#: outputwidget.cpp:100
+#, kde-format
+msgid "Next Output"
+msgstr ""
+
+#: outputwidget.cpp:105
+#, kde-format
+msgid "Select activated Item"
+msgstr ""
+
+#: outputwidget.cpp:107
+#, kde-format
+msgid "Focus when selecting Item"
+msgstr ""
+
+#: outputwidget.cpp:121
+#, kde-format
+msgid "First Item"
+msgstr ""
+
+#: outputwidget.cpp:125
+#, kde-format
+msgid "Previous Item"
+msgstr ""
+
+#: outputwidget.cpp:129
+#, kde-format
+msgid "Next Item"
+msgstr ""
+
+#: outputwidget.cpp:133
+#, kde-format
+msgid "Last Item"
+msgstr ""
+
+#: outputwidget.cpp:146
+#, kde-format
+msgid "Clear"
+msgstr ""
+
+#: outputwidget.cpp:157
+#, kde-format
+msgid "Search..."
+msgstr ""
+
+#: outputwidget.cpp:159
+#, kde-format
+msgid "Enter a wild card string to filter the output view"
+msgstr ""
+
+#: standardoutputview.cpp:115
+#, kde-format
+msgctxt "@title:window"
+msgid "Build"
+msgstr ""
+
+#: standardoutputview.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Run"
+msgstr ""
+
+#: standardoutputview.cpp:125
+#, kde-format
+msgctxt "@title:window"
+msgid "Debug"
+msgstr ""
+
+#: standardoutputview.cpp:130
+#, kde-format
+msgctxt "@title:window"
+msgid "Test"
+msgstr ""
+
+#: standardoutputview.cpp:135
+#, kde-format
+msgctxt "@title:window"
+msgid "Version Control"
+msgstr ""

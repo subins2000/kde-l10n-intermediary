@@ -1,0 +1,154 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kinfocenter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kinfocenter\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-02-13 03:40+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: BitEntry.cpp:10
+#, kde-format
+msgid "OS Type:"
+msgstr ""
+
+#: BitEntry.cpp:18
+#, kde-format
+msgctxt "@label %1 is the CPU bit width (e.g. 32 or 64)"
+msgid "%1-bit"
+msgstr ""
+
+#: CPUEntry.cpp:20
+#, kde-format
+msgid "Processor:"
+msgid_plural "Processors:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: GPUEntry.cpp:20
+#, kde-format
+msgid "Graphics Processor:"
+msgstr ""
+
+#: KernelEntry.cpp:11
+#, kde-format
+msgid "Kernel Version:"
+msgstr ""
+
+#: MemoryEntry.cpp:17
+#, kde-format
+msgid "Memory:"
+msgstr ""
+
+#: MemoryEntry.cpp:47
+#, kde-format
+msgctxt "@label %1 is the formatted amount of system memory (e.g. 7,7 GiB)"
+msgid "%1 of RAM"
+msgstr ""
+
+#: MemoryEntry.cpp:49
+#, kde-format
+msgctxt "Unknown amount of RAM"
+msgid "Unknown"
+msgstr ""
+
+#: Module.cpp:35
+#, kde-format
+msgctxt "@title"
+msgid "About System"
+msgstr ""
+
+#: Module.cpp:39
+#, kde-format
+msgctxt "@info:credit"
+msgid "Copyright 2012-2020 Harald Sitter"
+msgstr ""
+
+#: Module.cpp:41
+#, kde-format
+msgctxt "@info:credit"
+msgid "Harald Sitter"
+msgstr ""
+
+#: Module.cpp:42
+#, kde-format
+msgctxt "@info:credit"
+msgid "Author"
+msgstr ""
+
+#: Module.cpp:133
+#, kde-format
+msgid "Operating System:"
+msgstr ""
+
+#: Module.cpp:178
+#, kde-format
+msgctxt "@title:group"
+msgid "Software"
+msgstr ""
+
+#: Module.cpp:181
+#, kde-format
+msgid "KDE Frameworks Version:"
+msgstr ""
+
+#: Module.cpp:182
+#, kde-format
+msgid "Qt Version:"
+msgstr ""
+
+#: Module.cpp:188
+#, kde-format
+msgctxt "@title:group"
+msgid "Hardware"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pushButtonCopyInfo)
+#: Module.ui:175
+#, kde-format
+msgid "Copy software and hardware information to clipboard"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButtonCopyInfo)
+#: Module.ui:178
+#, kde-format
+msgid "Copy to Clipboard"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pushButtonCopyInfoInEnglish)
+#: Module.ui:189
+#, kde-format
+msgid "Copy software and hardware information to clipboard in English"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QPushButton, pushButtonCopyInfoInEnglish)
+#: Module.ui:192
+#, kde-format
+msgid "Copy to Clipboard in English"
+msgstr ""
+
+#: PlasmaEntry.cpp:13
+#, kde-format
+msgid "KDE Plasma Version:"
+msgstr ""

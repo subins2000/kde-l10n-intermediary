@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: kdeframeworksintegrationplugin.cpp:69
+msgctxt "KDEFrameworksIntegrationPlugin|"
+msgid "Share page"
+msgstr ""
+
+#: kwalletpasswordbackend.cpp:52
+msgctxt "KDEFrameworksIntegrationPlugin|"
+msgid "KWallet"
+msgstr ""
+
+#: kwalletpasswordbackend.cpp:181
+msgctxt "KDEFrameworksIntegrationPlugin|"
+msgid "KWallet disabled"
+msgstr ""
+
+#: kwalletpasswordbackend.cpp:181
+msgctxt "KDEFrameworksIntegrationPlugin|"
+msgid "Please enable KWallet to save password."
+msgstr ""

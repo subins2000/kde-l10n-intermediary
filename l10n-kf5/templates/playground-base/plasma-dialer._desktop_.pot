@@ -1,0 +1,47 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-17 03:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: metadata.desktop:2
+msgctxt "Comment"
+msgid "Plasma phone dialer"
+msgstr ""
+
+#: metadata.desktop:33
+msgctxt "Name"
+msgid "Phone"
+msgstr ""
+
+#: src/plasma_dialer.notifyrc:3
+msgctxt "Comment"
+msgid "Phone"
+msgstr ""
+
+#: src/plasma_dialer.notifyrc:37
+msgctxt "Name"
+msgid "Missed Call"
+msgstr ""
+
+#: src/plasma_dialer.notifyrc:69
+msgctxt "Comment"
+msgid "A call has been missed"
+msgstr ""
+
+#: src/plasma_dialer.notifyrc:103
+msgctxt "Name"
+msgid "Ringing"
+msgstr ""
+
+#: src/plasma_dialer.notifyrc:135
+msgctxt "Comment"
+msgid "The phone is ringing"
+msgstr ""

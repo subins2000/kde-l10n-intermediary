@@ -1,0 +1,282 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the ksokoban package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ksokoban\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-09-16 03:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: InternalCollections.cpp:45
+#, kde-format
+msgid "Sasquatch"
+msgstr ""
+
+#: InternalCollections.cpp:49
+#, kde-format
+msgid "Mas Sasquatch"
+msgstr ""
+
+#: InternalCollections.cpp:53
+#, kde-format
+msgid "Sasquatch III"
+msgstr ""
+
+#: InternalCollections.cpp:57
+#, kde-format
+msgid "Microban (easy)"
+msgstr ""
+
+#: InternalCollections.cpp:61
+#, kde-format
+msgid "Sasquatch IV"
+msgstr ""
+
+#: main.cpp:40
+#, kde-format
+msgid "ksokoban"
+msgstr ""
+
+#: main.cpp:42
+#, kde-format
+msgid "The japanese warehouse keeper game"
+msgstr ""
+
+#: main.cpp:44
+#, kde-format
+msgid ""
+"(c) 1998 Anders Widell <awl@hem.passagen.se>\n"
+"(c) 2012 Lukasz Kalamlacki"
+msgstr ""
+
+#: main.cpp:48
+#, kde-format
+msgid "Shlomi Fish"
+msgstr ""
+
+#: main.cpp:48
+#, kde-format
+msgid "For porting to Qt5/KF5 and doing other cleanups"
+msgstr ""
+
+#: main.cpp:51
+#, kde-format
+msgid "Lukasz Kalamlacki"
+msgstr ""
+
+#: main.cpp:51
+#, kde-format
+msgid "For rewriting the original ksokoban game from kde3 to kde4"
+msgstr ""
+
+#: main.cpp:54
+#, kde-format
+msgid "Anders Widell"
+msgstr ""
+
+#: main.cpp:54
+#, kde-format
+msgid "For writing the original ksokoban game"
+msgstr ""
+
+#: main.cpp:57
+#, kde-format
+msgid "David W. Skinner"
+msgstr ""
+
+#: main.cpp:58
+#, kde-format
+msgid "For contributing the Sokoban levels included in this game"
+msgstr ""
+
+#: main.cpp:72
+#, kde-format
+msgid "[file]"
+msgstr ""
+
+#: main.cpp:72
+#, kde-format
+msgid "Level collection file to load"
+msgstr ""
+
+#: MainWindow.cpp:94
+#, kde-format
+msgid "&Game"
+msgstr ""
+
+#: MainWindow.cpp:96
+#, kde-format
+msgid "&Load Levels..."
+msgstr ""
+
+#: MainWindow.cpp:100
+#, kde-format
+msgid "&Next Level"
+msgstr ""
+
+#: MainWindow.cpp:105
+#, kde-format
+msgid "&Previous Level"
+msgstr ""
+
+#: MainWindow.cpp:110
+#, kde-format
+msgid "Re&start Level"
+msgstr ""
+
+#: MainWindow.cpp:115
+#, kde-format
+msgid "&Level Collection"
+msgstr ""
+
+#: MainWindow.cpp:117
+#, kde-format
+msgid "&Undo"
+msgstr ""
+
+#: MainWindow.cpp:122
+#, kde-format
+msgid "&Redo"
+msgstr ""
+
+#: MainWindow.cpp:129
+#, kde-format
+msgid "&Quit"
+msgstr ""
+
+#: MainWindow.cpp:134
+#, kde-format
+msgid "&Animation"
+msgstr ""
+
+#: MainWindow.cpp:135
+#, kde-format
+msgid "&Slow"
+msgstr ""
+
+#: MainWindow.cpp:137
+#, kde-format
+msgid "&Medium"
+msgstr ""
+
+#: MainWindow.cpp:139
+#, kde-format
+msgid "&Fast"
+msgstr ""
+
+#: MainWindow.cpp:141
+#, kde-format
+msgid "&Off"
+msgstr ""
+
+#: MainWindow.cpp:157
+#, kde-format
+msgid "&Bookmarks"
+msgstr ""
+
+#: MainWindow.cpp:158
+#, kde-format
+msgid "&Set Bookmark"
+msgstr ""
+
+#: MainWindow.cpp:159 MainWindow.cpp:162 MainWindow.cpp:165 MainWindow.cpp:168
+#: MainWindow.cpp:171 MainWindow.cpp:174 MainWindow.cpp:177 MainWindow.cpp:180
+#: MainWindow.cpp:183 MainWindow.cpp:186 MainWindow.cpp:191 MainWindow.cpp:195
+#: MainWindow.cpp:198 MainWindow.cpp:201 MainWindow.cpp:204 MainWindow.cpp:207
+#: MainWindow.cpp:210 MainWindow.cpp:213 MainWindow.cpp:216 MainWindow.cpp:219
+#, kde-format
+msgid "(unused)"
+msgstr ""
+
+#: MainWindow.cpp:190
+#, kde-format
+msgid "&Go to Bookmark"
+msgstr ""
+
+#: MainWindow.cpp:326
+#, kde-format
+msgid "(invalid)"
+msgstr ""
+
+#: MainWindow.cpp:382
+#, kde-format
+msgid "Load Levels From File"
+msgstr ""
+
+#: MainWindow.cpp:417
+#, kde-format
+msgid "No levels found in file"
+msgstr ""
+
+#: PlayField.cpp:55
+#, kde-format
+msgid "Level:"
+msgstr ""
+
+#: PlayField.cpp:55
+#, kde-format
+msgid "Steps:"
+msgstr ""
+
+#: PlayField.cpp:56
+#, kde-format
+msgid "Pushes:"
+msgstr ""
+
+#: PlayField.cpp:411
+#, kde-format
+msgid "Level completed"
+msgstr ""
+
+#: PlayField.cpp:773
+#, kde-format
+msgid ""
+"This is the last level in\n"
+"the current collection."
+msgstr ""
+
+#: PlayField.cpp:779
+#, kde-format
+msgid ""
+"You have not completed\n"
+"this level yet."
+msgstr ""
+
+#: PlayField.cpp:793
+#, kde-format
+msgid ""
+"This is the first level in\n"
+"the current collection."
+msgstr ""
+
+#: PlayField.cpp:956
+#, kde-format
+msgid ""
+"Sorry, bookmarks for external levels\n"
+"is not implemented yet."
+msgstr ""
+
+#: PlayField.cpp:979
+#, kde-format
+msgid "This level is broken"
+msgstr ""

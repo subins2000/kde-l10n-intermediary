@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-01-05 03:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.babe.appdata.xml:6
+msgid "Babe"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.babe.appdata.xml:7
+msgid "Babe is a tiny music collection manager"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.babe.appdata.xml:9
+msgid "Babe will handle your whole music collection by retrieving semantic information from the web."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.babe.appdata.xml:10
+msgid "Just relax, enjoy and discover your new music"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.babe.appdata.xml:11
+msgid "Use the Chrome extension to collect your favorite music videos from online streaming services like YouTube or Vimeo. Babe uses youtube-dl, so all the supported sites by it are also supported by Babe"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.babe.appdata.xml:12
+msgid "Babe has a main playlist where you can drag and drop tracks, artists, albums and custom playlists to be played or put on queued."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.babe.appdata.xml:13
+msgid "Create your own playlists and search for music based on semantic queries."
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.babe.appdata.xml:15
+msgid "Send your music to your phone."
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.babe.appdata.xml:16
+msgid "Add moods to your music."
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.babe.appdata.xml:17
+msgid "Edit your file metadata with the help of the internet."
+msgstr ""

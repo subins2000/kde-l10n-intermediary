@@ -1,0 +1,207 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdevelop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevelop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-18 02:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: controllers/framestackmodel.cpp:101
+#, kde-format
+msgid "(running)"
+msgstr ""
+
+#: debuggerplugin.cpp:44 lldblauncher.cpp:60
+#, kde-format
+msgid "LLDB"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboStartWith)
+#: debuggerplugin.cpp:109 widgets/lldbconfigpage.ui:122
+#, kde-format
+msgid "LLDB Console"
+msgstr ""
+
+#: debugsession.cpp:151
+#, kde-format
+msgid "Attempting to execute user command on unsupported LLDB version"
+msgstr ""
+
+#: debugsession.cpp:349
+#, kde-format
+msgid "<b>Could not start debugger:</b><br />"
+msgstr ""
+
+#: debugsession.cpp:360
+#, kde-format
+msgid "<b>Error connecting to remote target:</b><br />"
+msgstr ""
+
+#: debugsession.cpp:373
+#, kde-format
+msgid ""
+"<b>Failed to load core file</b><p>Debugger reported the following error:"
+"<p><tt>%1"
+msgstr ""
+
+#: debugsession.cpp:404
+#, kde-format
+msgid ""
+"<b>Your lldb-mi version is unsupported, as it lacks an essential patch.</"
+"b><br/>See https://llvm.org/bugs/show_bug.cgi?id=28026 for more information."
+"<br/>Debugger console will be disabled to prevent crash.<br/>Do you want to "
+"continue?"
+msgstr ""
+
+#: debugsession.cpp:408
+#, kde-format
+msgid "LLDB Version Unsupported"
+msgstr ""
+
+#: debugsession.cpp:456
+#, kde-format
+msgid ""
+"<b>You need lldb-mi from LLDB 3.8.1 or higher.</b><br />You are using: %1"
+msgstr ""
+
+#. i18n: ectx: ToolBar (debugToolBar)
+#: kdevlldbui.rc:19
+#, kde-format
+msgid "Debugger Toolbar"
+msgstr ""
+
+#: lldblauncher.cpp:65
+#, kde-format
+msgid "Debug a native application in LLDB"
+msgstr ""
+
+#: lldblauncher.cpp:89
+#, kde-format
+msgid ""
+"A program is already being debugged. Do you want to abort the currently "
+"running debug session and continue with the launch?"
+msgstr ""
+
+#: widgets/lldbconfigpage.cpp:83
+#, kde-format
+msgid "LLDB Configuration"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupDebugger)
+#: widgets/lldbconfigpage.ui:17
+#, kde-format
+msgid "Debugger"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: widgets/lldbconfigpage.ui:23
+#, kde-format
+msgid "Debugger executable:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, lineDebuggerExec)
+#: widgets/lldbconfigpage.ui:30
+#, kde-format
+msgid "Override path to lldb-mi executable"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: widgets/lldbconfigpage.ui:37
+#, kde-format
+msgid "Additional arguments:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: widgets/lldbconfigpage.ui:51
+#, kde-format
+msgid "Environment:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, checkInheritSystem)
+#: widgets/lldbconfigpage.ui:79
+#, kde-format
+msgid "Inherit system environment"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupOptions)
+#: widgets/lldbconfigpage.ui:89
+#, kde-format
+msgid "Options"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: widgets/lldbconfigpage.ui:95
+#, kde-format
+msgid "Config script:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (KUrlRequester, lineConfigScript)
+#: widgets/lldbconfigpage.ui:102
+#, kde-format
+msgid "/path/to/lldb/config/script"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: widgets/lldbconfigpage.ui:109
+#, kde-format
+msgid "Start debugger with:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboStartWith)
+#: widgets/lldbconfigpage.ui:117
+#, kde-format
+msgid "Application Output"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, comboStartWith)
+#: widgets/lldbconfigpage.ui:127
+#, kde-format
+msgid "Frame Stack"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_7)
+#: widgets/lldbconfigpage.ui:135
+#, kde-format
+msgid "Break on start:"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupRemote)
+#: widgets/lldbconfigpage.ui:152
+#, kde-format
+msgid "Remo&te Debugging"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: widgets/lldbconfigpage.ui:161
+#, kde-format
+msgid "Remote server:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, lineRemoteServer)
+#: widgets/lldbconfigpage.ui:168
+#, kde-format
+msgid "host:port"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: widgets/lldbconfigpage.ui:175
+#, kde-format
+msgid "Remote work path:"
+msgstr ""
+
+#. i18n: ectx: property (placeholderText), widget (QLineEdit, lineOnDevPath)
+#: widgets/lldbconfigpage.ui:182
+#, kde-format
+msgid "/path/to/a/on-device/writable/directory"
+msgstr ""

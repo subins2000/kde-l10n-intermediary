@@ -1,0 +1,74 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-07 02:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: containments/homescreen/package/metadata.desktop:3
+msgctxt "Name"
+msgid "Mycroft Bigscreen"
+msgstr ""
+
+#: containments/homescreen/package/metadata.desktop:17
+msgctxt "Comment"
+msgid "Homescreen for Plasma and Mycroft based TVs"
+msgstr ""
+
+#: kcms/audio-device-chooser/kcm_audiodevice.desktop:15
+#: kcms/audio-device-chooser/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Language"
+msgstr ""
+
+#: kcms/audio-device-chooser/kcm_audiodevice.desktop:30
+msgctxt "Comment"
+msgid "Change workspace and application languages"
+msgstr ""
+
+#: kcms/kdeconnect/mediacenter_kdeconnect.desktop:15
+#: kcms/kdeconnect/package/metadata.desktop:2
+msgctxt "Name"
+msgid "KDE Connect"
+msgstr ""
+
+#: kcms/kdeconnect/mediacenter_kdeconnect.desktop:27
+msgctxt "Comment"
+msgid "Connect and sync your devices"
+msgstr ""
+
+#: kcms/wifi/mediacenter_wifi.desktop:15 kcms/wifi/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Wifi"
+msgstr ""
+
+#: kcms/wifi/mediacenter_wifi.desktop:30
+msgctxt "Comment"
+msgid "Connect to Wifi networks"
+msgstr ""
+
+#: lookandfeel/metadata.desktop:2
+msgctxt "Comment"
+msgid "Plasma Mycroft Big Screen look and feel"
+msgstr ""
+
+#: lookandfeel/metadata.desktop:16
+msgctxt "Name"
+msgid "Mycroft Big Screen"
+msgstr ""
+
+#: shell/metadata.desktop:3
+msgctxt "Name"
+msgid "Plasma Big Screen"
+msgstr ""
+
+#: shell/metadata.desktop:16
+msgctxt "Comment"
+msgid "Plasma shell for TVs"
+msgstr ""

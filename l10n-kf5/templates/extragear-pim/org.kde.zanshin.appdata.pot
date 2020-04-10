@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-05-24 02:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.zanshin.appdata.xml:6
+msgid "Zanshin"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.zanshin.appdata.xml:7
+msgid "To Do Management Application"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.zanshin.appdata.xml:9
+msgid "Zanshin is a powerful yet simple application for managing your day to day actions. It helps you organize and reduce the cognitive pressure of what one has to do in his job and personal life. You'll never forget anything anymore, getting your mind like water."
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.zanshin.appdata.xml:14
+msgid "Features:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.zanshin.appdata.xml:16
+msgid "Collects tasks from everywhere"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.zanshin.appdata.xml:17
+msgid "Organize tasks in projects and contexts"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.zanshin.appdata.xml:18
+msgid "Akonadi-enabled application allowing to get the data from virtually anywhere (local, imap, web service...)"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#: org.kde.zanshin.appdata.xml:25
+msgid "Zanshin main window"
+msgstr ""

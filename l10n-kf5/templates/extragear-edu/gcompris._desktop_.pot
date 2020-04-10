@@ -1,0 +1,38 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-25 03:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: org.kde.gcompris.desktop:2
+msgctxt "Name"
+msgid "GCompris"
+msgstr ""
+
+#: org.kde.gcompris.desktop:31
+msgctxt "GenericName"
+msgid "Educational Game"
+msgstr ""
+
+#: org.kde.gcompris.desktop:60
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:77
+msgctxt "Comment"
+msgid "Multi-Activity Educational game for children 2 to 10"
+msgstr ""
+
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:2
+msgctxt "Name"
+msgid "GCompris Educational Game"
+msgstr ""
+
+#: platforms/sailfishOS/harbour-gcompris-qt.desktop:39
+msgctxt "GenericName"
+msgid "Educational game"
+msgstr ""

@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the kdevelop package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: kdevelop\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-18 02:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: scratchpad.cpp:118 scratchpadview.cpp:101
+#, kde-format
+msgid "Scratchpad"
+msgstr ""
+
+#: scratchpad.cpp:155 scratchpad.cpp:234 scratchpadjob.cpp:47
+#, kde-format
+msgctxt "prefix to distinguish scratch tabs"
+msgid "scratch:%1"
+msgstr ""
+
+#: scratchpad.cpp:182
+#, kde-format
+msgid "Failed to remove scratch: %1"
+msgstr ""
+
+#: scratchpad.cpp:189
+#, kde-format
+msgid "Failed to create scratch: Name already in use"
+msgstr ""
+
+#: scratchpad.cpp:201
+#, kde-format
+msgid "Failed to create new scratch"
+msgstr ""
+
+#: scratchpad.cpp:210
+#, kde-format
+msgid "Failed to rename scratch: Names must not include path separator"
+msgstr ""
+
+#: scratchpad.cpp:240
+#, kde-format
+msgid "Failed renaming scratch."
+msgstr ""
+
+#: scratchpadjob.cpp:71
+#, kde-format
+msgid "Running %1..."
+msgstr ""
+
+#: scratchpadjob.cpp:87
+#, kde-format
+msgid "Process finished with exit code %1."
+msgstr ""
+
+#: scratchpadjob.cpp:94
+#, kde-format
+msgid "Failed to run scratch: %1"
+msgstr ""
+
+#: scratchpadview.cpp:114
+#, kde-format
+msgid ""
+"Scratchpad lets you quickly run and experiment with code without a full "
+"project, and even store todos. Create a new scratch to start."
+msgstr ""
+
+#: scratchpadview.cpp:128
+#, kde-format
+msgid "Command to run this scratch. $f will expand to the scratch path"
+msgstr ""
+
+#: scratchpadview.cpp:151
+#, kde-format
+msgid "New Scratch"
+msgstr ""
+
+#: scratchpadview.cpp:155
+#, kde-format
+msgid "Remove Scratch"
+msgstr ""
+
+#: scratchpadview.cpp:163
+#, kde-format
+msgid "Rename Scratch"
+msgstr ""
+
+#: scratchpadview.cpp:172
+#, kde-format
+msgid "Run Scratch"
+msgstr ""
+
+#: scratchpadview.cpp:178
+#, kde-format
+msgid "Filter..."
+msgstr ""
+
+#: scratchpadview.cpp:218
+#, kde-format
+msgid "Create New Scratch"
+msgstr ""
+
+#: scratchpadview.cpp:219
+#, kde-format
+msgid "Enter name for scratch file:"
+msgstr ""

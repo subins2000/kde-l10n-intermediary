@@ -1,0 +1,209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the baloo-widgets package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: baloo-widgets\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-09 02:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/filemetadataprovider.cpp:162 src/filemetadataprovider.cpp:168
+#: src/filemetadataprovider.cpp:232 src/filemetadataprovider.cpp:235
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/filemetadataprovider.cpp:179
+#, kde-format
+msgctxt "unknown file size"
+msgid "Unknown"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:410 src/filemetadataprovider.cpp:426
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:411
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:412
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:413
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:414
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:415
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:416
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:417 src/filemetadataprovider.cpp:425
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:418
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:419 src/filemetadataprovider.cpp:424
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:420
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:421
+#, kde-format
+msgctxt "@label"
+msgid "Hidden items"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:422
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:423
+#, kde-format
+msgctxt "@label"
+msgid "Link to"
+msgstr ""
+
+#: src/filemetadataprovider.cpp:427
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr ""
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:64
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr ""
+
+#: src/kcommentwidget.cpp:67 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr ""
+
+#: src/kcommentwidget.cpp:73 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr ""
+
+#: src/kcommentwidget.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr ""
+
+#: src/kcommentwidget.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr ""
+
+#: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:52
+#, kde-format
+msgid "Save"
+msgstr ""
+
+#: src/kedittagsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr ""
+
+#: src/kedittagsdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr ""
+
+#: src/kedittagsdialog.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr ""
+
+#: src/kedittagsdialog.cpp:70
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:44
+#, kde-format
+msgid "Assign Tags"
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:79
+#, kde-format
+msgid "Create New..."
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:83
+#, kde-format
+msgid "New tag"
+msgstr ""
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:83
+#, kde-format
+msgid "New tag:"
+msgstr ""
+
+#: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ""

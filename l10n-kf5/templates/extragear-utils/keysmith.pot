@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the keysmith package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: keysmith\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-06 02:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/contents/ui/AccountEntryView.qml:57
+#, kde-format
+msgctxt "placeholder text if no account name is available"
+msgid "(untitled)"
+msgstr ""
+
+#: src/contents/ui/AccountEntryView.qml:64
+#, kde-format
+msgctxt "placeholder text if no token is available"
+msgid "(refresh)"
+msgstr ""
+
+#: src/contents/ui/AccountsOverview.qml:21
+#, kde-format
+msgctxt "@title:window"
+msgid "Accounts"
+msgstr ""
+
+#: src/contents/ui/AccountsOverview.qml:45
+#: src/contents/ui/AddAccount.qml:41
+#, kde-format
+msgid "Add"
+msgstr ""
+
+#: src/contents/ui/AddAccount.qml:17
+#, kde-format
+msgctxt "@title:window"
+msgid "Add new account"
+msgstr ""
+
+#: src/contents/ui/AddAccount.qml:29
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Account Name:"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:30
+#, kde-format
+msgctxt "@label:chooser"
+msgid "Account Type:"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:35
+#, kde-format
+msgctxt "@option:radio"
+msgid "Time-based OTP"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:40
+#, kde-format
+msgctxt "@option:radio"
+msgid "Hash-based OTP"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:45
+#, kde-format
+msgid "Token secret"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:47
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Secret key:"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:55
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Timer:"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:66
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Counter:"
+msgstr ""
+
+#: src/contents/ui/TokenDetailsForm.qml:82
+#, kde-format
+msgctxt "@label:spinbox"
+msgid "Token length:"
+msgstr ""
+
+#: src/main.cpp:44
+#, kde-format
+msgctxt "@title"
+msgid "Keysmith"
+msgstr ""

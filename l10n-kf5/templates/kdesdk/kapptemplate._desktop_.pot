@@ -1,0 +1,47 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-28 03:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/application/kapptemplate.knsrc:2
+msgctxt "Name"
+msgid "Application Templates (SDK)"
+msgstr ""
+
+#: src/application/org.kde.kapptemplate.desktop:8
+msgctxt "GenericName"
+msgid "App Code Template Generator"
+msgstr ""
+
+#: src/application/org.kde.kapptemplate.desktop:33
+msgctxt "Name"
+msgid "KAppTemplate"
+msgstr ""
+
+#: src/templates/C++/kde-frameworks5/kde-frameworks5.kdevtemplate:3
+msgctxt "Name"
+msgid "C++ KDE Frameworks"
+msgstr ""
+
+#: src/templates/C++/kde-frameworks5/kde-frameworks5.kdevtemplate:37
+msgctxt "Comment"
+msgid "A KDE Frameworks 5 GUI Application in C++"
+msgstr ""
+
+#: src/templates/C++/kde-frameworks5-simple/kde-frameworks5-simple.kdevtemplate:3
+msgctxt "Name"
+msgid "Minimal C++ KDE Frameworks"
+msgstr ""
+
+#: src/templates/C++/kde-frameworks5-simple/kde-frameworks5-simple.kdevtemplate:37
+msgctxt "Comment"
+msgid "A very basic KDE Frameworks 5 GUI Application in C++"
+msgstr ""

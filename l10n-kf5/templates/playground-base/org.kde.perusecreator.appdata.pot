@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-09-24 03:52+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.perusecreator.appdata.xml:7
+msgid "Peruse"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.perusecreator.appdata.xml:8
+msgid "Comic Book Creation Tool"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.perusecreator.appdata.xml:12
+msgid "Features:"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.perusecreator.appdata.xml:14
+msgid "Comic Book Archive (cbz, cbr, cb7, cbt, cba)"
+msgstr ""

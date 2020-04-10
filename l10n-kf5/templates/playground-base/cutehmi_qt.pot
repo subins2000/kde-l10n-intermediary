@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Qt-Contexts: true\n"
+
+#: extensions/CuteHMI.2/src/cutehmi/Error.cpp:39
+msgctxt "cutehmi::Error|"
+msgid "No error."
+msgstr ""
+
+#: extensions/CuteHMI.2/src/cutehmi/Error.cpp:41
+msgctxt "cutehmi::Error|"
+msgid "Undescribed error."
+msgstr ""
+
+#: extensions/CuteHMI.2/src/cutehmi/Error.cpp:43
+msgctxt "cutehmi::Error|"
+msgid "Uninitialized error."
+msgstr ""
+
+#: extensions/CuteHMI.2/src/cutehmi/Error.cpp:45
+#, qt-format
+msgctxt "cutehmi::Error|"
+msgid "Unrecognized error code: %1."
+msgstr ""
+
+#: extensions/CuteHMI.2/src/cutehmi/Messenger.cpp:6
+msgctxt "cutehmi::Messenger|"
+msgid "No advertiser has been set. Dialog message: "
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/CoilControl.qml:21
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/CoilControl.qml:10
+msgctxt "CoilControl|"
+msgid "Coil"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:17
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:17
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:20
+msgctxt "DeviceControl|"
+msgid "Device state:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:24
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:24
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:27
+msgctxt "DeviceControl|"
+msgid "Opening"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:26
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:26
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:29
+msgctxt "DeviceControl|"
+msgid "Opened"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:28
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:28
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:31
+msgctxt "DeviceControl|"
+msgid "Closing"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:30
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:30
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:33
+msgctxt "DeviceControl|"
+msgid "Closed"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:32
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:32
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:35
+msgctxt "DeviceControl|"
+msgid "Unrecognized state"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:48
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:48
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:51
+msgctxt "DeviceControl|"
+msgid "Open"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DeviceControl.qml:53
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceControl.qml:53
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DeviceControl.qml:56
+msgctxt "DeviceControl|"
+msgid "Close"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/DiscreteInputControl.qml:21
+msgctxt "DiscreteInputControl|"
+msgid "Discrete input"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/HoldingRegisterControl.qml:21
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:10
+msgctxt "HoldingRegisterControl|"
+msgid "Holding register"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/InputRegisterControl.qml:21
+msgctxt "InputRegisterControl|"
+msgid "Input register"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:63
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:141
+msgctxt "Main|"
+msgid "Register type:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:69
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:147
+msgctxt "Main|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:75
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:153
+msgctxt "Main|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:166
+msgctxt "Main|"
+msgid "Discrete input (read-only)"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/Main.qml:183
+msgctxt "Main|"
+msgid "Input register (read-only)"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/ServiceControl.qml:13
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/ServiceControl.qml:17
+#, qt-format
+msgctxt "ServiceControl|"
+msgid "%1 status:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/ServiceControl.qml:27
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/ServiceControl.qml:31
+msgctxt "ServiceControl|"
+msgid "Start"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/ServiceControl.qml:32
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/ServiceControl.qml:36
+msgctxt "ServiceControl|"
+msgid "Stop"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPClientConfiguration.qml:15
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPClientConfiguration.qml:15
+msgctxt "TCPClientConfiguration|"
+msgid "Host:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPClientConfiguration.qml:26
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPClientConfiguration.qml:26
+msgctxt "TCPClientConfiguration|"
+msgid "Port:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPClientConfiguration.qml:37
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPClientConfiguration.qml:37
+msgctxt "TCPClientConfiguration|"
+msgid "Slave address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPServerConfiguration.qml:15
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPServerConfiguration.qml:15
+msgctxt "TCPServerConfiguration|"
+msgid "Host:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPServerConfiguration.qml:26
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPServerConfiguration.qml:26
+msgctxt "TCPServerConfiguration|"
+msgid "Port:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPServerConfiguration.qml:37
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPServerConfiguration.qml:37
+msgctxt "TCPServerConfiguration|"
+msgid "Slave address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ClientServer.0/TCPServerConfiguration.qml:52
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/TCPServerConfiguration.qml:52
+msgctxt "TCPServerConfiguration|"
+msgid "Busy:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ControllerItems.0/Screen.ui.qml:11
+msgctxt "Screen.ui|"
+msgid "Switch"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ControllerItems.0/Screen.ui.qml:26
+msgctxt "Screen.ui|"
+msgid "Check Box"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/ControllerItems.0/Screen.ui.qml:41
+msgctxt "Screen.ui|"
+msgid "Label"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/CoilControl.qml:47
+msgctxt "CoilControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/CoilControl.qml:61
+msgctxt "CoilControl|"
+msgid "Write mode:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/CoilControl.qml:83
+msgctxt "CoilControl|"
+msgid "Write delay:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/CoilControl.qml:101
+msgctxt "CoilControl|"
+msgid "Read on write:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/CoilControl.qml:113
+msgctxt "CoilControl|"
+msgid "Enabled:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DeviceLoader.qml:16
+msgctxt "DeviceLoader|"
+msgid "Device type:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DummyClientConfiguration.qml:15
+msgctxt "DummyClientConfiguration|"
+msgid "Connect latency:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DummyClientConfiguration.qml:30
+msgctxt "DummyClientConfiguration|"
+msgid "Disconnect latency:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/DummyClientConfiguration.qml:45
+msgctxt "DummyClientConfiguration|"
+msgid "Latency (requests):"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:49
+msgctxt "HoldingRegisterControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:63
+msgctxt "HoldingRegisterControl|"
+msgid "Value scale:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:82
+msgctxt "HoldingRegisterControl|"
+msgid "Encoding:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:102
+msgctxt "HoldingRegisterControl|"
+msgid "Write mode:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:124
+msgctxt "HoldingRegisterControl|"
+msgid "Write delay:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:142
+msgctxt "HoldingRegisterControl|"
+msgid "Read on write:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/HoldingRegisterControl.qml:154
+msgctxt "HoldingRegisterControl|"
+msgid "Enabled:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/Main.qml:55
+msgctxt "Main|"
+msgid "Holding register spin box"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/Main.qml:85
+msgctxt "Main|"
+msgid "Holding register text field"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/Main.qml:117
+msgctxt "Main|"
+msgid "Coil check box"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Controllers.0/Main.qml:145
+msgctxt "Main|"
+msgid "Coil switch"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:18
+msgctxt "DiagnosticsControl|"
+msgid "Subfunction:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:27
+msgctxt "DiagnosticsControl|"
+msgid "Return query data"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:28
+msgctxt "DiagnosticsControl|"
+msgid "Restart communications option"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:29
+msgctxt "DiagnosticsControl|"
+msgid "Return diagnostics register"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:30
+msgctxt "DiagnosticsControl|"
+msgid "Change ASCII input delimiter"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:31
+msgctxt "DiagnosticsControl|"
+msgid "Force listen only mode"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:32
+msgctxt "DiagnosticsControl|"
+msgid "Clear counters and diagnostic register"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:33
+msgctxt "DiagnosticsControl|"
+msgid "Return bus message count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:34
+msgctxt "DiagnosticsControl|"
+msgid "Return bus communication error count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:35
+msgctxt "DiagnosticsControl|"
+msgid "Return bus exception error count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:36
+msgctxt "DiagnosticsControl|"
+msgid "Return slave message count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:37
+msgctxt "DiagnosticsControl|"
+msgid "Return slave no response count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:38
+msgctxt "DiagnosticsControl|"
+msgid "Return slave NAK count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:39
+msgctxt "DiagnosticsControl|"
+msgid "Return slave busy count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:40
+msgctxt "DiagnosticsControl|"
+msgid "Return bus character overrun count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:41
+msgctxt "DiagnosticsControl|"
+msgid "Return IOP overrun count"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:42
+msgctxt "DiagnosticsControl|"
+msgid "Clear overrun counter and flag"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:43
+msgctxt "DiagnosticsControl|"
+msgid "Get/Clear modbus plus statistics"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:52
+msgctxt "DiagnosticsControl|"
+msgid "Data:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/DiagnosticsControl.qml:66
+msgctxt "DiagnosticsControl|"
+msgid "Data (hex):"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/Main.qml:30
+msgctxt "Main|"
+msgid "Server state:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/Main.qml:38
+msgctxt "Main|"
+msgid "Client state:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/MaskWrite4xRegisterControl.qml:19
+msgctxt "MaskWrite4xRegisterControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/MaskWrite4xRegisterControl.qml:31
+msgctxt "MaskWrite4xRegisterControl|"
+msgid "And mask (hex):"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/MaskWrite4xRegisterControl.qml:44
+msgctxt "MaskWrite4xRegisterControl|"
+msgid "Or mask (hex):"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadCoilsControl.qml:16
+msgctxt "ReadCoilsControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadCoilsControl.qml:28
+msgctxt "ReadCoilsControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadDiscreteInputsControl.qml:16
+msgctxt "ReadDiscreteInputsControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadDiscreteInputsControl.qml:28
+msgctxt "ReadDiscreteInputsControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadFIFOQueueControl.qml:16
+msgctxt "ReadFIFOQueueControl|"
+msgid "FIFO pointer address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadFileRecordControl.qml:28
+msgctxt "ReadFileRecordControl|"
+msgid "Subrequests:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadFileRecordControl.qml:52
+msgctxt "ReadFileRecordControl|"
+msgid "File:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadFileRecordControl.qml:64
+msgctxt "ReadFileRecordControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadFileRecordControl.qml:76
+msgctxt "ReadFileRecordControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadHoldingRegistersControl.qml:16
+msgctxt "ReadHoldingRegistersControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadHoldingRegistersControl.qml:28
+msgctxt "ReadHoldingRegistersControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadInputRegistersControl.qml:17
+msgctxt "ReadInputRegistersControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadInputRegistersControl.qml:29
+msgctxt "ReadInputRegistersControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadWriteMultipleHoldingRegistersControl.qml:21
+msgctxt "ReadWriteMultipleHoldingRegistersControl|"
+msgid "Read address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadWriteMultipleHoldingRegistersControl.qml:33
+msgctxt "ReadWriteMultipleHoldingRegistersControl|"
+msgid "Read amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadWriteMultipleHoldingRegistersControl.qml:46
+msgctxt "ReadWriteMultipleHoldingRegistersControl|"
+msgid "Write address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadWriteMultipleHoldingRegistersControl.qml:58
+msgctxt "ReadWriteMultipleHoldingRegistersControl|"
+msgid "Write amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/ReadWriteMultipleHoldingRegistersControl.qml:71
+msgctxt "ReadWriteMultipleHoldingRegistersControl|"
+msgid "Values:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteCoilControl.qml:16
+msgctxt "WriteCoilControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteCoilControl.qml:28
+msgctxt "WriteCoilControl|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteDiscreteInputControl.qml:16
+msgctxt "WriteDiscreteInputControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteDiscreteInputControl.qml:28
+msgctxt "WriteDiscreteInputControl|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteFileRecordControl.qml:31
+msgctxt "WriteFileRecordControl|"
+msgid "Subrequests:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteFileRecordControl.qml:56
+msgctxt "WriteFileRecordControl|"
+msgid "File:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteFileRecordControl.qml:68
+msgctxt "WriteFileRecordControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteFileRecordControl.qml:80
+msgctxt "WriteFileRecordControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteFileRecordControl.qml:92
+msgctxt "WriteFileRecordControl|"
+msgid "Values:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteHoldingRegisterControl.qml:16
+msgctxt "WriteHoldingRegisterControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteHoldingRegisterControl.qml:28
+msgctxt "WriteHoldingRegisterControl|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteInputRegisterControl.qml:16
+msgctxt "WriteInputRegisterControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteInputRegisterControl.qml:28
+msgctxt "WriteInputRegisterControl|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleCoilsControl.qml:22
+msgctxt "WriteMultipleCoilsControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleCoilsControl.qml:34
+msgctxt "WriteMultipleCoilsControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleCoilsControl.qml:47
+msgctxt "WriteMultipleCoilsControl|"
+msgid "Values:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleDiscreteInputsControl.qml:22
+msgctxt "WriteMultipleDiscreteInputsControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleDiscreteInputsControl.qml:34
+msgctxt "WriteMultipleDiscreteInputsControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleDiscreteInputsControl.qml:47
+msgctxt "WriteMultipleDiscreteInputsControl|"
+msgid "Values:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleHoldingRegistersControl.qml:23
+msgctxt "WriteMultipleHoldingRegistersControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleHoldingRegistersControl.qml:35
+msgctxt "WriteMultipleHoldingRegistersControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleHoldingRegistersControl.qml:48
+msgctxt "WriteMultipleHoldingRegistersControl|"
+msgid "Values:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleInputRegistersControl.qml:23
+msgctxt "WriteMultipleInputRegistersControl|"
+msgid "Address:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleInputRegistersControl.qml:35
+msgctxt "WriteMultipleInputRegistersControl|"
+msgid "Amount:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Modbus/Requests.0/WriteMultipleInputRegistersControl.qml:48
+msgctxt "WriteMultipleInputRegistersControl|"
+msgid "Values:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/AirFilterSettings.qml:14
+msgctxt "AirFilterSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/AirFilterSettings.qml:24
+msgctxt "AirFilterSettings|"
+msgid "Mirror:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/AirFilterSettings.qml:36
+msgctxt "AirFilterSettings|"
+msgid "Pockets:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/AirFilterSettings.qml:50
+msgctxt "AirFilterSettings|"
+msgid "Fill:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BasicDiscreteInstrumentSettings.qml:15
+msgctxt "BasicDiscreteInstrumentSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BasicDiscreteInstrumentSettings.qml:22
+msgctxt "BasicDiscreteInstrumentSettings|"
+msgid "Symbol:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BladeDamperSettings.qml:14
+msgctxt "BladeDamperSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BladeDamperSettings.qml:24
+msgctxt "BladeDamperSettings|"
+msgid "Mirror:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BladeDamperSettings.qml:36
+msgctxt "BladeDamperSettings|"
+msgid "Horizontal:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BladeDamperSettings.qml:48
+msgctxt "BladeDamperSettings|"
+msgid "Blades:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BladeDamperSettings.qml:62
+msgctxt "BladeDamperSettings|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/BladeDamperSettings.qml:79
+msgctxt "BladeDamperSettings|"
+msgid "Opposed blade:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/CentrifugalFanSettings.qml:15
+msgctxt "CentrifugalFanSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/CentrifugalFanSettings.qml:23
+msgctxt "CentrifugalFanSettings|"
+msgid "Mirror:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/CentrifugalFanSettings.qml:33
+msgctxt "CentrifugalFanSettings|"
+msgid "RPM:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:15
+msgctxt "ElementSettings|"
+msgid "Common properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:19
+msgctxt "ElementSettings|"
+msgid "Neutral"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:25
+msgctxt "ElementSettings|"
+msgid "Active"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:33
+msgctxt "ElementSettings|"
+msgid "Warning"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:41
+msgctxt "ElementSettings|"
+msgid "Alarm"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:49
+msgctxt "ElementSettings|"
+msgid "Indirect warning"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ElementSettings.qml:57
+msgctxt "ElementSettings|"
+msgid "Indirect alarm"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/HeatRecoveryWheelSettings.qml:14
+msgctxt "HeatRecoveryWheelSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/HeatRecoveryWheelSettings.qml:24
+msgctxt "HeatRecoveryWheelSettings|"
+msgid "Segments:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/HeatRecoveryWheelSettings.qml:36
+msgctxt "HeatRecoveryWheelSettings|"
+msgid "RPM:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/HeatRecoveryWheelSettings.qml:51
+msgctxt "HeatRecoveryWheelSettings|"
+msgid "Clockwise:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:25
+msgctxt "Main|"
+msgid "Size:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:58
+msgctxt "Main|"
+msgid "Air filter"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:76
+msgctxt "Main|"
+msgid "Basic cooler"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:94
+msgctxt "Main|"
+msgid "Basic discrete instrument"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:112
+msgctxt "Main|"
+msgid "Basic heater"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:130
+msgctxt "Main|"
+msgid "Blade damper"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:148
+msgctxt "Main|"
+msgid "Centrifugal fan"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:166
+msgctxt "Main|"
+msgid "Cooler"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:184
+msgctxt "Main|"
+msgid "Heater"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:202
+msgctxt "Main|"
+msgid "Heat exchanger"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:220
+msgctxt "Main|"
+msgid "Heat recovery wheel"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:238
+msgctxt "Main|"
+msgid "Motor actuator"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:256
+msgctxt "Main|"
+msgid "Pump"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:274
+msgctxt "Main|"
+msgid "Tank"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/Main.qml:292
+msgctxt "Main|"
+msgid "Valve"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/MotorActuatorSettings.qml:15
+msgctxt "MotorActuatorSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/MotorActuatorSettings.qml:23
+msgctxt "MotorActuatorSettings|"
+msgid "Symbol:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/MotorActuatorSettings.qml:33
+msgctxt "MotorActuatorSettings|"
+msgid "Start angle:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/MotorActuatorSettings.qml:46
+msgctxt "MotorActuatorSettings|"
+msgid "Value:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/PumpSettings.qml:15
+msgctxt "PumpSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/PumpSettings.qml:23
+msgctxt "PumpSettings|"
+msgid "RPM:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/TankSettings.qml:14
+msgctxt "TankSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/TankSettings.qml:24
+msgctxt "TankSettings|"
+msgid "Head ratio:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/TankSettings.qml:38
+msgctxt "TankSettings|"
+msgid "Level:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:14
+msgctxt "ValveSettings|"
+msgid "Custom properties"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:24
+msgctxt "ValveSettings|"
+msgid "Left way:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:37
+msgctxt "ValveSettings|"
+msgid "Right way:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:49
+msgctxt "ValveSettings|"
+msgid "Top way:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:61
+msgctxt "ValveSettings|"
+msgid "Bottom way:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:73
+msgctxt "ValveSettings|"
+msgid "Left closed:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:85
+msgctxt "ValveSettings|"
+msgid "Right closed:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:97
+msgctxt "ValveSettings|"
+msgid "Top closed:"
+msgstr ""
+
+#: extensions/CuteHMI/Examples/Symbols/HVAC/Gallery.0/ValveSettings.qml:109
+msgctxt "ValveSettings|"
+msgid "Bottom closed:"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:18
+msgctxt "CoilItemSpecifics|"
+msgid "Device"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:44
+msgctxt "CoilItemSpecifics|"
+msgid "Address"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:69
+msgctxt "CoilItemSpecifics|"
+msgid "Delegate"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:95
+msgctxt "CoilItemSpecifics|"
+msgid "Delegate property"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:108
+msgctxt "CoilItemSpecifics|"
+msgid "Read-only"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:121
+msgctxt "CoilItemSpecifics|"
+msgid "Read-on-write"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:134
+msgctxt "CoilItemSpecifics|"
+msgid "Write mode"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/CoilItemSpecifics.qml:147
+msgctxt "CoilItemSpecifics|"
+msgid "Write delay"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:18
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Device"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:44
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Address"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:68
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Delegate"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:94
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Delegate property"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:107
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Read-only"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:120
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Read-on-write"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:133
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Write mode"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/DiscreteInputItemSpecifics.qml:146
+msgctxt "DiscreteInputItemSpecifics|"
+msgid "Write delay"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:18
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Device"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:44
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Address"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:68
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Delegate"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:95
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Delegate property"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:108
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Read-only"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:121
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Read-on-write"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:134
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Write mode"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:147
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Write delay"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:160
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Encoding"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/HoldingRegisterItemSpecifics.qml:173
+msgctxt "HoldingRegisterItemSpecifics|"
+msgid "Value scale"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:18
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Device"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:44
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Address"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:68
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Delegate"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:94
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Delegate property"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:107
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Read-only"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:120
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Read-on-write"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:133
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Write mode"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:146
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Write delay"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:159
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Encoding"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/puppet/designer/InputRegisterItemSpecifics.qml:172
+msgctxt "InputRegisterItemSpecifics|"
+msgid "Value scale"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/AbstractClient.cpp:22
+msgctxt "AbstractClient|"
+msgid "Connecting"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/AbstractClient.cpp:38
+msgctxt "AbstractClient|"
+msgid "Polling"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/AbstractClient.cpp:61
+msgctxt "AbstractClient|"
+msgid "Disconnecting"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/AbstractServer.cpp:26
+msgctxt "AbstractServer|"
+msgid "Initiating listening"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/AbstractServer.cpp:47
+msgctxt "cutehmi::modbus::AbstractServer|"
+msgid "Closing"
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/internal/QtClientBackend.cpp:541
+msgctxt "QtClientBackend|"
+msgid "Failed to initialize connection."
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/internal/QtClientBackend.cpp:545
+msgctxt "QtClientBackend|"
+msgid "Client is currently proceeding with disconnect operation."
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/internal/QtClientBackend.cpp:548
+msgctxt "QtClientBackend|"
+msgid ""
+"Client is in some unrecognized state, which prevents it from initiating a "
+"connection to the server."
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/internal/QtServerBackend.cpp:225
+msgctxt "QtServerBackend|"
+msgid "Failed to initialize listening."
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/internal/QtServerBackend.cpp:229
+msgctxt "QtServerBackend|"
+msgid "Server is currently proceeding with stop listening operation."
+msgstr ""
+
+#: extensions/CuteHMI/Modbus.2/src/cutehmi/modbus/internal/QtServerBackend.cpp:232
+msgctxt "QtServerBackend|"
+msgid ""
+"Server is in some unrecognized state, which prevents it from initiating "
+"listening."
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:165
+msgctxt "QObject|"
+msgid "Unmanaged"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:192
+#, qt-format
+msgctxt "Service|"
+msgid ""
+"Interrupting stop sequence of '%1' service, because it took more than %2 "
+"[ms]."
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:195
+#, qt-format
+msgctxt "Service|"
+msgid "Service '%1' has started."
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:198
+#, qt-format
+msgctxt "Service|"
+msgid "Service '%1' is stopped."
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:201
+#, qt-format
+msgctxt "Service|"
+msgid "Service '%1' broke."
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:236
+msgctxt "Service|"
+msgid "Stopped"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:237
+msgctxt "Service|"
+msgid "Interrupted"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:238
+msgctxt "Service|"
+msgid "Starting"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:239
+msgctxt "Service|"
+msgid "Started"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:240
+msgctxt "Service|"
+msgid "Idling"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:241
+msgctxt "Service|"
+msgid "Yielding"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:242
+msgctxt "Service|"
+msgid "Active"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:243
+msgctxt "Service|"
+msgid "Stopping"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:244
+msgctxt "Service|"
+msgid "Broken"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:245
+msgctxt "Service|"
+msgid "Repairing"
+msgstr ""
+
+#: extensions/CuteHMI/Services.2/src/cutehmi/services/Service.cpp:246
+msgctxt "Service|"
+msgid "Evacuating"
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:67
+msgctxt "main|"
+msgid "Run project in application mode."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:68
+#: tools/cutehmi.view.2/src/main.cpp:135
+msgctxt "main|"
+msgid "Set base directory to <dir>."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:68
+#: tools/cutehmi.view.2/src/main.cpp:135
+msgctxt "main|"
+msgid "dir"
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:69
+#: tools/cutehmi.view.2/src/main.cpp:132
+msgctxt "main|"
+msgid "Choose application <language>."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:69
+#: tools/cutehmi.view.2/src/main.cpp:132
+msgctxt "main|"
+msgid "language"
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:70
+msgctxt "main|"
+msgid "PID file <path> (Unix-specific)."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:70
+msgctxt "main|"
+msgid "path"
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:71
+msgctxt "main|"
+msgid "Load QML project <URL>."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:71
+msgctxt "main|"
+msgid "URL"
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:130
+#: tools/cutehmi.view.2/src/main.cpp:222
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"URL '%1' contains relative path along with URL scheme, which is forbidden."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:137
+#, qt-format
+msgctxt "QObject|"
+msgid "Project file '%1' does not exist."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:146
+#, qt-format
+msgctxt "QObject|"
+msgid "Invalid format of project URL '%1'."
+msgstr ""
+
+#: tools/cutehmi.daemon.1/src/main.cpp:148
+msgctxt "QObject|"
+msgid "No project file has been specified."
+msgstr ""
+
+#: tools/cutehmi.view.2/qml/DefaultScreen.qml:6
+msgctxt "DefaultScreen|"
+msgid "Start application with --help option to see available options."
+msgstr ""
+
+#: tools/cutehmi.view.2/qml/ExtensionLoader.qml:26
+msgctxt "ExtensionLoader|"
+msgid "Reasons: "
+msgstr ""
+
+#: tools/cutehmi.view.2/qml/ExtensionLoader.qml:26
+msgctxt "ExtensionLoader|"
+msgid "Reason: "
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:92
+msgctxt "main|"
+msgid "Run application in full screen mode."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:95
+msgctxt "main|"
+msgid "Override loader and specify initial QML <file> to load."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:95
+msgctxt "main|"
+msgid "file"
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:106
+msgctxt "main|"
+msgid "Load extension specified by QML <import>."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:106
+msgctxt "main|"
+msgid "import"
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:115
+msgctxt "main|"
+msgid "Extension component <name>."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:115
+msgctxt "main|"
+msgid "name"
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:126
+msgctxt "main|"
+msgid "Touch screen (hides mouse cursor)."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:129
+msgctxt "main|"
+msgid "Set Qt Quick <style>."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:129
+msgctxt "main|"
+msgid "style"
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:191 tools/cutehmi.view.2/src/main.cpp:193
+#: tools/cutehmi.view.2/src/main.cpp:195
+#, qt-format
+msgctxt "QObject|"
+msgid ""
+"You can not use '%1' option, because 'forceDefaultOptions' option has been "
+"set during compilation time."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:229
+#, qt-format
+msgctxt "QObject|"
+msgid "QML file '%1' does not exist."
+msgstr ""
+
+#: tools/cutehmi.view.2/src/main.cpp:234
+#, qt-format
+msgctxt "QObject|"
+msgid "Invalid format of QML file URL '%1'."
+msgstr ""

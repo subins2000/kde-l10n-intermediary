@@ -1,0 +1,42 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-05-20 01:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: utils/plasma-runner-installer/plasma-runner-installer.desktop:2
+msgctxt "Name"
+msgid "Installer"
+msgstr ""
+
+#: utils/plasma-runner-installer/plasma-runner-installer.desktop:48
+msgctxt "Comment"
+msgid "Suggests the installation of not-installed applications"
+msgstr ""
+
+#: utils/qapt-deb-installer/qapt-deb-installer.desktop:2
+msgctxt "Name"
+msgid "QApt Package Installer"
+msgstr ""
+
+#: utils/qapt-deb-installer/qapt-deb-installer.desktop:47
+msgctxt "GenericName"
+msgid "Package Installer"
+msgstr ""
+
+#: utils/qapt-deb-installer/qapt-deb-installer.desktop:92
+msgctxt "Comment"
+msgid "Install and view software packages"
+msgstr ""
+
+#: utils/qapt-deb-thumbnailer/debthumbnailer.desktop:3
+msgctxt "Name"
+msgid "Debian Package Files"
+msgstr ""

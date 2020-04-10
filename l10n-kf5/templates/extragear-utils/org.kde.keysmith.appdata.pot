@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-01-30 02:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. (itstool) path: component/name
+#: org.kde.keysmith.appdata.xml:4
+msgid "Keysmith"
+msgstr ""
+
+#. (itstool) path: component/summary
+#: org.kde.keysmith.appdata.xml:14
+msgid "Two-factor code generator for Plasma Mobile and Desktop"
+msgstr ""
+
+#. (itstool) path: component/developer_name
+#: org.kde.keysmith.appdata.xml:15
+msgid "KDE Community"
+msgstr ""
+
+#. (itstool) path: description/p
+#: org.kde.keysmith.appdata.xml:17
+msgid "Keysmith generates tokens for your two-factor logins (2FA)"
+msgstr ""
+
+#. (itstool) path: ul/li
+#: org.kde.keysmith.appdata.xml:19
+msgid "Time and Hash-based OTP"
+msgstr ""
